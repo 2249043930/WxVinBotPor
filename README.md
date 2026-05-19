@@ -805,9 +805,10 @@ python init_db.py
 
 ## 📞 联系方式
 
-- 项目主页：https://github.com/your-repo/WxVinBot
-- 问题反馈：https://github.com/your-repo/WxVinBot/issues
-- 邮箱：support@wxvinbot.com
+- 项目主页：`https://github.com/2249043930/WxVinBotPor`
+- 问题反馈：`https://github.com/2249043930/WxVinBotPor/issues`
+- 邮箱：2249043930@qq.com
+- 电话：18071354053
 
 ---
 
