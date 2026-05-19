@@ -96,3 +96,12 @@ config.local.yml
 # Database dumps
 *_backup.sql
 *_dump.sql
+
+# Sensitive files
+*.pdf
+api_info.txt
+*接口信息*
+*api_info*
+*secret*
+*password*
+*key*
