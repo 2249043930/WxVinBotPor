@@ -1,0 +1,244 @@
+[2026-05-08 21:53:27.988] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-08 21:53:27.988] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-08 21:53:27.988] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-08 21:53:27.988] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-08 21:53:28.366] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-08 21:53:28.373] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-08 21:53:51.295] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-08 21:53:52.731] 框架 | 提示 | 微信启动成功[ZCkoXLfpKrTjGNcR.dll]，端口[7506]，等待登录...
+[2026-05-08 21:53:53.182] 框架 | 提示 | 注入成功，端口[7506]，pid[38496]
+[2026-05-08 22:05:20.337] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7506]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-08 22:05:20.337] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-08 22:16:43.547] 框架 | 提示 | [WebSocket客户端]连接中，请稍等...
+[2026-05-08 22:17:13.782] 框架 | 错误 | [WebSocket客户端]连接失败
+[2026-05-08 22:20:41.317] wxid_9a4u1rk4w34422 | 收到私聊 | gh_0b8b25c6eeee：<msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[智能体还能“狂飙”吗？新规来了]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650422547&idx=1&sn=15d26deb71ce27c74310fa91d4c8178f&chksm=f51af2eb063d430fe76a3b21c9bb10bc71dc1bce708ebee9ce66d0a2ffd26d0c2c7573c1ea1f&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[金融时报]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wIhOiciaKgXzdXrEQ2bJ2iaO9eyFhLYGc7dH0JICOT9SHJvQE9vZMWuaS3n2yRBiaw3cdKwmrzpicou4MZibxy6IrTcGUk0ZIdLd1cd8/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[智能体还能“狂飙”吗？新规来了]]></title>
+                    <title_v2><![CDATA[智能体还能“狂飙”吗？新规来了]]></title_v2>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650422547&idx=1&sn=15d26deb71ce27c74310fa91d4c8178f&chksm=f5c87ece392396f1639df432fd54ec801866dc0f8c6079867174058ea3e28f13f16a7ae6067a&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1778249639</pub_time>
+                    <summary><![CDATA[近两年来，AI赛道持续火热。大模型之争尚未结束，智能体竞赛强势接棒。从手机助手一键完成复杂操作，到医疗影像智能体辅助诊断，智能体正从概念走向现实，开启AI从“能聊天”到“能干活”的全新纪元。就在市场狂]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wIhOiciaKgXzdXrEQ2bJ2iaO9eyFhLYGc7dH0JICOT9SHJvQE9vZMWuaS3n2yRBiaw3cdKwmrzpicou4MZibxy6IrTcGUk0ZIdLd1cd8/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>0</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[金融时报]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>4507322708631584768</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wIhOiciaKgXzdXrEQ2bJ2iaO9eyFhLYGc7dH0JICOT9SHJvQE9vZMWuaS3n2yRBiaw3cdKwmrzpicou4MZibxy6IrTcGUk0ZIdLd1cd8/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wLnWgaz5NcwZ8nsQ37nR2mjrboNHLdRullKa5YYscy2ibNnzzvV7JLNTFCVpp9Ria8W6Emlpj0dKUTSibHmbCpJnrW4dy7MKRp7dQ/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                    <product_activity>
+                        <activity_type></activity_type>
+                        <activity_tag><![CDATA[]]></activity_tag>
+                        <activity_content><![CDATA[]]></activity_content>
+                    </product_activity>
+                    <has_redpacket_cover_v2>0</has_redpacket_cover_v2>
+                    <has_gift_activity>0</has_gift_activity>
+                    <mall_activity>
+                        <mall_id></mall_id>
+                        <mall_version></mall_version>
+                        <ecs_jump_info_base64><![CDATA[]]></ecs_jump_info_base64>
+                        <mall_tag><![CDATA[]]></mall_tag>
+                        <mall_product_cnt></mall_product_cnt>
+                    </mall_activity>
+                    <preload_picture_info>
+				        
+			        </preload_picture_info>
+                    <share_cover>
+                        <cdn_url><![CDATA[]]></cdn_url>
+                        <width></width>
+                        <height></height>
+                    </share_cover>
+                    <cover_3_4><![CDATA[]]></cover_3_4>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_0b8b25c6eeee]]></username>
+                <nickname><![CDATA[金融时报]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wIhOiciaKgXzdXrEQ2bJ2iaO9eyFhLYGc7dH0JICOT9SHJvQE9vZMWuaS3n2yRBiaw3cdKwmrzpicou4MZibxy6IrTcGUk0ZIdLd1cd8/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_0b8b25c6eeee]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[金融时报]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2026-05-08 22:21:05.895] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\8671b53829dad85f5f2cd39936189b83.jpg,isDecrypt=1]
+[2026-05-08 22:30:52.222] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\82ae73ebc20321982fa30d97a4ef91da.jpg,isDecrypt=1]
+[2026-05-08 22:57:44.104] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="functionmsg">
+<functionmsg>
+<cgi>/cgi-bin/micromsg-bin/pullfunctionmsg</cgi>
+<cmdid>614</cmdid>
+<functionmsgid>MMKANYIKAN_JINGXUANREDDOT_1778249100</functionmsgid>
+<retryinterval>150</retryinterval>
+<retrycount>3</retrycount>
+<custombuff>YIqkAXIKMTc3ODI0OTEwMHoGd2VpeGluigEkTU1LQU5ZSUtBTl9KSU5HWFVBTlJFRERPVF8xNzc4MjQ5MTAwqgFsVjVhL1Fpa01MUGp6ZFRsd3FuRnRqRlRjNEJVcE01MWxqd1RRQmh0Sml4UXpQRDVNOEVKNmV0RXdGK0kyWkhza044QVRtcEJEVFZSb2hYNjQwZWF0SytvZjVIdTgxVDNqQWtlc1I4SHRxbVU9</custombuff>
+<businessid>21002</businessid>
+<actiontime>1778248801</actiontime>
+<functionmsgversion>2</functionmsgversion>
+</functionmsg>
+</sysmsg>
+[2026-05-08 22:57:44.236] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\171f3a983301f8eccf3f0114f59a84c6.jpg,isDecrypt=1]
+[2026-05-08 23:02:31.243] 框架 | 提示 | [WebSocket客户端]连接中，请稍等...
+[2026-05-08 23:03:01.447] 框架 | 错误 | [WebSocket客户端]连接失败
+[2026-05-08 23:03:18.897] 框架 | 提示 | [WebSocket客户端]连接中，请稍等...
+[2026-05-08 23:03:49.129] 框架 | 错误 | [WebSocket客户端]连接失败
+[2026-05-08 23:27:06.043] 框架 | 提示 | [WebSocket客户端]连接中，请稍等...
+[2026-05-08 23:27:36.163] 框架 | 错误 | [WebSocket客户端]连接失败
+[2026-05-08 23:36:46.119] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2d105cd94b63af6fcc908d118a7d22de.jpg,isDecrypt=1]
+[2026-05-08 23:41:45.271] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-08 23:43:30.052] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\eceab0dd9bccdd0ffc1e6db6896486f0.jpg,isDecrypt=1]
+[2026-05-08 23:46:11.917] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：@【汽配排名】彭彭彭客服（最优价）
+
+@汽配链」排名齐心15683692999张洲
+
+=====★车辆信息★=====
+
+车架：LJXCMDFC7JTV28128
+
+厂商：江铃福特
+
+车型：全顺 2017款 2.0T柴油多功能商用车中轴中顶国V
+
+排量：2.0T
+
+询货人：Muke～
+
+补充信息：
+
+    \u2B50发动机型号：DURATORQ4D205L
+
+    \u2B50车辆类型：轻客
+
+    \u2B50变速箱类型：手动变速箱(MT)
+
+    \u2B50前轮尺寸：● 215/75 R16LT
+
+    \u2B50后轮尺寸：● 215/75 R16LT
+
+温馨建议：
+
+    \u2B50机油用量：6.3L
+
+    \u2B50机油粘度：5W-30
+
+    \u2B50机油等级：全合成
+
+    \u2B50Level：SP
+
+\u25B6\u25B6\u25B6您有新的订单！请核对车架号尽快群内报价（注意\u26A0\uFE0F：报价格式请体现：品质，价格，质保时间）（注意\u26A0\uFE0F：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-04-08 23:01:12
+[2026-05-08 23:46:13.679] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+未查询到车架号 15683692999LJXCMD 的相关信息，请检查车架号是否正确。
+[2026-05-08 23:51:54.077] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-08 23:52:20.547] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-09 05:10:50.921] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2

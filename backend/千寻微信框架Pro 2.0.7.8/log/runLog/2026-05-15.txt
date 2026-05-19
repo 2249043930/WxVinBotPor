@@ -1,0 +1,350 @@
+[2026-05-15 22:32:10.063] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-15 22:32:10.063] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-15 22:32:10.063] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-15 22:32:10.063] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-15 22:32:10.497] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-15 22:32:10.505] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-15 22:32:14.640] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-15 22:32:16.261] 框架 | 提示 | 微信启动成功[hWnygRnXzprq6v2s.dll]，端口[7677]，等待登录...
+[2026-05-15 22:32:16.780] 框架 | 提示 | 注入成功，端口[7677]，pid[35084]
+[2026-05-15 22:33:37.606] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7677]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-15 22:33:37.606] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-15 22:35:36.327] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-15 22:40:30.921] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-15 22:44:27.260] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-15 22:45:09.035] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5e73073a71aaa44683e433fafc44d803.jpg,isDecrypt=1]
+[2026-05-15 22:45:12.958] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+@【汽配排名】彭彭彭客服（最优价）
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：WBAVL310XCVS16391
+
+厂商：宝马(进口)
+
+车型：宝马X1(进口) 2012款 sDrive18i豪华型
+
+排量：2.0L
+
+询货人：Muke～
+
+补充信息：
+
+    ★发动机型号：N46B20CC
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 225/50 R17
+
+    ★后轮尺寸：● 225/50 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-15 22:45:12
+[2026-05-15 22:45:13.102] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：WBAVL310XCVS16391，车型：宝马X1(进口) 2012款 sDrive18i豪华型，请查看报价
+[2026-05-15 22:47:29.772] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：@Muke～\u2005保险杠5000元
+[2026-05-15 22:48:25.333] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2
+[2026-05-15 22:49:00.387] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：3
+[2026-05-15 22:50:41.836] wxid_9a4u1rk4w34422 | 发出私聊 | 【发送】wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\85099d54d692e3bdb6cc97db4bcf587b.jpg,isDecrypt=1]
+[2026-05-15 22:51:15.417] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b318b917d8d9d26b6ee4c64f6b360368.jpg,isDecrypt=1]
+[2026-05-15 22:51:19.836] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+@【汽配排名】彭彭彭客服（最优价）
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LNAAHAA23P5801478
+
+厂商：埃安
+
+车型：AION S Plus 2023款 70 乐享版 磷酸铁锂
+
+排量：None
+
+询货人：Muke～
+
+补充信息：
+
+    ★发动机型号：
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：固定齿比变速箱
+
+    ★前轮尺寸：● 215/55 R17
+
+    ★后轮尺寸：● 215/55 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-15 22:51:19
+[2026-05-15 22:51:19.994] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LNAAHAA23P5801478，车型：AION S Plus 2023款 70 乐享版 磷酸铁锂，请查看报价
+[2026-05-15 22:53:26.997] wxid_9a4u1rk4w34422 | 发出私聊 | 【发送】wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2724937b7221166eeb2bbf894cd50eb7.jpg,isDecrypt=1]
+[2026-05-15 22:53:34.917] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="functionmsg">
+<functionmsg>
+<cgi>/cgi-bin/micromsg-bin/pullfunctionmsg</cgi>
+<cmdid>614</cmdid>
+<functionmsgid>MMKANYIKAN_JINGXUANREDDOT_1778853900</functionmsgid>
+<retryinterval>150</retryinterval>
+<retrycount>3</retrycount>
+<custombuff>YIqkAXIKMTc3ODg1MzkwMHoGd2VpeGluigEkTU1LQU5ZSUtBTl9KSU5HWFVBTlJFRERPVF8xNzc4ODUzOTAwqgFsVDVuTUwzSENkMUV3RTdNMk9RQVVQSC9WeXVuVGc1UHRsZUdGYXlIWGtpVkc5eHdoNnVGMTBPa3AwVUF1am5OQjNXalk5eGF4TjRHOXdOUEpwUlh5bkN5Q3JGMDZIODN6ZmhuU1JSOGZjV3c9</custombuff>
+<businessid>21002</businessid>
+<actiontime>1778853601</actiontime>
+<functionmsgversion>2</functionmsgversion>
+</functionmsg>
+</sysmsg>
+[2026-05-15 22:53:35.226] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\7c6e7b979e5f862e62d69677358a4d27.jpg,isDecrypt=1]
+[2026-05-15 22:55:56.764] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：3
+[2026-05-15 23:03:01.436] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：4
+[2026-05-15 23:03:37.873] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：4
+[2026-05-15 23:04:08.489] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：5
+[2026-05-15 23:04:16.630] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\bade9e04a120ede5ecf37d3b203abfed.jpg,isDecrypt=1]
+[2026-05-15 23:04:41.438] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a0d46a4c65b43f3cc87150563c108e8e.jpg,isDecrypt=1]
+[2026-05-15 23:04:49.320] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+@【汽配排名】彭彭彭客服（最优价）
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：WBAVL310XCVS16391
+
+厂商：宝马(进口)
+
+车型：宝马X1(进口) 2012款 sDrive18i豪华型
+
+排量：2.0L
+
+询货人：Muke～
+
+补充信息：
+
+    ★发动机型号：N46B20CC
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 225/50 R17
+
+    ★后轮尺寸：● 225/50 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-15 23:04:48
+[2026-05-15 23:04:49.462] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：WBAVL310XCVS16391，车型：宝马X1(进口) 2012款 sDrive18i豪华型，请查看报价
+[2026-05-15 23:06:15.529] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d71fd7f6cdafd18f71e00e55b26c1158.jpg,isDecrypt=1]
+[2026-05-15 23:06:18.403] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+@【汽配排名】彭彭彭客服（最优价）
+
+@汽配链」排名齐心15683692999张洲
+
+
+
+=====★车辆信息★=====
+
+车架：LVZZU3P96NC033578
+
+厂商：东风小康
+
+车型：风光500 2022款 1.5L CVT悦享型
+
+排量：1.5L
+
+询货人：Muke～
+
+补充信息：
+
+    ★发动机型号：SFG15A
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：无级变速箱(CVT)
+
+    ★前轮尺寸：● 205/65 R16
+
+    ★后轮尺寸：● 205/65 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-15 23:06:18
+[2026-05-15 23:06:18.654] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-15 23:06:18.794] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@汽配链」排名齐心15683692999张洲
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-15 23:09:25.442] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43233498187@chatroom）wxid_g9dk8qunyi4a21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\8239f518608ae9b48bb7041e54cd04ec.jpg,isDecrypt=1]
+[2026-05-15 23:09:26.283] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43233498187@chatroom）wxid_g9dk8qunyi4a21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5fb52454fd1d4176ce5021b5762309a1.jpg,isDecrypt=1]
+[2026-05-15 23:09:35.874] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43233498187@chatroom）wxid_g9dk8qunyi4a21：明天报价一下，左前外拉手
+[2026-05-15 23:13:58.144] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：5
+[2026-05-15 23:14:04.728] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：6
+[2026-05-15 23:24:13.315] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：6
+[2026-05-15 23:24:25.928] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）47645357511@chatroom：<sysmsg type="subscribesysmsg">
+        <subscribesysmsg>
+                        <content_template type="tmpl_type_wxappsubscribenotify">
+                                <plain><![CDATA[]]></plain>
+                                <template><![CDATA[已开始，进入$wxaapp_view$]]></template>
+                                <link_list>
+                                        <link name="wxaapp_view" type="link_jump_wxapp">
+                                        <title><![CDATA["微乐四川麻将"]]></title>
+                                        <appid><![CDATA[d3hjOWFmNzFjMTA5NTU5MmZj]]></appid>
+                                        <username><![CDATA[gh_5fb4daf6b067@app]]></username>
+                                        <path><![CDATA[]]></path>
+                                        <type><![CDATA[0]]></type>
+                                        <wxaapp_type><![CDATA[1]]></wxaapp_type>
+                                        <share_key><![CDATA[yr3rSPk0rKNhnd8LTSV5BI-r5_cSHJxdJ4uy93R6p5PXZOG6IzjBBBf3aKUnKjMFf86SOre4-K3bVl7HklrXaTQMSi-zkMkCIydVGLSWkAc~]]></share_key>
+                                        <forbids><![CDATA[1]]></forbids>
+                                        <nickname><![CDATA[微乐四川麻将]]></nickname>
+                                        <updatable_msg_type><![CDATA[]]></updatable_msg_type>
+                                        </link>
+                                </link_list>
+                        </content_template>
+                </subscribesysmsg>
+</sysmsg>
+[2026-05-15 23:27:01.888] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：7
+[2026-05-15 23:28:15.852] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：7
+[2026-05-15 23:29:48.276] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：8
+[2026-05-15 23:34:57.049] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：8
+[2026-05-15 23:36:28.895] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：9
+[2026-05-15 23:38:32.249] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：100元
+[2026-05-15 23:38:54.410] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：成交
+[2026-05-15 23:39:04.900] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：已付款
+[2026-05-15 23:40:00.534] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：9
+[2026-05-15 23:40:07.366] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：10
+[2026-05-15 23:42:14.861] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\cf9ae906670b8d105d8e2ec2db7e7edf.jpg,isDecrypt=1]
+[2026-05-15 23:42:18.155] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+@【汽配排名】彭彭彭客服（最优价）
+
+@汽配链」排名齐心15683692999张洲
+
+
+
+=====★车辆信息★=====
+
+车架：LVZZU3P96NC033578
+
+厂商：东风小康
+
+车型：风光500 2022款 1.5L CVT悦享型
+
+排量：1.5L
+
+询货人：Muke～
+
+补充信息：
+
+    ★发动机型号：SFG15A
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：无级变速箱(CVT)
+
+    ★前轮尺寸：● 205/65 R16
+
+    ★后轮尺寸：● 205/65 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-15 23:42:17
+[2026-05-15 23:42:18.296] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-15 23:42:18.517] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@汽配链」排名齐心15683692999张洲
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-15 23:42:25.200] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：100元
+[2026-05-15 23:42:25.976] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～ 您好，您的询价（车型：风光500 2022款 1.5L CVT悦享型）已有报价，请查看。
+[2026-05-15 23:42:46.024] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：成交
+[2026-05-15 23:43:09.106] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：早日发货
+[2026-05-15 23:43:09.869] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～ 您好，您的询价（车型：风光500 2022款 1.5L CVT悦享型）已发货，请注意查收。
+[2026-05-15 23:43:17.596] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：已付款
+[2026-05-15 23:43:18.479] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～ 您好，您的询价（车型：风光500 2022款 1.5L CVT悦享型）已成交，感谢您的支持！
+[2026-05-15 23:43:29.336] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：<sysmsg type="revokemsg"><revokemsg><session>43345253685@chatroom</session><msgid>830470529</msgid><newmsgid>2448760519613835901</newmsgid><replacemsg><![CDATA["Muke～" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2026-05-15 23:50:16.063] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：10
+[2026-05-15 23:54:16.901] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：11
+[2026-05-16 00:35:46.636] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：11
+[2026-05-16 00:35:48.393] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：12
+[2026-05-16 00:37:56.232] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：12
+[2026-05-16 00:37:57.483] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：13
+[2026-05-16 00:38:20.629] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：14
+[2026-05-16 00:40:21.414] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：13
+[2026-05-16 00:40:45.868] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：14

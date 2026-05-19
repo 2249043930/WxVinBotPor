@@ -1,0 +1,200 @@
+[2026-04-15 21:12:54.521] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-04-15 21:12:54.521] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-04-15 21:12:54.521] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-04-15 21:12:54.521] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-04-15 21:12:54.883] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-04-15 21:12:54.888] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-04-15 21:13:02.557] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-04-15 21:13:03.944] 框架 | 提示 | 微信启动成功[Dk1fVaIz8iSm1oRF.dll]，端口[7266]，等待登录...
+[2026-04-15 21:13:04.326] 框架 | 提示 | 注入成功，端口[7266]，pid[24408]
+[2026-04-15 21:13:25.750] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:13:25.765] 框架 | 账号上线 | 微信账号上线，昵称[Muke～]，wxid[wxid_nwrplpmxrwyq22]，端口[7266]，授权到期时间[2026-04-08 13:24:39]
+[2026-04-15 21:13:25.765] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-04-15 21:14:31.612] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:14:34.515] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:14:34.532] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:14:39.841] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:14:49.619] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:00.516] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:00.724] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:13.955] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:29.915] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:45.662] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:45.829] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:48.638] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:54.039] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:15:54.237] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-04-15 21:16:36.498] 框架 | 账号下线 | 微信账号下线，wxid[wxid_nwrplpmxrwyq22]，端口[7266]
+[2026-04-15 21:16:39.257] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-04-15 21:16:40.411] 框架 | 提示 | 微信启动成功[FJMHhlqEvEsIM1lB.dll]，端口[7519]，等待登录...
+[2026-04-15 21:16:40.609] 框架 | 提示 | 注入成功，端口[7519]，pid[24520]
+[2026-04-15 21:17:51.089] 框架 | 提示 | Rick汽配链APP机器人(wxid_9a4u1rk4w34422)的授权已到期，请续费后使用，到期时间：2026-04-08 21:37:28
+[2026-04-15 21:17:51.106] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7519]，授权到期时间[2026-04-08 21:37:28]
+[2026-04-15 21:17:51.106] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-04-15 21:20:28.931] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7519]
+[2026-04-15 21:20:29.530] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-04-15 21:20:30.495] 框架 | 提示 | 微信启动成功[2av9amHhGM0cLDg5.dll]，端口[7109]，等待登录...
+[2026-04-15 21:20:30.698] 框架 | 提示 | 注入成功，端口[7109]，pid[24612]
+[2026-04-15 21:22:09.457] 框架 | 提示 | Rick汽配链APP机器人(wxid_9a4u1rk4w34422)的授权已到期，请续费后使用，到期时间：2026-04-08 21:37:28
+[2026-04-15 21:22:09.481] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7109]，授权到期时间[2026-04-08 21:37:28]
+[2026-04-15 21:22:09.481] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-04-15 21:50:06.897] wxid_9a4u1rk4w34422 | 收到私聊 | gh_0b8b25c6eeee：<msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[玩灯，川南小城没对手]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650420791&idx=1&sn=3912939591ad3cb5e3ed6d22a40c145e&chksm=f5ac709db8d57d35f70ac810dda13582ef1c782484ac322af797786370210fe7016d374ef0e1&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[金融时报]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKFic4xjjgyHhD1bFLcpY82djyI8TlbMjqftk4bgjicGoIFktr9ELdvDOzAxOf0Bf5tUEjhRFRuruwQibR9vhtRiaQ8dPsb14LencY/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[玩灯，川南小城没对手]]></title>
+                    <title_v2><![CDATA[玩灯，川南小城没对手]]></title_v2>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650420791&idx=1&sn=3912939591ad3cb5e3ed6d22a40c145e&chksm=f59978eb0d4f5ea14db9076770276ff3f54ffc4b1ff239e1e98bb762b8c04b70759b2ce8ab9d&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1776260646</pub_time>
+                    <summary><![CDATA[走在自贡的街头，树枝缀满流光、路灯缠绕灯串，就连街边的绿植间，也藏着各式彩灯，一步一景，目之所及皆是光影流转，把整座城市都浸润在温柔又鲜活的灯火里。作为中国四大灯会之首，自贡灯会始于唐宋、兴于明清，以]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKFic4xjjgyHhD1bFLcpY82djyI8TlbMjqftk4bgjicGoIFktr9ELdvDOzAxOf0Bf5tUEjhRFRuruwQibR9vhtRiaQ8dPsb14LencY/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>0</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[金融时报]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>4473952935244038146</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKFic4xjjgyHhD1bFLcpY82djyI8TlbMjqftk4bgjicGoIFktr9ELdvDOzAxOf0Bf5tUEjhRFRuruwQibR9vhtRiaQ8dPsb14LencY/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKGW2bQdJRcDTf5OzbQqoEnicSQViaYe9cpvhicyRJhHKRl773HYMLpNk0fZeQRK8B32yeRibbhDj0LsfTEsdUXMVAJcINmKCK6oL8/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                    <product_activity>
+                        <activity_type></activity_type>
+                        <activity_tag><![CDATA[]]></activity_tag>
+                        <activity_content><![CDATA[]]></activity_content>
+                    </product_activity>
+                    <has_redpacket_cover_v2>0</has_redpacket_cover_v2>
+                    <has_gift_activity>0</has_gift_activity>
+                    <mall_activity>
+                        <mall_id></mall_id>
+                        <mall_version></mall_version>
+                        <ecs_jump_info_base64><![CDATA[]]></ecs_jump_info_base64>
+                        <mall_tag><![CDATA[]]></mall_tag>
+                        <mall_product_cnt></mall_product_cnt>
+                    </mall_activity>
+                    <preload_picture_info>
+				        
+			        </preload_picture_info>
+                    <share_cover>
+                        <cdn_url><![CDATA[]]></cdn_url>
+                        <width></width>
+                        <height></height>
+                    </share_cover>
+                    <cover_3_4><![CDATA[]]></cover_3_4>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_0b8b25c6eeee]]></username>
+                <nickname><![CDATA[金融时报]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKFic4xjjgyHhD1bFLcpY82djyI8TlbMjqftk4bgjicGoIFktr9ELdvDOzAxOf0Bf5tUEjhRFRuruwQibR9vhtRiaQ8dPsb14LencY/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_0b8b25c6eeee]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[金融时报]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2026-04-15 22:17:52.623] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7109]

@@ -1,0 +1,135 @@
+@import './variables.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;
+  font-size: 14px;
+  color: var(--text-primary);
+  background-color: var(--bg-base);
+}
+
+#app {
+  height: 100%;
+}
+
+/* 通用布局 */
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* 边距 */
+.m-xs { margin: var(--spacing-xs); }
+.m-sm { margin: var(--spacing-sm); }
+.m-md { margin: var(--spacing-md); }
+.m-lg { margin: var(--spacing-lg); }
+.m-xl { margin: var(--spacing-xl); }
+
+.p-xs { padding: var(--spacing-xs); }
+.p-sm { padding: var(--spacing-sm); }
+.p-md { padding: var(--spacing-md); }
+.p-lg { padding: var(--spacing-lg); }
+.p-xl { padding: var(--spacing-xl); }
+
+/* 卡片样式 */
+.card {
+  background: var(--bg-white);
+  border-radius: var(--border-radius-large);
+  box-shadow: var(--shadow-base);
+  padding: var(--card-padding);
+}
+
+/* 页面容器 */
+.page-container {
+  padding: var(--content-padding);
+}
+
+/* 表格操作栏 */
+.table-operations {
+  margin-bottom: var(--spacing-md);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* 搜索表单 */
+.search-form {
+  background: var(--bg-white);
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius-base);
+  margin-bottom: var(--spacing-md);
+}
+
+/* 状态标签 */
+.status-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: var(--border-radius-base);
+  font-size: 12px;
+}
+
+.status-success {
+  background-color: #f0f9eb;
+  color: var(--success-color);
+}
+
+.status-warning {
+  background-color: #fdf6ec;
+  color: var(--warning-color);
+}
+
+.status-danger {
+  background-color: #fef0f0;
+  color: var(--danger-color);
+}
+
+.status-info {
+  background-color: #f4f4f5;
+  color: var(--info-color);
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-base);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}

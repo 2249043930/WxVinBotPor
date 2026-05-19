@@ -1,0 +1,6 @@
+# 启动前端
+cd "d:\Client Projects\WxVinBot Por\frontend" ; npm run dev
+
+
+# 启动后端
+cd "d:\Client Projects\WxVinBot Por\backend" ; .\venv\Scripts\python -m app.main

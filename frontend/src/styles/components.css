@@ -1,0 +1,210 @@
+@import './variables.css';
+
+/* 分页组件 */
+.pagination-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: var(--spacing-md) 0;
+}
+
+/* 搜索表单组件 */
+.search-form-container {
+  background: var(--bg-white);
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius-base);
+  margin-bottom: var(--spacing-md);
+}
+
+.search-form-container .el-form-item {
+  margin-bottom: 0;
+}
+
+/* 数据表格组件 */
+.data-table-container {
+  background: var(--bg-white);
+  border-radius: var(--border-radius-base);
+  padding: var(--spacing-md);
+}
+
+.data-table-container .el-table {
+  margin-top: var(--spacing-md);
+}
+
+/* 统计卡片 */
+.stat-card {
+  background: var(--bg-white);
+  border-radius: var(--border-radius-large);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-base);
+}
+
+.stat-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+}
+
+.stat-card-title {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.stat-card-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--border-radius-base);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.stat-card-value {
+  font-size: 28px;
+  font-weight: bold;
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.stat-card-footer {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.stat-card-trend {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.stat-card-trend.up {
+  color: var(--success-color);
+}
+
+.stat-card-trend.down {
+  color: var(--danger-color);
+}
+
+/* 图表卡片 */
+.chart-card {
+  background: var(--bg-white);
+  border-radius: var(--border-radius-large);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-base);
+}
+
+.chart-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+}
+
+.chart-card-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.chart-card-body {
+  height: 300px;
+}
+
+/* 登录页面样式 */
+.login-page {
+  height: 100vh;
+  display: flex;
+}
+
+.login-left {
+  flex: 1;
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  padding: var(--spacing-xl);
+}
+
+.login-brand {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: var(--spacing-md);
+}
+
+.login-desc {
+  font-size: 18px;
+  opacity: 0.9;
+  text-align: center;
+  max-width: 400px;
+  line-height: 1.6;
+}
+
+.login-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-base);
+}
+
+.login-box {
+  width: 400px;
+  background: var(--bg-white);
+  border-radius: var(--border-radius-large);
+  box-shadow: var(--shadow-light);
+  padding: var(--spacing-xl);
+}
+
+.login-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+  color: var(--text-primary);
+}
+
+.login-form .el-input__wrapper {
+  padding: 4px 11px;
+}
+
+.login-form .el-input__inner {
+  height: 40px;
+}
+
+.login-btn {
+  width: 100%;
+  height: 44px;
+  font-size: 16px;
+  background: linear-gradient(135deg, #409EFF 0%, #337ECC 100%);
+  border: none;
+}
+
+.login-btn:hover {
+  background: linear-gradient(135deg, #66b1ff 0%, #409EFF 100%);
+}
+
+.captcha-input {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.captcha-img {
+  width: 120px;
+  height: 40px;
+  border-radius: var(--border-radius-base);
+  cursor: pointer;
+  background-color: var(--bg-base);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--text-primary);
+  letter-spacing: 4px;
+}

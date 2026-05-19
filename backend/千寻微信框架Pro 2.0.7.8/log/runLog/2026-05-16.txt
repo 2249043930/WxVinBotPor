@@ -1,0 +1,2344 @@
+[2026-05-16 00:44:33.006] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-16 00:44:33.006] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-16 00:44:33.006] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-16 00:44:33.006] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-16 00:44:33.041] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-16 00:44:33.046] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-16 00:44:41.507] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-16 00:44:43.080] 框架 | 提示 | 微信启动成功[BH9w04v8BxaQ9FOL.dll]，端口[7443]，等待登录...
+[2026-05-16 00:44:43.429] 框架 | 提示 | 注入成功，端口[7443]，pid[13024]
+[2026-05-16 00:44:49.901] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7443]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-16 00:44:49.901] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-16 00:46:16.118] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7443]
+[2026-05-16 00:46:18.886] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-16 00:46:20.071] 框架 | 提示 | 微信启动成功[rKhULGUoEXNmev0Y.dll]，端口[7855]，等待登录...
+[2026-05-16 00:46:20.283] 框架 | 提示 | 注入成功，端口[7855]，pid[37148]
+[2026-05-16 00:46:26.819] 框架 | 提示 | 检测到微信退出，端口[7855]，pid[37148]
+[2026-05-16 00:47:14.202] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-16 00:47:15.373] 框架 | 提示 | 微信启动成功[2GZgCimz3fwgVz14.dll]，端口[7674]，等待登录...
+[2026-05-16 00:47:15.550] 框架 | 提示 | 注入成功，端口[7674]，pid[8384]
+[2026-05-16 00:47:21.875] 框架 | 提示 | 检测到微信退出，端口[7674]，pid[8384]
+[2026-05-16 00:48:18.561] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-16 00:48:18.561] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-16 00:48:18.561] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-16 00:48:18.561] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-16 00:48:18.591] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-16 00:48:18.596] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-16 00:48:22.054] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-16 00:48:23.223] 框架 | 提示 | 微信启动成功[orkR7MrFw1FTaaya.dll]，端口[7568]，等待登录...
+[2026-05-16 00:48:23.385] 框架 | 提示 | 注入成功，端口[7568]，pid[31212]
+[2026-05-16 00:48:29.687] 框架 | 提示 | 检测到微信退出，端口[7568]，pid[31212]
+[2026-05-16 23:31:42.589] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-16 23:31:42.589] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-16 23:31:42.589] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-16 23:31:42.589] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-16 23:31:42.964] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-16 23:31:42.971] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-16 23:31:58.706] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-16 23:32:00.748] 框架 | 提示 | 微信启动成功[IYj8SqK3suGEfmaf.dll]，端口[7987]，等待登录...
+[2026-05-16 23:32:01.284] 框架 | 提示 | 注入成功，端口[7987]，pid[29332]
+[2026-05-16 23:33:38.552] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7987]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-16 23:33:38.552] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-16 23:47:48.639] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-17 10:07:28.167] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7987]
+[2026-05-17 10:34:12.815] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 10:34:13.999] 框架 | 提示 | 微信启动成功[J4OpawipYKlenlVT.dll]，端口[7330]，等待登录...
+[2026-05-17 10:34:14.276] 框架 | 提示 | 注入成功，端口[7330]，pid[14044]
+[2026-05-17 10:34:21.034] 框架 | 提示 | 检测到微信退出，端口[7330]，pid[14044]
+[2026-05-17 10:34:22.976] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 10:34:24.198] 框架 | 提示 | 微信启动成功[jkeAeAhl8h6GuW4u.dll]，端口[7844]，等待登录...
+[2026-05-17 10:34:24.433] 框架 | 提示 | 注入成功，端口[7844]，pid[44720]
+[2026-05-17 10:35:11.949] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7844]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-17 10:35:11.950] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-17 10:35:30.934] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49137756169@chatroom）wxid_j3bytv85n05n12：@蒋伟19112298118\u2005
+[2026-05-17 10:36:30.606] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_712ybv7jhrvp22：裙边品牌订货180
+[2026-05-17 10:36:37.684] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_j3bytv85n05n12：@小韩18683048616\u2005
+[2026-05-17 10:36:55.719] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44863938800@chatroom）wxid_qf1rgug4cwl921：[握手][握手][握手]
+[2026-05-17 10:36:56.039] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_prj46tknsv8o22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\011ecba3103904e75d0781698c57d5e8.jpg,isDecrypt=1]
+[2026-05-17 10:37:08.985] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_prj46tknsv8o22：查一下右后外拉手
+[2026-05-17 10:37:56.402] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）："【汽配排名】彭彭彭客服（最优价）"邀请"^A昆明福恒瑞鑫别克雪佛兰福特吉普"加入了群聊
+[2026-05-17 10:38:03.614] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_j3bytv85n05n12：查一下右后外拉手
+[2026-05-17 10:38:04.451] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\1cdd5f7ef3aaa336cee625ee749631e1.jpg,isDecrypt=1]
+[2026-05-17 10:38:09.326] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_j3bytv85n05n12：@^A昆明福恒瑞鑫别克雪佛兰福特吉普\u2005
+[2026-05-17 10:38:10.422] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49137756169@chatroom）wxid_ziicgmmqsr0q12：好
+[2026-05-17 10:38:23.528] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49857451882@chatroom）wxid_4gmjxcwhd63522：@伟业达北汽 野马 昌河 哪吒 英致\u2005昨天那个车的颗粒捕捉器原厂的多少？
+[2026-05-17 10:39:26.751] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-17 10:39:42.954] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_tp7iilaqy22i21：马上
+[2026-05-17 10:40:11.727] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_4948169483022：@日产启辰英菲尼迪丰田本田重庆升达\u2005带油漆不
+[2026-05-17 10:40:12.808] wxid_9a4u1rk4w34422 | 收到群聊 | 群（18888561223@chatroom）wxid_s2ifyuzlfqdh22：暂时只要这个
+[2026-05-17 10:40:51.937] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_tp7iilaqy22i21：查一下右后外拉手  做漆的  35    麻面的  85
+[2026-05-17 10:41:11.200] wxid_9a4u1rk4w34422 | 收到群聊 | 群（18888561223@chatroom）wxid_gnar6rf1iwft22：哦
+[2026-05-17 10:41:18.096] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_j3bytv85n05n12：@车范儿\u2005
+[2026-05-17 10:41:43.287] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44968724619@chatroom）wxid_20wrgy8ntna622：发货
+[2026-05-17 10:42:14.368] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44968724619@chatroom）wxid_j3bytv85n05n12：@A0福特-重庆志邦17784758256已上班\u2005
+[2026-05-17 10:42:20.900] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44968724619@chatroom）wxid_j3bytv85n05n12：地址：永川致远汽修（永师路口店）吴志波
+电话：\u00A017772435551\u00A0
+
+
+物流：发迅捷
+[2026-05-17 10:42:27.624] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44968724619@chatroom）wxid_cmfqsghabw4k22：好
+[2026-05-17 10:42:37.445] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_712ybv7jhrvp22：这个原车应该是黑色的吧
+[2026-05-17 10:43:26.130] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_prj46tknsv8o22：漆就是白色嘛
+[2026-05-17 10:43:42.595] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44968724619@chatroom）wxid_cmfqsghabw4k22：XJAG919F479AC
+[2026-05-17 10:44:07.893] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：我问一下看
+[2026-05-17 10:44:57.783] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44863938800@chatroom）："【汽配排名】彭彭彭客服（最优价）"已成为新群主
+[2026-05-17 10:45:35.348] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44863938800@chatroom）wxid_qf1rgug4cwl921：@茂航\u2005 \u2005 感谢陈总一直以来的支持，汽配链app、小程序和本群专属报价群，用心为陈总服务，如有做得不好的地方还请多反馈及包涵，祝陈总、祝龙水茂航汽修:生意兴隆！一路长虹！财源广进！[抱拳][抱拳][抱拳]
+[2026-05-17 10:45:46.919] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49857451882@chatroom）wxid_7boq81d2woea22：稍等
+[2026-05-17 10:46:21.053] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_j3bytv85n05n12：@^A昆明福恒瑞鑫别克雪佛兰福特吉普\u2005
+[2026-05-17 10:46:24.719] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_j3bytv85n05n12：@车美居汽修-小高\u2005
+[2026-05-17 10:46:38.020] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49857451882@chatroom）wxid_7boq81d2woea22：5800原厂
+[2026-05-17 10:47:34.033] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45687546967@chatroom）wxid_tp7iilaqy22i21：要自己做漆的
+[2026-05-17 10:48:41.400] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_og68g5zc3gc522：后平衡杆胶套、前传动轴后面这个十子节、排气支管垫 前平衡杆胶套           后刹车片  后拉杆 空调格  空气格多少钱
+[2026-05-17 10:48:46.877] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_j3bytv85n05n12：@昆明邦驰皮卡江铃江淮陆风福田长城\u2005
+[2026-05-17 10:48:47.293] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_og68g5zc3gc522：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\7670ff00acf56966067a6c11e9014ce7.jpg,isDecrypt=1]
+[2026-05-17 10:48:52.156] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49857451882@chatroom）wxid_j3bytv85n05n12：@.\u2005
+[2026-05-17 10:49:01.100] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_j3bytv85n05n12：<sysmsg type="revokemsg"><revokemsg><session>38737402218@chatroom</session><msgid>1804779222</msgid><newmsgid>6082270719084120108</newmsgid><replacemsg><![CDATA["【汽配排名】彭彭彭客服（最优价）" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2026-05-17 10:49:06.056] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_j3bytv85n05n12：@昆明比速领途瑞翔北汽王牌M7雷驰\u2005
+[2026-05-17 10:49:42.955] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_og68g5zc3gc522：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\89943eb40679022190ca5250e7e5a875.jpg,isDecrypt=1]
+[2026-05-17 10:49:50.637] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_og68g5zc3gc522：后拉杆
+[2026-05-17 10:50:44.582] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_z4msmd8wo7ws12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\90f266d0b896519bd1b7e710238dd392.jpg,isDecrypt=1]
+[2026-05-17 10:50:46.681] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】45764010570@chatroom：@小拇指（合川店）江丹
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LBENFAKC99X044095
+
+厂商：北京现代
+
+车型：领翔 2009款 2.0L AT GLS
+
+排量：2.0L
+
+询货人：小拇指（合川店）江丹
+
+补充信息：
+
+    ★发动机型号：G4KD
+
+    ★车辆类型：中型车
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：-
+
+    ★后轮尺寸：-
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 10:50:46
+[2026-05-17 10:50:46.843] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】45764010570@chatroom：@小拇指（合川店）江丹
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LBENFAKC99X044095
+
+厂商：北京现代
+
+车型：领翔 2009款 2.0L AT GLS
+
+排量：2.0L
+
+询货人：小拇指（合川店）江丹
+
+补充信息：
+
+    ★发动机型号：G4KD
+
+    ★车辆类型：中型车
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：-
+
+    ★后轮尺寸：-
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 10:50:46
+[2026-05-17 10:50:50.505] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47763515946@chatroom）wxid_1112391123715：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d14686a33885b07b42c71507b56a2cbe.jpg,isDecrypt=1]
+[2026-05-17 10:50:51.446] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47763515946@chatroom）wxid_1112391123715：<sysmsg type="revokemsg"><revokemsg><session>47763515946@chatroom</session><msgid>1048727400</msgid><newmsgid>7383578918774507852</newmsgid><replacemsg><![CDATA["靓点汽车维修" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2026-05-17 10:50:52.578] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】47763515946@chatroom：@靓点汽车维修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LSVUC20TXH2017500
+
+厂商：上汽大众
+
+车型：途观L 2017款 330TSI 自动两驱舒适版
+
+排量：1.8T
+
+询货人：靓点汽车维修
+
+补充信息：
+
+    ★发动机型号：CUF
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：湿式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 215/65 R17
+
+    ★后轮尺寸：● 215/65 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 10:50:52
+[2026-05-17 10:50:52.640] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_z4msmd8wo7ws12：机盖拉线
+[2026-05-17 10:50:52.710] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】47763515946@chatroom：@靓点汽车维修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LSVUC20TXH2017500
+
+厂商：上汽大众
+
+车型：途观L 2017款 330TSI 自动两驱舒适版
+
+排量：1.8T
+
+询货人：靓点汽车维修
+
+补充信息：
+
+    ★发动机型号：CUF
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：湿式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 215/65 R17
+
+    ★后轮尺寸：● 215/65 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 10:50:52
+[2026-05-17 10:51:07.120] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_j3bytv85n05n12：@A瑞现(途翔) 现代 起亚 江淮  威马\u2005
+[2026-05-17 10:52:18.898] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：1左前内衬配套件1块
+2左前大灯总成配套件1个
+3右前大灯总成配套件1个
+4左前大灯支架配套件1个
+5左前雾灯总成配套件1个
+6左前雾灯框 配套件1个
+7左前大灯喷头内固定框   配套件1个
+8大灯喷水管子带弯头1套
+9左前羊角总成配套件1个
+10前保险杠配套件1根
+11前杠左右杠卡配套件2个
+12前杠下裙板配套件1根
+13水箱下护板配套件1块
+14发动机下护板精品1块
+15前杠中网精品1块带标
+16左前下直臂猫头鹰1根
+17左前下弯臂猫头鹰1根
+18左前上弯臂猫头鹰1根
+19左前大灯喷水器精品1个
+20左前大灯喷水嘴装饰盖1个
+
+这些材料全要，请报:正厂件、配套件、精品件。
+(价格请报决确实价)
+[2026-05-17 10:52:38.392] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_j3bytv85n05n12：@黔西自强通达汽修厂19338568299\u2005什么车
+[2026-05-17 10:53:18.318] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5e3713a9c2a2c0f49e31c210178c0559.jpg,isDecrypt=1]
+[2026-05-17 10:53:18.861] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\f5abd8246ebc83b36982d8038d5f2c02.jpg,isDecrypt=1]
+[2026-05-17 10:53:19.842] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\04db3d869d0ccd7a6526b68ba072a393.jpg,isDecrypt=1]
+[2026-05-17 10:53:20.732] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\968f83f10644d464719b6e4ce06004b5.jpg,isDecrypt=1]
+[2026-05-17 10:53:21.408] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\4ae48c8d45b9d920d8ebc7f55964573c.jpg,isDecrypt=1]
+[2026-05-17 10:53:22.357] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5da5e5def04cadcb116ec92b7c7ad750.jpg,isDecrypt=1]
+[2026-05-17 10:53:23.091] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\33a924c56862611fa3e69ef7ac5fcb44.jpg,isDecrypt=1]
+[2026-05-17 10:53:23.757] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\bbd619dcf266b8254cf1e6f7056cbfc4.jpg,isDecrypt=1]
+[2026-05-17 10:53:24.235] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\e9e8f6945b2d37d5ccd85cf19423e1fc.jpg,isDecrypt=1]
+[2026-05-17 10:53:24.957] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\fa24c5769c378af930aaf2be8aa57b5c.jpg,isDecrypt=1]
+[2026-05-17 10:53:25.523] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\51d4924716a8a772ca3a79d24a493ef0.jpg,isDecrypt=1]
+[2026-05-17 10:53:29.125] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_t0kyp9rj2nry22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\cbf382f317b1a7f06d4a15665be37df4.jpg,isDecrypt=1]
+[2026-05-17 10:53:34.661] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："谢辉"邀请你和"汽配链」排名齐心15683692999张洲、A0小丁汽车维护中心18702343674、旺发吉普道奇克莱斯勒凯迪拉克福特、【汽配排名】彭彭彭客服（最优价）"加入了群聊
+[2026-05-17 10:53:34.668] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："A0小丁汽车维护中心18702343674"与群里其他人都不是朋友关系，请注意隐私安全
+[2026-05-17 10:53:34.675] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："谢辉"邀请你和"A中华奇瑞斯威小鹏理想哪吒 特斯拉、汽配链」排名齐心15683692999张洲、A0小丁汽车维护中心18702343674、【汽配排名】彭彭彭客服（最优价）"加入了群聊
+[2026-05-17 10:53:34.741] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："A0小丁汽车维护中心18702343674"与群里其他人都不是朋友关系，请注意隐私安全
+[2026-05-17 10:53:35.034] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："A中华奇瑞斯威小鹏理想哪吒 特斯拉"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:53:35.040] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："旺发吉普道奇克莱斯勒凯迪拉克福特"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:53:39.303] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_j3bytv85n05n12：@奥迪保时捷专营  贵阳奥捷财\u2005@奥迪保时捷-贵阳嘉信奥捷-易\u2005@奥迪保时捷专营  贵阳嘉信奥捷 伦\u2005
+[2026-05-17 10:53:39.374] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："A000丰田本田雷克萨斯讴歌重庆宏阳"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:53:39.505] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："九州，比亚迪新能源，电瓶"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:53:41.858] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："奔驰宝马特斯拉新能源长丰同盛"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:53:43.413] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："【汽配排名】彭彭彭客服（最优价）"已成为新群主
+[2026-05-17 10:53:46.118] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）wxid_j3bytv85n05n12：1
+[2026-05-17 10:53:53.003] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】45260894227@chatroom：@黔西自强通达汽修厂19338568299
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LFV3B28R4D3065811
+
+厂商：一汽奥迪
+
+车型：奥迪Q5 2013款 40 TFSI 技术型
+
+排量：2.0T
+
+询货人：黔西自强通达汽修厂19338568299
+
+补充信息：
+
+    ★发动机型号：CAD
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 235/60 R18
+
+    ★后轮尺寸：● 235/60 R18
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 10:53:52
+[2026-05-17 10:53:53.169] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】45260894227@chatroom：@黔西自强通达汽修厂19338568299
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LFV3B28R4D3065811
+
+厂商：一汽奥迪
+
+车型：奥迪Q5 2013款 40 TFSI 技术型
+
+排量：2.0T
+
+询货人：黔西自强通达汽修厂19338568299
+
+补充信息：
+
+    ★发动机型号：CAD
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 235/60 R18
+
+    ★后轮尺寸：● 235/60 R18
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 10:53:52
+[2026-05-17 10:54:08.414] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："A01大众奥迪斯柯达  重庆圣立"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:54:24.590] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："朋旺日产 特斯拉  蔚来  哪吒"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:54:37.569] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）："AA000:鸿源五菱宝骏东风风光小康"通过扫描"谢辉"分享的二维码加入群聊
+[2026-05-17 10:54:46.238] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_5p2say1tkixb21：前还是后
+[2026-05-17 10:54:51.834] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_j3bytv85n05n12：@小拇指（合川店）江丹\u2005
+[2026-05-17 10:55:05.329] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_5p2say1tkixb21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\1a38b85a9f7eacbabb1c13ac863e7585.png,isDecrypt=1]
+[2026-05-17 10:55:07.378] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45565442068@chatroom）wxid_qf1rgug4cwl921：@A0小丁汽车维护中心18702343674\u2005 丁总，您好！我们的汽配链专属优质报价群已为您建好，跟我们汽配链app、小程序一样，都可以询单发货，我们汽配商城各类型小车、皮卡、轻卡、面包车、新能源、老年代步车等配件商家都齐全，售后保障，保证品质，如有车型没进来到的商家，后面我们客服会拉进来，丁总有配件咨询的话，请放心发到群里或使用汽配链app、小程序询价，感谢支持[抱拳][抱拳][抱拳]，祝丁总:生意兴隆！一路长虹！财源广进！[抱拳][抱拳][抱拳]
+[2026-05-17 10:56:18.015] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_ifi5gowpyf9x22：报了
+[2026-05-17 10:56:25.620] wxid_9a4u1rk4w34422 | 收到群聊 | 群（46019808935@chatroom）wxid_84tvct6dsih822：给我发一个品牌的
+[2026-05-17 10:56:51.968] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45260894227@chatroom）wxid_j3bytv85n05n12：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>@黔西自强通达汽修厂19338568299\u2005报过价  您看过没有</title>
+		<type>57</type>
+		<appattach>
+			<cdnthumbaeskey />
+			<aeskey />
+		</appattach>
+		<refermsg>
+			<type>1</type>
+			<svrid>1609124706545161685</svrid>
+			<fromusr>45260894227@chatroom</fromusr>
+			<chatusr>wxid_ifi5gowpyf9x22</chatusr>
+			<displayname>奥迪保时捷-贵阳嘉信奥捷-易</displayname>
+			<content>LFV3B28R4D3065811
+1左前翼子板1块  150
+2左前内衬1块   75
+3左前大灯总成1个    580
+4右前大灯总成1个   580
+5左前雾灯总成1个  65
+6左前雾灯框1个  55
+7左前大灯清洗喷头总成1个  25
+8左前大灯喷头内固定框1个 25
+9左前大灯喷头外盖板1个  15
+10左前大灯喷水管1根   70
+11左前羊角总成1个   拆车400   订货
+12前保险杠1根  170
+13水箱下护板1块   55
+14发动机下护板1块   90
+15横杠下唇1根  65
+16前杠中网1块带标  260
+17左前方向内拉杆1根  45
+18左前方向外拉杆1根  45
+19左前下直臂1根   100
+20左前下弯臂1根  170
+21左前上弯臂1根 50
+22左前减震器总成1根   普减芯子  115 
+23前保险杠雷达1套   不装
+24前杠下段1根   前杠带
+25前杠左右杠卡2个   25 一个
+26水箱空架1个  160
+27元宝梁1个  拆车1300   订货</content>
+			<msgsource>&lt;msgsource&gt;&lt;sequence_id&gt;870333767&lt;/sequence_id&gt;
+	&lt;alnode&gt;
+		&lt;fr&gt;1&lt;/fr&gt;
+	&lt;/alnode&gt;
+	&lt;silence&gt;0&lt;/silence&gt;
+	&lt;membercount&gt;30&lt;/membercount&gt;
+	&lt;signature&gt;N0_V1_m9RYMjJj|v1_2ifOWgtb&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<createtime>1778749497</createtime>
+		</refermsg>
+	</appmsg>
+	<fromusername>wxid_j3bytv85n05n12</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-17 10:57:02.383] wxid_9a4u1rk4w34422 | 收到群聊 | 群（46019808935@chatroom）wxid_j3bytv85n05n12：欧克
+[2026-05-17 10:57:16.323] wxid_9a4u1rk4w34422 | 收到群聊 | 群（46019808935@chatroom）wxid_84tvct6dsih822：发中午的伟平物流
+[2026-05-17 10:57:30.435] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_5p2say1tkixb21：长的有现货  40原厂
+[2026-05-17 10:57:38.162] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_5p2say1tkixb21：短的没有
+[2026-05-17 10:59:07.857] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_ndbpu59h8dio22：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3112" length="6008" bufid="0" aeskey="66757762646d767971666e6578627176" voiceurl="3052020100044b304902010002047bc9b0fd02033d11fd0204556166b402046a092efa042465623834646136372d353635342d343937632d396130332d30333736353834643234613402040524000f02010004005f8701c5" voicemd5="695a4c960fae689653f91a29a1d2fdd0" clientmsgid="4f5cfd910c90d6ef59eb57e3b75621df5c490903e8dee1fe0e9470e5fae1a287_4688_1778986746" fromusername="wxid_ndbpu59h8dio22" /></msg>
+[2026-05-17 11:00:52.497] wxid_9a4u1rk4w34422 | 收到群聊 | 群（20028247270@chatroom）wxid_vepamffvpdjx22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\309f1ce1c2138771f528049f6ed13781.jpg,isDecrypt=1]
+[2026-05-17 11:00:54.749] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】20028247270@chatroom：@重庆瑞科达名车维修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LSGBC5340KG101727
+
+厂商：上汽通用别克
+
+车型：威朗 2019款 三厢 15S 自动进取型
+
+排量：1.5L
+
+询货人：重庆瑞科达名车维修
+
+补充信息：
+
+    ★发动机型号：L3G
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 205/55 R16
+
+    ★后轮尺寸：● 205/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:00:54
+[2026-05-17 11:00:54.925] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】20028247270@chatroom：@重庆瑞科达名车维修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LSGBC5340KG101727
+
+厂商：上汽通用别克
+
+车型：威朗 2019款 三厢 15S 自动进取型
+
+排量：1.5L
+
+询货人：重庆瑞科达名车维修
+
+补充信息：
+
+    ★发动机型号：L3G
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 205/55 R16
+
+    ★后轮尺寸：● 205/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:00:54
+[2026-05-17 11:00:55.580] wxid_9a4u1rk4w34422 | 收到群聊 | 群（20028247270@chatroom）wxid_vepamffvpdjx22：左前大灯
+[2026-05-17 11:01:09.974] wxid_9a4u1rk4w34422 | 收到群聊 | 群（20028247270@chatroom）wxid_j3bytv85n05n12：@百宝灿范15922596349\u2005@亚盛别克雪佛兰凯迪13996165990\u2005@别克雪佛兰凯迪拉克\u2005
+[2026-05-17 11:01:23.691] wxid_9a4u1rk4w34422 | 收到群聊 | 群（20028247270@chatroom）wxid_u1bw9usrbeie21：=
+[2026-05-17 11:02:57.755] wxid_9a4u1rk4w34422 | 收到群聊 | 群（20028247270@chatroom）wxid_u1bw9usrbeie21：430品牌   540合资厂   550拆车的小修复
+[2026-05-17 11:03:35.898] wxid_9a4u1rk4w34422 | 收到群聊 | 群（20028247270@chatroom）wxid_j3bytv85n05n12：@重庆瑞科达名车维修\u2005
+[2026-05-17 11:06:34.375] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：右前大灯
+[2026-05-17 11:06:34.828] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\e0ce43818ae250a714e9f9e53e317650.jpg,isDecrypt=1]
+[2026-05-17 11:06:36.823] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】51951419633@chatroom：@渝群
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LB37824Z7JH028334
+
+厂商：吉利汽车
+
+车型：帝豪GL 2018款 1.4T DCT精英智联型
+
+排量：1.4T
+
+询货人：渝群
+
+补充信息：
+
+    ★发动机型号：JLB-4G14T
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：干式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 205/55 R16
+
+    ★后轮尺寸：● 205/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:06:36
+[2026-05-17 11:06:36.970] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】51951419633@chatroom：@渝群
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LB37824Z7JH028334
+
+厂商：吉利汽车
+
+车型：帝豪GL 2018款 1.4T DCT精英智联型
+
+排量：1.4T
+
+询货人：渝群
+
+补充信息：
+
+    ★发动机型号：JLB-4G14T
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：干式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 205/55 R16
+
+    ★后轮尺寸：● 205/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:06:36
+[2026-05-17 11:06:45.254] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_j3bytv85n05n12：@高庆(宏达)吉利帝豪15111861125\u2005
+[2026-05-17 11:06:49.457] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45764010570@chatroom）wxid_j3bytv85n05n12：@小拇指（合川店）江丹\u2005
+[2026-05-17 11:07:43.732] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）qiyue821458：=
+[2026-05-17 11:07:59.450] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2
+[2026-05-17 11:08:16.022] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：3
+[2026-05-17 11:08:51.136] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）qiyue821458：右前大灯 680品牌组装 质保一年
+[2026-05-17 11:09:01.374] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-17 11:09:35.006] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）h592228：今天上班吗
+[2026-05-17 11:09:41.063] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_yimnh2nrpl1p41：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="14655" length="23597" bufid="0" aeskey="d77d8bb017b008f1a826abbf0d775a91" voiceurl="3052020100044b304902010002049c98057102032dcd670204633be6b702046a093174042430663030663262312d353836622d343731302d396633362d32613733383730666533386102040524000f0201000400" voicemd5="" clientmsgid="41653034353463333533633935613100newSendVoice_231109051726d3382e52356101" fromusername="wxid_yimnh2nrpl1p41" /></msg>
+[2026-05-17 11:09:46.210] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_dio5xa8rh9vz22：@A0昆明恒泰汽配（众优）大众奥迪\u2005320品牌凯世曼  奥迪的二次空气泵
+[2026-05-17 11:09:49.940] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_dio5xa8rh9vz22：发
+[2026-05-17 11:10:05.129] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_ejpmltblzjb922：好的  要的
+[2026-05-17 11:10:17.901] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_u4qc83p6jrzz21：好，发晚上的吗？
+[2026-05-17 11:10:36.811] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_yimnh2nrpl1p41：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\28551be18af09928016796a212ce817f.jpg,isDecrypt=1]
+[2026-05-17 11:10:40.709] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_kg2kj2tg7gvc22：你退货的货运部离我很远 不在汽配城。下周三我喊人去取。
+[2026-05-17 11:10:42.246] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_yimnh2nrpl1p41：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a3b5a277dfc34f4509964f8518ec62c2.jpg,isDecrypt=1]
+[2026-05-17 11:10:48.023] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_yimnh2nrpl1p41：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\32b209846227fed384e9494b84a8493e.jpg,isDecrypt=1]
+[2026-05-17 11:10:52.451] wxid_9a4u1rk4w34422 | 收到私聊 | gh_0b8b25c6eeee：<msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[中美经贸磋商最新进展！]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650423108&idx=1&sn=9c4967d381b924ccac71096e1fb0dd91&chksm=f57174c75606555c3e28ae0979dddb63ba2c054f593e52daac21587516eea5e759e8766063c2&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[金融时报]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wJ5qdCdyINFjdpBkvWibfzUhA41ByGNibX8T9ibfU5pcs95f2jLLOGyLWZBYjXX0Gud1Tzhanaga3QTwLoArH9Ie6x00rkTTRRHUo/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[中美经贸磋商最新进展！]]></title>
+                    <title_v2><![CDATA[中美经贸磋商最新进展！]]></title_v2>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650423108&idx=1&sn=9c4967d381b924ccac71096e1fb0dd91&chksm=f5767714775f6835f229c89aa3cc9c4b66cda04d025b6594730837de434134ff0ca0e67b3c37&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1778987197</pub_time>
+                    <summary><![CDATA[5月16日，商务部新闻发言人就中美经贸磋商初步成果答记者问。问：5月14日，中美两国元首举行会晤，宣布中美经贸团队达成了总体平衡积极的成果。请问商务部能否介绍经贸磋商成果更多情况？答：中美两国元首在北]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wJ5qdCdyINFjdpBkvWibfzUhA41ByGNibX8T9ibfU5pcs95f2jLLOGyLWZBYjXX0Gud1Tzhanaga3QTwLoArH9Ie6x00rkTTRRHUo/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>502939089</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[金融时报]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>4519696872503869442</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wJ5qdCdyINFjdpBkvWibfzUhA41ByGNibX8T9ibfU5pcs95f2jLLOGyLWZBYjXX0Gud1Tzhanaga3QTwLoArH9Ie6x00rkTTRRHUo/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wLgl9xlkq8ADe2PMfIU48Ezqk1icjNxETfXXZSLamaRBJmNILozZUaEhyAT53RibIBRaRBzt3say9HKwrzTvibicwVltj2HUFPTId0/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                    <product_activity>
+                        <activity_type></activity_type>
+                        <activity_tag><![CDATA[]]></activity_tag>
+                        <activity_content><![CDATA[]]></activity_content>
+                    </product_activity>
+                    <has_redpacket_cover_v2>0</has_redpacket_cover_v2>
+                    <has_gift_activity>0</has_gift_activity>
+                    <mall_activity>
+                        <mall_id></mall_id>
+                        <mall_version></mall_version>
+                        <ecs_jump_info_base64><![CDATA[]]></ecs_jump_info_base64>
+                        <mall_tag><![CDATA[]]></mall_tag>
+                        <mall_product_cnt></mall_product_cnt>
+                    </mall_activity>
+                    <preload_picture_info>
+				        
+			        </preload_picture_info>
+                    <share_cover>
+                        <cdn_url><![CDATA[]]></cdn_url>
+                        <width></width>
+                        <height></height>
+                    </share_cover>
+                    <cover_3_4><![CDATA[]]></cover_3_4>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_0b8b25c6eeee]]></username>
+                <nickname><![CDATA[金融时报]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wJ5qdCdyINFjdpBkvWibfzUhA41ByGNibX8T9ibfU5pcs95f2jLLOGyLWZBYjXX0Gud1Tzhanaga3QTwLoArH9Ie6x00rkTTRRHUo/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_0b8b25c6eeee]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[金融时报]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2026-05-17 11:10:52.457] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_yimnh2nrpl1p41：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2674" length="4536" bufid="0" aeskey="fad9a73b17b87087ddd68fb8ed8cc4ed" voiceurl="3052020100044b304902010002049c98057102032dcd670204633be6b702046a0931bb042465316634363765612d656432332d343165332d623030302d63613136326463386231343202040524000f0201000400" voicemd5="" clientmsgid="41653034353463333533633935613100newSendVoice_461110051726d3382e567c4106" fromusername="wxid_yimnh2nrpl1p41" /></msg>
+[2026-05-17 11:10:57.626] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_dio5xa8rh9vz22：可以
+[2026-05-17 11:11:01.843] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_ejpmltblzjb922：好的
+[2026-05-17 11:11:03.711] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_j3bytv85n05n12：@AA000:鸿源五菱宝骏东风风光小康\u2005
+[2026-05-17 11:11:07.166] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）wxid_j3bytv85n05n12：上班
+[2026-05-17 11:11:07.995] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45339010423@chatroom）wxid_ejpmltblzjb922：好的
+[2026-05-17 11:11:10.468] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_dio5xa8rh9vz22：[转账你无需接收]
+[2026-05-17 11:11:23.995] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：唉
+[2026-05-17 11:11:29.396] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）h592228：这车节气门
+[2026-05-17 11:11:29.813] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）h592228：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b0aa9fb9e1436234b9b99c48f9a10abf.jpg,isDecrypt=1]
+[2026-05-17 11:11:59.685] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_j3bytv85n05n12：@渝群\u2005
+[2026-05-17 11:12:11.098] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）wxid_j3bytv85n05n12：@九州，比亚迪新能源，电瓶\u2005
+[2026-05-17 11:12:19.185] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：在
+[2026-05-17 11:12:38.406] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_u4qc83p6jrzz21：好
+[2026-05-17 11:12:44.636] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：LGXCG6CFD0189891
+[2026-05-17 11:12:51.549] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_j3bytv85n05n12：曲靖鸿誉鑫汽车养护中心\u00A0
+17301530121\u00A0
+曲靖西城街道\u00A0\u00A0窦家村\u00A0曲靖开发区4-37号
+和汇物流
+[2026-05-17 11:13:07.472] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45966207318@chatroom）wxid_qf1rgug4cwl921：[握手][握手][握手]
+[2026-05-17 11:13:21.631] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_9qy1esn7njbz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3bf2b1dd0dbebadf4a7347ae62ebdd1c.jpg,isDecrypt=1]
+[2026-05-17 11:13:23.548] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】45701519348@chatroom：@AAA小杨
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LS5A2DKR6MA005847
+
+厂商：长安汽车
+
+车型：逸动 2020款 PLUS 蓝鲸NE 1.4T GDI DCT尊贵型
+
+排量：1.4T
+
+询货人：AAA小杨
+
+补充信息：
+
+    ★发动机型号：JL473ZQ3
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：湿式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 205/60 R16
+
+    ★后轮尺寸：● 205/60 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:13:23
+[2026-05-17 11:13:26.905] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_9qy1esn7njbz21：碳罐电池阀
+[2026-05-17 11:13:26.914] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_dio5xa8rh9vz22：@A0昆明恒泰汽配（众优）大众奥迪 店名\u2005地址和电话别填错
+[2026-05-17 11:13:34.420] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_j3bytv85n05n12：@a长安 欧尚 铃木天悦汽配蒋显东\u2005
+[2026-05-17 11:14:09.462] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_quxskhxpcrjq22：正厂75   来图片
+[2026-05-17 11:14:13.658] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_j3bytv85n05n12：@AAA小杨\u2005
+[2026-05-17 11:14:15.892] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45510020938@chatroom）wxid_u4qc83p6jrzz21：好
+[2026-05-17 11:14:22.363] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_9qy1esn7njbz21：车还没过来
+[2026-05-17 11:14:36.603] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\c3790b6c432e733d265052b02ecbf43a.png,isDecrypt=1]
+[2026-05-17 11:14:39.756] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：这个吗
+[2026-05-17 11:14:52.638] wxid_9a4u1rk4w34422 | 收到群聊 | 群（38737402218@chatroom）wxid_ndbpu59h8dio22：@夏雨\u2005这个是改装的没有
+[2026-05-17 11:15:07.158] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_quxskhxpcrjq22：这个必须看图片
+[2026-05-17 11:15:10.203] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：255
+[2026-05-17 11:15:14.190] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）wxid_j3bytv85n05n12：@胡智15328306577\u2005
+[2026-05-17 11:15:21.757] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45701519348@chatroom）wxid_9qy1esn7njbz21：好的
+[2026-05-17 11:15:53.009] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）h592228：什么质量
+[2026-05-17 11:16:01.865] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：喷油嘴
+[2026-05-17 11:16:02.938] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\83b5c3d0b294821d274cb2aff0fa214a.jpg,isDecrypt=1]
+[2026-05-17 11:16:04.659] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：配套的
+[2026-05-17 11:16:05.101] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】44817736414@chatroom：@小林  15523647326
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LGWEF4A57HF391203
+
+厂商：长城汽车
+
+车型：哈弗H6 2017款 红标 运动版 1.5T 自动两驱豪华型
+
+排量：1.5T
+
+询货人：小林  15523647326
+
+补充信息：
+
+    ★发动机型号：GW4G15B
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 225/65 R17
+
+    ★后轮尺寸：● 225/65 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:16:04
+[2026-05-17 11:16:55.874] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）h592228：就是一个厂的吗
+[2026-05-17 11:17:09.486] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）wxid_j3bytv85n05n12：@九州，比亚迪新能源，电瓶\u2005
+[2026-05-17 11:17:17.316] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）w13452880815：对
+[2026-05-17 11:17:42.330] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：<?xml version="1.0"?>
+<msg>
+	<appmsg>
+		<title>@重庆鑫城皮卡叉车汽配\u2005可以发不</title>
+		<action>view</action>
+		<type>57</type>
+		<finderLiveProductShare>
+			<isPriceBeginShow>false</isPriceBeginShow>
+		</finderLiveProductShare>
+		<gameshare>
+			<appbrandext>
+				<priority>-1</priority>
+			</appbrandext>
+			<duration>-1</duration>
+		</gameshare>
+		<refermsg>
+			<type>1</type>
+			<svrid>6266374705867799700</svrid>
+			<fromusr>44817736414@chatroom</fromusr>
+			<chatusr>wxid_o211kubib0o422</chatusr>
+			<displayname>重庆鑫城皮卡叉车汽配</displayname>
+			<content>
+75一根 原厂</content>
+			<msgsource>&lt;msgsource&gt;
+	&lt;bizflag&gt;0&lt;/bizflag&gt;
+	&lt;pua&gt;1&lt;/pua&gt;
+	&lt;eggIncluded&gt;1&lt;/eggIncluded&gt;
+	&lt;silence&gt;0&lt;/silence&gt;
+	&lt;membercount&gt;39&lt;/membercount&gt;
+	&lt;signature&gt;N0_V1_zEA+C+Pc|v1_oYCDzDgi&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<createtime>1778983202</createtime>
+		</refermsg>
+		<appattach />
+	</appmsg>
+	<fromusername>wxid_n25gj89lmkmf22</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-17 11:18:25.442] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）h592228：发
+[2026-05-17 11:18:44.363] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2de21953bea4beac9e52cb8b97468bce.jpg,isDecrypt=1]
+[2026-05-17 11:18:46.258] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】45317010120@chatroom：@贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LZWADAGA1JE368881
+
+厂商：上汽通用五菱
+
+车型：五菱荣光V 2018款 1.5L标准型
+
+排量：1.5L
+
+询货人：贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415
+
+补充信息：
+
+    ★发动机型号：L2B
+
+    ★车辆类型：微面
+
+    ★变速箱类型：手动变速箱(MT)
+
+    ★前轮尺寸：● 165 R14LT
+
+    ★后轮尺寸：● 165 R14LT
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:18:46
+[2026-05-17 11:18:51.035] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：后差速器
+[2026-05-17 11:19:06.767] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43570600124@chatroom）wxid_j3bytv85n05n12：泸州名豪胡智15328306577\u2005响当当
+[2026-05-17 11:19:22.344] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_j3bytv85n05n12：@重庆航嘉五菱宝骏菱势-吕建锋\u2005@航嘉全车五菱宝骏配件\u2005@重庆五菱宝骏新事业19272433132\u2005
+[2026-05-17 11:20:32.711] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43823524079@chatroom）wxid_shwmu2bfjblw22：@展裕凯迪拉克别克雪佛兰奔驰宝马\u200545
+[2026-05-17 11:20:46.481] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43823524079@chatroom）wxid_b60w1xu20ti112：好
+[2026-05-17 11:20:51.029] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_c7gkiz5ux9ou21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2d7643da9bdc169d5efdbdee2f51f353.jpg,isDecrypt=1]
+[2026-05-17 11:20:52.935] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】47645357511@chatroom：@A渝豪汽车服务15870567772
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：YV1DZ4756E2542399
+
+厂商：沃尔沃(进口)
+
+车型：沃尔沃XC60(进口) 2014款 T5 智雅版
+
+排量：2.0T
+
+询货人：A渝豪汽车服务15870567772
+
+补充信息：
+
+    ★发动机型号：B4204T7
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：湿式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 235/60 R18
+
+    ★后轮尺寸：● 235/60 R18
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:20:52
+[2026-05-17 11:20:54.529] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：520
+[2026-05-17 11:21:08.940] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_j3bytv85n05n12：@奔驰宝马特斯拉新能源长丰同盛\u2005
+[2026-05-17 11:21:11.747] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：撒子质量的
+[2026-05-17 11:21:22.876] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_j3bytv85n05n12：@航嘉全车五菱宝骏配件\u2005
+[2026-05-17 11:21:32.256] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_c7gkiz5ux9ou21：左前减
+[2026-05-17 11:21:37.573] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：建安
+[2026-05-17 11:21:38.420] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_ft7mpg6cts4n22：等等
+[2026-05-17 11:22:49.606] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45966207318@chatroom）wxid_qf1rgug4cwl921：@车医生\u2005\u2005 感谢黄总一直以来的支持，汽配链app、小程序和本群专属报价群，用心为黄总服务，如有做得不好的地方还请多反馈及包涵，祝黄总、祝大足复原汽修:生意兴隆！一路长虹！财源广进！[抱拳][抱拳][抱拳]
+[2026-05-17 11:23:50.754] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_ft7mpg6cts4n22：320 总成不带电品牌下线480芯菲比285芯
+[2026-05-17 11:23:55.480] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：型号就这一款撒 齿比这些分不分
+[2026-05-17 11:24:35.041] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_j3bytv85n05n12：@航嘉全车五菱宝骏配件\u2005
+[2026-05-17 11:24:38.146] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_j3bytv85n05n12：@A渝豪汽车服务15870567772\u2005
+[2026-05-17 11:25:10.640] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_c7gkiz5ux9ou21：总成好多
+[2026-05-17 11:25:18.144] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_c7gkiz5ux9ou21：质保好久
+[2026-05-17 11:25:34.558] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：@小林  15523647326\u2005我问问
+[2026-05-17 11:25:36.695] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3985579549e5e3ee62aafdf6b1b2ad8c.jpg,isDecrypt=1]
+[2026-05-17 11:25:38.849] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：前杠，
+左前大灯，
+左前叶子板，
+左前杠灯，
+左前大灯支架，
+消音箱
+[2026-05-17 11:25:40.418] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d63d3a8ec6c70c9a3a2e3ab6c42cb5c3.jpg,isDecrypt=1]
+[2026-05-17 11:25:45.275] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：<sysmsg type="revokemsg"><revokemsg><session>50266692797@chatroom</session><msgid>394401082</msgid><newmsgid>3793066055415772509</newmsgid><replacemsg><![CDATA["A-章凡-一定要快乐" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2026-05-17 11:25:50.245] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_j3bytv85n05n12：@A0福特-重庆志邦17784758256已上班\u2005
+[2026-05-17 11:25:53.378] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_j3bytv85n05n12：@奔驰宝马特斯拉新能源长丰同盛\u2005
+[2026-05-17 11:25:53.691] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b2a7a1e5fc95edfc995159df2c0c8282.jpg,isDecrypt=1]
+[2026-05-17 11:25:55.436] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】50266692797@chatroom：@A-章凡-一定要快乐
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LE40B4GB2KL335880
+
+厂商：奔驰(进口)
+
+车型：奔驰GLC轿跑 2019款 改款 GLC 260 4MATIC 轿跑SUV
+
+排量：2.0T
+
+询货人：A-章凡-一定要快乐
+
+补充信息：
+
+    ★发动机型号：274 920
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 255/45 R20
+
+    ★后轮尺寸：● 255/45 R20
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:25:55
+[2026-05-17 11:26:00.890] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：水壶
+[2026-05-17 11:26:02.978] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：卫星今天在营业，问下他们能发不
+[2026-05-17 11:26:04.394] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）wxid_j3bytv85n05n12：@A重庆鑫利达奔驰宝马路虎捷豹\u2005
+[2026-05-17 11:26:35.355] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_c7gkiz5ux9ou21：总成发回来
+[2026-05-17 11:26:38.638] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_ft7mpg6cts4n22：好
+[2026-05-17 11:26:42.874] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）wxid_4xcxov7x8rug22：稍等
+[2026-05-17 11:27:07.465] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_ft7mpg6cts4n22：两年
+[2026-05-17 11:27:13.517] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_j3bytv85n05n12：@A渝豪汽车服务15870567772\u2005
+[2026-05-17 11:27:27.813] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：好的
+[2026-05-17 11:27:48.832] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：65
+[2026-05-17 11:27:48.839] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：博士
+[2026-05-17 11:27:48.848] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：质保装车
+[2026-05-17 11:27:48.854] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：有问题换，不退
+[2026-05-17 11:27:54.975] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：@小林  15523647326\u2005这个可以发 发不
+[2026-05-17 11:28:02.169] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）wxid_4xcxov7x8rug22：品牌80   道氏160
+[2026-05-17 11:28:04.890] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：@贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415\u2005看看是不是这个
+[2026-05-17 11:28:05.204] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0477cbfab0fd9edb816843e4fd1d58b1.png,isDecrypt=1]
+[2026-05-17 11:28:19.379] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：可以
+[2026-05-17 11:28:23.221] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：安排一个
+[2026-05-17 11:28:26.974] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a0b1f1b8d882e427a344b220b7ed032f.jpg,isDecrypt=1]
+[2026-05-17 11:28:38.602] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：欧克
+[2026-05-17 11:28:53.249] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：[握手][抱拳]
+[2026-05-17 11:29:03.755] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\616143b00d261781bf4388ef1cff4daa.jpg,isDecrypt=1]
+[2026-05-17 11:29:05.627] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）wxid_j3bytv85n05n12：@A-章凡-一定要快乐\u2005
+[2026-05-17 11:29:15.111] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：@航嘉全车五菱宝骏配件\u2005对不对
+[2026-05-17 11:29:55.510] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：@小林  15523647326\u2005发几个
+[2026-05-17 11:30:11.338] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：<?xml version="1.0"?>
+<msg>
+	<appmsg>
+		<title>安排一个</title>
+		<action>view</action>
+		<type>57</type>
+		<finderLiveProductShare>
+			<isPriceBeginShow>false</isPriceBeginShow>
+		</finderLiveProductShare>
+		<gameshare>
+			<appbrandext>
+				<priority>-1</priority>
+			</appbrandext>
+			<duration>-1</duration>
+		</gameshare>
+		<refermsg>
+			<type>1</type>
+			<svrid>4066533971343957408</svrid>
+			<fromusr>44817736414@chatroom</fromusr>
+			<chatusr>wxid_n25gj89lmkmf22</chatusr>
+			<displayname>小林  15523647326</displayname>
+			<content>安排一个</content>
+			<msgsource>&lt;msgsource&gt;&lt;pua&gt;1&lt;/pua&gt;&lt;eggSeed&gt;2011327166&lt;/eggSeed&gt;&lt;/msgsource&gt;</msgsource>
+			<createtime>1778988502</createtime>
+		</refermsg>
+		<appattach />
+	</appmsg>
+	<fromusername>wxid_n25gj89lmkmf22</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-17 11:30:59.905] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_j3bytv85n05n12：[OK]
+[2026-05-17 11:31:05.854] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44817736414@chatroom）wxid_n25gj89lmkmf22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\38febd2e691f9f9e22a84aacbaf3de29.jpg,isDecrypt=1]
+[2026-05-17 11:31:54.695] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：@航嘉全车五菱宝骏配件\u2005
+[2026-05-17 11:33:02.279] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>你这是后桥壳的图号  你是要后桥壳还是差速器</title>
+		<des />
+		<action />
+		<type>57</type>
+		<showtype>0</showtype>
+		<soundtype>0</soundtype>
+		<mediatagname />
+		<messageext />
+		<messageaction />
+		<content />
+		<contentattr>0</contentattr>
+		<url />
+		<lowurl />
+		<dataurl />
+		<lowdataurl />
+		<songalbumurl />
+		<songlyric />
+		<template_id />
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<emoticonmd5 />
+			<fileext />
+			<aeskey />
+		</appattach>
+		<extinfo />
+		<sourceusername />
+		<sourcedisplayname />
+		<thumburl />
+		<md5 />
+		<statextstr />
+		<refermsg>
+			<content>wxid_flo4df8l65fg22:
+&lt;?xml version="1.0"?&gt;
+&lt;msg&gt;
+	&lt;img aeskey="77cc41628c42dd79d5b40974c92a476d" encryver="1" cdnthumbaeskey="77cc41628c42dd79d5b40974c92a476d" cdnthumburl="3057020100044b304902010002048caac13802032dcd670204613be6b702046a0935d9042461626435333438312d616161622d343264652d393433382d353239383839373630333530020405250a020201000405004c50bb00" cdnthumblength="5841" cdnthumbheight="287" cdnthumbwidth="512" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b304902010002048caac13802032dcd670204613be6b702046a0935d9042461626435333438312d616161622d343264652d393433382d353239383839373630333530020405250a020201000405004c50bb00" length="513159" md5="9e37427dfa23d1e53e579122e4fc3c03" hevc_mid_size="34352" originsourcemd5="fcc6b6f8dae7dba147cf604ca00d0e1e"&gt;
+		&lt;secHashInfoBase64&gt;eyJwaGFzaCI6ImYwNTA2MGUxNDI0MDAwMDAiLCJwZHFIYXNoIjoiYmQxYTViYzUyNGMwM2E2ZDdj
+NjJiNDBkYzMzNGM1MmYxNjk3N2IwYjk5ODUwMGNhNmY2NTc3MTJjY2Q5YjlmNSJ9
+&lt;/secHashInfoBase64&gt;
+		&lt;live&gt;
+			&lt;duration&gt;0&lt;/duration&gt;
+			&lt;size&gt;0&lt;/size&gt;
+			&lt;md5 /&gt;
+			&lt;fileid /&gt;
+			&lt;hdsize&gt;0&lt;/hdsize&gt;
+			&lt;hdmd5 /&gt;
+			&lt;hdfileid /&gt;
+			&lt;stillimagetimems&gt;0&lt;/stillimagetimems&gt;
+		&lt;/live&gt;
+	&lt;/img&gt;
+	&lt;platform_signature /&gt;
+	&lt;imgdatahash /&gt;
+	&lt;ImgSourceInfo&gt;
+		&lt;ImgSourceUrl /&gt;
+		&lt;BizType&gt;0&lt;/BizType&gt;
+	&lt;/ImgSourceInfo&gt;
+&lt;/msg&gt;
+</content>
+			<createtime>1778988505</createtime>
+			<displayname>贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415</displayname>
+			<fromusr>45317010120@chatroom</fromusr>
+			<svrid>3143693885178243685</svrid>
+			<msgsource>&lt;msgsource&gt;
+	&lt;sec_msg_node&gt;
+		&lt;uuid&gt;5e732360d159904c3a0f4d03f6343283_&lt;/uuid&gt;
+		&lt;risk-file-flag /&gt;
+		&lt;risk-file-md5-list /&gt;
+	&lt;/sec_msg_node&gt;
+	&lt;imgmsg_pd cdnmidimgurl_size="34352" cdnmidimgurl_pd_pri="30" cdnmidimgurl_pd="0" /&gt;
+	&lt;silence&gt;1&lt;/silence&gt;
+	&lt;membercount&gt;35&lt;/membercount&gt;
+	&lt;signature&gt;N0_V1_JIgv/U9z|v1_90Ztl2I7&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<type>3</type>
+			<chatusr>wxid_flo4df8l65fg22</chatusr>
+		</refermsg>
+	</appmsg>
+	<fromusername>wxid_u55ram1i8cy022</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-17 11:33:41.016] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：差速器
+[2026-05-17 11:33:41.025] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_8859408593912：下悬臂退回来的，没有代收
+[2026-05-17 11:33:46.842] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：前杠  180
+大灯  430
+叶子板L 125 
+雾灯  105
+大灯支架 来图
+消音盒 75
+[2026-05-17 11:33:49.555] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：@渝群
+[2026-05-17 11:34:03.600] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：上面是43/10
+[2026-05-17 11:34:08.841] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_8859408593912：看这个减震代收把下悬臂的减出来吗
+[2026-05-17 11:34:10.531] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：[pic=C:\Users\Lenovo\Documents\WeChat Files\wxid_9a4u1rk4w34422\FileStorage\MsgAttach\61c7f7e9a149b6217ab7fd8151859960\Image\2026-05\b5ab811ec84d6b6e1d4c31e7dc89b5b5.dat,isDecrypt=0]
+[2026-05-17 11:34:15.035] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_8859408593912：@奔驰宝马特斯拉新能源长丰同盛\u2005
+[2026-05-17 11:34:20.683] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_j3bytv85n05n12：@航嘉全车五菱宝骏配件\u2005
+[2026-05-17 11:34:36.396] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_8859408593912：昨天才拿到货运部了
+[2026-05-17 11:34:46.600] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：型号对头就发鑫盛达
+[2026-05-17 11:35:12.851] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：好
+[2026-05-17 11:35:45.272] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：你们要包运费吗？
+[2026-05-17 11:35:52.964] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：刚刚报的是不包运费的，我刚才看见。[尴尬]
+[2026-05-17 11:36:18.230] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45954924498@chatroom）wxid_qf1rgug4cwl921：[握手][握手][握手]
+[2026-05-17 11:36:39.749] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_ft7mpg6cts4n22：好的
+[2026-05-17 11:37:13.598] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：10
+[2026-05-17 11:37:40.583] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44437388174@chatroom）wxid_fow6xnmclk2i22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\263cd3ae812918e2de0616fdf5ae51cd.jpg,isDecrypt=1]
+[2026-05-17 11:37:42.875] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】44437388174@chatroom：@A小吴汽修17314938861保险理赔
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LJ8F5D5D9GE093349
+
+厂商：众泰汽车
+
+车型：大迈X5 2017款 升级版 1.5T CVT知县型
+
+排量：1.5T
+
+询货人：A小吴汽修17314938861保险理赔
+
+补充信息：
+
+    ★发动机型号：4A91T
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：无级变速箱(CVT)
+
+    ★前轮尺寸：● 235/55 R17
+
+    ★后轮尺寸：● 235/55 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:37:42
+[2026-05-17 11:37:43.966] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44437388174@chatroom）wxid_fow6xnmclk2i22：单独雨刮电机
+[2026-05-17 11:37:54.474] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44437388174@chatroom）wxid_j3bytv85n05n12：@众泰君马汉腾宏途汽配18275090595\u2005
+[2026-05-17 11:38:01.447] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a6d8ca4d00493a9b169e257a000bc610.png,isDecrypt=1]
+[2026-05-17 11:38:03.047] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：发
+[2026-05-17 11:38:10.050] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：备好了我喊摩托
+[2026-05-17 11:38:10.363] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d4042f64c593f61f9c96cd78d5e577a5.jpg,isDecrypt=1]
+[2026-05-17 11:38:29.752] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_j3bytv85n05n12：@A0福特-重庆志邦17784758256已上班\u2005
+[2026-05-17 11:38:42.293] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_emhhja6hny3422：点火线圈
+火花塞
+[2026-05-17 11:38:42.302] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_emhhja6hny3422：点火线圈
+火花塞
+气门室盖
+[2026-05-17 11:38:45.717] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_emhhja6hny3422：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\8f8959d8d8672afb8108207da1f275ab.jpg,isDecrypt=1]
+[2026-05-17 11:38:55.136] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45625025287@chatroom）wxid_uqsoua7e7is122：L1NEFRBC6GA002270
+[2026-05-17 11:38:55.145] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45625025287@chatroom）wxid_uqsoua7e7is122：机油压力传感器
+[2026-05-17 11:38:57.053] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44437388174@chatroom）wxid_1k42ktihrlie41：只有总成  180 正厂
+[2026-05-17 11:39:22.178] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44437388174@chatroom）wxid_j3bytv85n05n12：@A小吴汽修17314938861保险理赔\u2005
+[2026-05-17 11:39:40.188] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_j3bytv85n05n12：@昆明鑫润通 别克 雪佛兰 凯迪\uD83C\uDF38\u2005
+[2026-05-17 11:39:54.929] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_emhhja6hny3422：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\28c1e793935bb20e50749e664921e0bb.jpg,isDecrypt=1]
+[2026-05-17 11:40:15.683] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_emhhja6hny3422：还有节气门软管
+[2026-05-17 11:40:28.221] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_emhhja6hny3422：一起报价
+[2026-05-17 11:40:46.454] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：雾灯
+[2026-05-17 11:40:49.871] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：麻烦发一个图
+[2026-05-17 11:40:54.353] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：我怕错了
+[2026-05-17 11:41:18.107] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\752b3c0e7a5e468363ec068010206a07.jpg,isDecrypt=1]
+[2026-05-17 11:41:23.615] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：左前大灯
+[2026-05-17 11:41:41.543] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_j3bytv85n05n12：@A广汽传祺传奇 埃安 荣威 众泰\u2005
+[2026-05-17 11:41:45.141] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_j3bytv85n05n12：@渝群\u2005
+[2026-05-17 11:42:05.262] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\51e611a79f4fb72ad7b99a523cc27707.jpg,isDecrypt=1]
+[2026-05-17 11:42:10.977] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：车子图
+[2026-05-17 11:42:22.885] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_ctb4o5xrog2f12：在
+[2026-05-17 11:42:32.413] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_ctb4o5xrog2f12：点火线圈   品牌165  德尔福195  原厂320
+火花塞  铱金  AC德科 35一个X4
+气门室盖含垫   塑料  品牌120  车享配165  原厂320
+铝合金  185  
+[2026-05-17 11:42:41.762] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\c3b7707d7ef67181499b3c91f8d7c6b5.jpg,isDecrypt=1]
+[2026-05-17 11:42:47.813] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_ctb4o5xrog2f12：涡轮增压管  前节  65  
+[2026-05-17 11:42:53.012] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\422a12788335669164e4167c7a7575cb.jpg,isDecrypt=1]
+[2026-05-17 11:43:03.094] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_ctb4o5xrog2f12：气门室盖都包含垫子
+[2026-05-17 11:43:04.964] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_j3bytv85n05n12：@A0福特-重庆志邦17784758256已上班\u2005
+[2026-05-17 11:43:07.461] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：有
+[2026-05-17 11:43:13.567] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45954924498@chatroom）wxid_qf1rgug4cwl921：@刚哥汽修 轮胎 电瓶15086998520\u2005\u2005 \u2005 感谢刚哥一直以来的支持，汽配链app、小程序和本群专属报价群，用心为刚哥服务，如有做得不好的地方还请多反馈及包涵，祝刚哥:生意兴隆！一路长虹！财源广进！[抱拳][抱拳][抱拳]
+[2026-05-17 11:43:27.828] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：@贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415\u2005
+[2026-05-17 11:43:28.246] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_w7e75fs2wdy722：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\8eddf9ac4473adef0e30e883f90ffd3a.jpg,isDecrypt=1]
+[2026-05-17 11:43:32.693] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_w7e75fs2wdy722：方向机
+[2026-05-17 11:43:34.522] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：拆车150
+[2026-05-17 11:43:43.611] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：品牌260
+[2026-05-17 11:44:09.449] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45625025287@chatroom）wxid_e7sc05p8ggcp21：@【汽配排名】彭彭彭客服（最优价）
+[2026-05-17 11:44:12.097] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）："【汽配排名】彭彭彭客服（最优价）"邀请"A0卓晟中华金杯斯威福田67234568"加入了群聊
+[2026-05-17 11:44:15.773] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：拆车的灯脚有没有焊过哦
+[2026-05-17 11:44:19.714] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_j3bytv85n05n12：方向机
+[2026-05-17 11:44:20.482] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b8cf4a33c8b6ee052dfd146b617fc1f5.jpg,isDecrypt=1]
+[2026-05-17 11:44:24.230] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_j3bytv85n05n12：@A0卓晟中华金杯斯威福田67234568\u2005
+[2026-05-17 11:44:30.308] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_skzu6w63kfj422：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\7e948e0a558f098f64c46a9cb924eb8f.jpg,isDecrypt=1]
+[2026-05-17 11:44:32.464] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】49388981292@chatroom：@永川博特汽修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LMGKT1L58N1141875
+
+厂商：广汽传祺
+
+车型：传祺M6 2021款 PRO 270T DCT豪华版
+
+排量：1.5T
+
+询货人：永川博特汽修
+
+补充信息：
+
+    ★发动机型号：4A15J1
+
+    ★车辆类型：紧凑型MPV
+
+    ★变速箱类型：湿式双离合变速箱(DCT)
+
+    ★前轮尺寸：● 215/55 R17
+
+    ★后轮尺寸：● 215/55 R17
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:44:32
+[2026-05-17 11:44:32.918] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45625025287@chatroom）wxid_j3bytv85n05n12：正在询价
+[2026-05-17 11:44:33.461] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：有旧件 你们要不要
+[2026-05-17 11:44:35.830] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：@A广汽传祺传奇 埃安 荣威 众泰\u2005
+[2026-05-17 11:44:39.733] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：不要
+[2026-05-17 11:44:45.503] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：好
+[2026-05-17 11:44:45.816] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_skzu6w63kfj422：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\564a49c400eb0d12066784264a913025.jpg,isDecrypt=1]
+[2026-05-17 11:44:52.950] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：灯脚全好
+[2026-05-17 11:44:55.224] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_skzu6w63kfj422：<sysmsg type="revokemsg"><revokemsg><session>49388981292@chatroom</session><msgid>571156001</msgid><newmsgid>8995132898521472702</newmsgid><replacemsg><![CDATA["永川博特汽修" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2026-05-17 11:44:55.984] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_j3bytv85n05n12：@重庆茂祺_吉利领克枫叶传祺比亚迪\u2005
+[2026-05-17 11:45:03.375] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_skzu6w63kfj422：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\6de4c190866f67843c64fafe3a3f7bf6.jpg,isDecrypt=1]
+[2026-05-17 11:45:05.085] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_n2e923cjw71322：稍等
+[2026-05-17 11:45:05.392] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】49388981292@chatroom：@永川博特汽修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LS5A2AGE1KD004797
+
+厂商：长安汽车
+
+车型：逸动DT 2019款 1.6L 自动智享型 国VI
+
+排量：1.6L
+
+询货人：永川博特汽修
+
+补充信息：
+
+    ★发动机型号：JL478QEE
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 195/55 R16
+
+    ★后轮尺寸：● 195/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 11:45:05
+[2026-05-17 11:45:24.045] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45625025287@chatroom）wxid_j3bytv85n05n12：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>原厂的35</title>
+		<type>57</type>
+		<appattach>
+			<cdnthumbaeskey />
+			<aeskey />
+		</appattach>
+		<refermsg>
+			<type>1</type>
+			<svrid>6964958202188874956</svrid>
+			<fromusr>45625025287@chatroom</fromusr>
+			<chatusr>wxid_uqsoua7e7is122</chatusr>
+			<displayname>T\uE050L\uE050R\uE303(德奥)（车辰）</displayname>
+			<content>机油压力传感器</content>
+			<msgsource>&lt;msgsource&gt;&lt;sequence_id&gt;870341173&lt;/sequence_id&gt;
+	&lt;pua&gt;1&lt;/pua&gt;
+	&lt;alnode&gt;
+		&lt;fr&gt;2&lt;/fr&gt;
+	&lt;/alnode&gt;
+	&lt;eggIncluded&gt;1&lt;/eggIncluded&gt;
+	&lt;silence&gt;0&lt;/silence&gt;
+	&lt;membercount&gt;30&lt;/membercount&gt;
+	&lt;signature&gt;N0_V1_7FFgHMg1|v1_KpKSbH2z&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<createtime>1778989134</createtime>
+		</refermsg>
+	</appmsg>
+	<fromusername>wxid_j3bytv85n05n12</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-17 11:45:26.057] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45625025287@chatroom）wxid_j3bytv85n05n12：@T\uD83D\uDC2FL\uD83D\uDC2FR\uD83C\uDF3A(德奥)（车辰）\u2005
+[2026-05-17 11:45:28.397] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_5of5fg0xggxb21：稍等
+[2026-05-17 11:45:34.856] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_j3bytv85n05n12：@a长安 欧尚 铃木天悦汽配蒋显东\u2005
+[2026-05-17 11:45:39.939] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_w7e75fs2wdy722：还有方向连接杆
+[2026-05-17 11:45:44.485] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：发一个拆车的
+[2026-05-17 11:46:15.873] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：@A广汽传祺传奇 埃安 荣威 众泰\u2005
+[2026-05-17 11:46:21.193] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_quxskhxpcrjq22：35
+[2026-05-17 11:46:51.520] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_6942689421312：好
+[2026-05-17 11:48:32.407] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_n2e923cjw71322：方向机430 总成正厂
+连接杆来个图片 要分款式
+[2026-05-17 11:48:41.684] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_n2e923cjw71322：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a6f43dd42f2c0ca17b512471af5d7d98.png,isDecrypt=1]
+[2026-05-17 11:48:50.836] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_j3bytv85n05n12：@A夏有辉18208769778\u2005
+[2026-05-17 11:49:22.152] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\55b3fef344228eaffa724a3741723486.jpg,isDecrypt=1]
+[2026-05-17 11:49:23.011] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\24aeb5753b25f8c02ba646a6dafa52cb.jpg,isDecrypt=1]
+[2026-05-17 11:49:23.559] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0a46a45ff155ef69aecb9dc290f5faaf.jpg,isDecrypt=1]
+[2026-05-17 11:49:35.914] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_j3bytv85n05n12：@奥迪大众奔腾红旗新能源重庆金渝\u2005
+[2026-05-17 11:49:40.753] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_409urgf0zwfm22：主副驾驶玻璃夹条
+[2026-05-17 11:49:40.761] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_j3bytv85n05n12：@奥迪大众红旗重庆金渝15123868903\u2005
+[2026-05-17 11:49:51.442] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_rplxiu8p3i8b22：稍等
+[2026-05-17 11:51:11.561] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25562722388@chatroom）wxid_rplxiu8p3i8b22：缺 
+[2026-05-17 11:51:48.921] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：我发了直接给你做代收了
+[2026-05-17 11:51:55.207] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：因为你一直没有回话。
+[2026-05-17 11:52:03.194] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）45317010120@chatroom：<sysmsg type="pat">
+<pat>
+  <fromusername>wxid_u55ram1i8cy022</fromusername>
+  <chatusername>45317010120@chatroom</chatusername>
+  <pattedusername>wxid_flo4df8l65fg22</pattedusername>
+  <patsuffix><![CDATA[]]></patsuffix>
+  <patsuffixversion>0</patsuffixversion>
+
+
+
+
+  <template><![CDATA["${wxid_u55ram1i8cy022}" 拍了拍 "${wxid_flo4df8l65fg22}"]]></template>
+
+
+
+
+</pat>
+</sysmsg>
+[2026-05-17 11:52:03.203] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022："航嘉全车五菱宝骏配件" 拍了拍 "贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415"
+[2026-05-17 11:52:12.999] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_w7e75fs2wdy722：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ac4791d53c0a687f98e33f5b64ac03c0.jpg,isDecrypt=1]
+[2026-05-17 11:52:24.077] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：好
+[2026-05-17 11:52:29.762] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：刚刚在拆车
+[2026-05-17 11:52:41.725] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_j3bytv85n05n12：@A0卓晟中华金杯斯威福田67234568\u2005
+[2026-05-17 11:52:49.747] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_j3bytv85n05n12：好的
+[2026-05-17 11:54:36.835] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50399179956@chatroom）wxid_n2e923cjw71322：240 没有质保
+[2026-05-17 11:54:41.247] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：我现在只有托臂的 托臂可以装钢板的 我把图片发给你看看
+[2026-05-17 11:55:22.212] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_u55ram1i8cy022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\242d8cf966b829dfe6629453a5cc5842.png,isDecrypt=1]
+[2026-05-17 11:58:11.457] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：不一样
+[2026-05-17 11:58:19.246] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_flo4df8l65fg22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\90d9b8f6a153814bdf78318dc3bd46d7.jpg,isDecrypt=1]
+[2026-05-17 11:58:31.603] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_skzu6w63kfj422：发鑫盛达快递。
+[2026-05-17 11:58:37.655] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\1b44aafc566e9ee35fbc21641ec8d032.jpg,isDecrypt=1]
+[2026-05-17 11:58:39.037] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\c6117e63aba9c1a4a5b2eb289f61f8f6.jpg,isDecrypt=1]
+[2026-05-17 11:58:43.441] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\783c07d2961a55d2b2636a05fd245c7b.jpg,isDecrypt=1]
+[2026-05-17 11:58:55.339] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\040d626c0b4fa0fa72d6aeb590b259a0.jpg,isDecrypt=1]
+[2026-05-17 11:58:59.266] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）lujianfeng4058：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a97503eac25d086499fb5089241d55bb.jpg,isDecrypt=1]
+[2026-05-17 11:59:08.522] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）lujianfeng4058：就这个位子不一样
+[2026-05-17 11:59:10.567] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_j3bytv85n05n12：@a长安 欧尚 铃木天悦汽配蒋显东\u2005
+[2026-05-17 11:59:10.600] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b5727bc15f569baa7f18e4c952c7c2fe.jpg,isDecrypt=1]
+[2026-05-17 11:59:30.151] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_j3bytv85n05n12：@吴云波\u2005
+[2026-05-17 11:59:34.406] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45317010120@chatroom）wxid_j3bytv85n05n12：@贼嚣张\uD83D\uDE0E\uD83D\uDE0E13667686415\u2005
+[2026-05-17 11:59:48.819] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49388981292@chatroom）wxid_quxskhxpcrjq22：好
+[2026-05-17 12:00:48.706] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：左前倒车镜，左前门饰板，左后门饰板，左前叶子板，看看多少钱
+[2026-05-17 12:00:54.659] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：左前轮眉
+[2026-05-17 12:01:00.455] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）25984983547179220@openim：==
+[2026-05-17 12:04:27.406] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：速度报价
+[2026-05-17 12:06:23.419] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）25984983547179220@openim：稍等 新车
+[2026-05-17 12:06:28.306] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_ec3d0a1q2cvj22：嗯
+[2026-05-17 12:09:58.639] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）25984983547179220@openim：车架: LVGC616Z8TG648864
+车系: 一汽丰田 锋兰达,LHD
+左前倒车镜，87940-0A191 原厂550订货3天不带盖 品牌总成200带盖子 白色
+盖子87945-0R906  原厂260订货1天  下线140 珍珠黑现货
+左前门饰板75074-0A060  原厂380订货2天  品牌85现货
+左后门饰板75078-0A060  原厂320订货2天  品牌85现货
+左前叶子板53802-0A040   原厂850订货2天  190江苏 280南极335 亿升
+[2026-05-17 12:11:23.020] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_8859408593912：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\96a269953e02bb6ec7d9dcbe1da8ec3b.jpg,isDecrypt=1]
+[2026-05-17 12:13:23.018] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）wxid_j3bytv85n05n12：@回忆\u2005[握手][握手][握手]
+[2026-05-17 12:14:34.254] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_j3bytv85n05n12：@小李\u2005
+
+老板材料价格合适吗 是否考虑发货\uD83D\uDE0A
+[2026-05-17 12:14:41.116] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44437388174@chatroom）wxid_j3bytv85n05n12：@A小吴汽修17314938861保险理赔\u2005
+
+老板材料价格合适吗 是否考虑发货\uD83D\uDE0A
+[2026-05-17 12:15:08.295] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_j3bytv85n05n12：@奔驰宝马特斯拉新能源长丰同盛\u2005
+[2026-05-17 12:15:42.742] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47645357511@chatroom）wxid_ft7mpg6cts4n22：[OK][OK]
+[2026-05-17 12:19:28.908] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_hy0lqnbz068522：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2ee288b2a9dbf152c3d85526ae61c968.jpg,isDecrypt=1]
+[2026-05-17 12:19:31.302] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_hy0lqnbz068522：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ab0a62d4827fe2879eacdec503b0457b.jpg,isDecrypt=1]
+[2026-05-17 12:19:34.332] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_hy0lqnbz068522：左后尾灯
+[2026-05-17 12:19:59.824] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_j3bytv85n05n12：@A十心汽配 长安 北汽 铃木 昌河\u2005
+[2026-05-17 12:20:10.070] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_553l8fay7el221：马上
+[2026-05-17 12:21:13.966] wxid_9a4u1rk4w34422 | 收到私聊 | gh_0b8b25c6eeee：<msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[“江海万里，心中念你，便不觉遥远。”《给阿嬷的情书》打动你了吗？]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650423109&idx=1&sn=282cf8c084d6509085537f179e842528&chksm=f557e2d1e9e80fccaccc74dc277bfcd6524959a8765e8ebbf69f2b00028b9fa5a1c23682b279&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[金融时报]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wKO5iakicYQC8drSBL5YSNrq0icia3GhJOnREwVM4UkwtChOf5teA5FwdATx2I4qtDm4S3MgJoLKT8o61HfQKW386y3iaeib2ke6NTcU/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[“江海万里，心中念你，便不觉遥远。”《给阿嬷的情书》打动你了吗？]]></title>
+                    <title_v2><![CDATA[“江海万里，心中念你，便不觉遥远。”《给阿嬷的情书》打动你了吗？]]></title_v2>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650423109&idx=1&sn=282cf8c084d6509085537f179e842528&chksm=f51d6f039478f069e14291d2888782cef468a0fac6f1b229bbe0c75f806c95a58540d6b5a7e4&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1778991352</pub_time>
+                    <summary><![CDATA[给阿嬷叶淑柔最动人的情书，是远在暹罗（今泰国）的陌生人谢南枝，在阿公郑木生为救工友离世后，替他在侨批（家书）里一笔一划写下的“报平安”文字：“江海万里，心中念你，便不觉遥远。湄南河畔木棉花盛开……”你]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wKO5iakicYQC8drSBL5YSNrq0icia3GhJOnREwVM4UkwtChOf5teA5FwdATx2I4qtDm4S3MgJoLKT8o61HfQKW386y3iaeib2ke6NTcU/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>0</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[金融时报]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>4519766578682232833</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wKO5iakicYQC8drSBL5YSNrq0icia3GhJOnREwVM4UkwtChOf5teA5FwdATx2I4qtDm4S3MgJoLKT8o61HfQKW386y3iaeib2ke6NTcU/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wLddsyUbaUfgFugLgjGcgpGuluc0woqcU7PGvXETPZcNnthY68cnGpfIsSKFgcN8puVIBrWmhMZGBicdfhWeMlcrW0t4fCdmZS0/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                    <product_activity>
+                        <activity_type></activity_type>
+                        <activity_tag><![CDATA[]]></activity_tag>
+                        <activity_content><![CDATA[]]></activity_content>
+                    </product_activity>
+                    <has_redpacket_cover_v2>0</has_redpacket_cover_v2>
+                    <has_gift_activity>0</has_gift_activity>
+                    <mall_activity>
+                        <mall_id></mall_id>
+                        <mall_version></mall_version>
+                        <ecs_jump_info_base64><![CDATA[]]></ecs_jump_info_base64>
+                        <mall_tag><![CDATA[]]></mall_tag>
+                        <mall_product_cnt></mall_product_cnt>
+                    </mall_activity>
+                    <preload_picture_info>
+				        
+			        </preload_picture_info>
+                    <share_cover>
+                        <cdn_url><![CDATA[]]></cdn_url>
+                        <width></width>
+                        <height></height>
+                    </share_cover>
+                    <cover_3_4><![CDATA[]]></cover_3_4>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_0b8b25c6eeee]]></username>
+                <nickname><![CDATA[金融时报]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/mmbiz_jpg/ZVFMsm5R3wKO5iakicYQC8drSBL5YSNrq0icia3GhJOnREwVM4UkwtChOf5teA5FwdATx2I4qtDm4S3MgJoLKT8o61HfQKW386y3iaeib2ke6NTcU/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_0b8b25c6eeee]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[金融时报]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2026-05-17 12:21:14.390] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）mapenghui123www456：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\22ea6a9c0b747166d37bfc61c6d12ade.jpg,isDecrypt=1]
+[2026-05-17 12:21:16.795] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】44433338517@chatroom：@远程修车  双桥壹加壹汽修
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：HJRPBGFB5RF191382
+
+厂商：奇瑞汽车
+
+车型：捷途X70 PLUS 2025款 1.5T CVT旗舰PRO 5座
+
+排量：1.5T
+
+询货人：远程修车  双桥壹加壹汽修
+
+补充信息：
+
+    ★发动机型号：SQRE4T15C
+
+    ★车辆类型：中型SUV
+
+    ★变速箱类型：无级变速箱(CVT)
+
+    ★前轮尺寸：● 235/55 R19
+
+    ★后轮尺寸：● 235/55 R19
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 12:21:16
+[2026-05-17 12:21:32.469] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）mapenghui123www456：前轮ABS传感器两个
+[2026-05-17 12:21:47.852] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_553l8fay7el221：外尾灯  255
+[2026-05-17 12:22:13.360] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_j3bytv85n05n12：@.\u2005
+[2026-05-17 12:22:34.334] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）wxid_j3bytv85n05n12：@奇瑞 开瑞 捷途 观致 凯翼安瑞汽配\u2005
+[2026-05-17 12:23:36.271] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_s6oz1uxn72q212：前刹车片，刹车盘
+[2026-05-17 12:23:37.262] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_s6oz1uxn72q212：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d9d3e42ef5405097204e02dbbf207e1a.jpg,isDecrypt=1]
+[2026-05-17 12:23:54.176] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）wxid_50k7ivj361ya22：马上报价
+[2026-05-17 12:24:11.814] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_n1g5z8osz6aq22：前刹车片85配套，刹车盘130一个配套
+[2026-05-17 12:25:14.603] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）wxid_50k7ivj361ya22：正厂配套65/个轮
+[2026-05-17 12:25:47.874] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）wxid_j3bytv85n05n12：@远程修车  双桥壹加壹汽修\u2005
+[2026-05-17 12:25:58.646] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_j3bytv85n05n12：@A \uD83D\uDD25\u2005[握手]
+[2026-05-17 12:26:26.315] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_n1g5z8osz6aq22：刹车盘算120一个@A \uD83D\uDD25\u2005
+[2026-05-17 12:31:51.677] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_cmfqsghabw4k22：来拿
+[2026-05-17 12:31:58.328] wxid_9a4u1rk4w34422 | 收到群聊 | 群（51951419633@chatroom）wxid_12j8pwj94dxr22：好
+[2026-05-17 12:43:25.341] wxid_9a4u1rk4w34422 | 收到群聊 | 群（44433338517@chatroom）mapenghui123www456：好
+[2026-05-17 12:46:33.169] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）qq745804035：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\fa170b3b8202a5665a4900188f7fc4dd.jpg,isDecrypt=1]
+[2026-05-17 12:46:46.344] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】48547311024@chatroom：@嘛哩噶
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LJDGAA227B0188162
+
+厂商：起亚
+
+车型：福瑞迪 2011款 1.6L MT GL
+
+排量：1.6L
+
+询货人：嘛哩噶
+
+补充信息：
+
+    ★发动机型号：G4FC
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：手动变速箱(MT)
+
+    ★前轮尺寸：● 195/65 R15
+
+    ★后轮尺寸：● 195/65 R15
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 12:46:46
+[2026-05-17 12:47:38.777] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_j3bytv85n05n12：@AA聚禾奔驰宝马现代起亚丰田\u2005
+[2026-05-17 12:47:47.789] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）qq745804035：气门室盖垫
+
+右后外门把手
+
+发动机皮带
+[2026-05-17 12:49:02.283] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_bgur3ll9jza322：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\61c4a858e4457740d7f82b816303a359.jpg,isDecrypt=1]
+[2026-05-17 12:49:05.765] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43565345067@chatroom：@凯旋
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LDC953T2XE1070934
+
+厂商：东风标致
+
+车型：标致308 2014款 乐享版 经典 1.6L 手动优尚型
+
+排量：1.6L
+
+询货人：凯旋
+
+补充信息：
+
+    ★发动机型号：NFP
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：手动变速箱(MT)
+
+    ★前轮尺寸：● 205/55 R16
+
+    ★后轮尺寸：● 205/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 12:49:05
+[2026-05-17 12:49:10.163] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_bgur3ll9jza322：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3188" length="5288" bufid="0" aeskey="6266746a71746e617862716669767261" voiceurl="3052020100044b304902010002048bfc766302033d14b902045212607102046a0948c5042464623339633330342d326262312d343464392d396430362d65666439356530623862393002040528000f0201000400c31dc07b" voicemd5="88a5679991accc0396e529894c2e5709" clientmsgid="4fc9ef7fc7ac3000978ca2bc004b1eec19dce1a70934af7da34c8b024d36a594_4980_1778993349" fromusername="wxid_bgur3ll9jza322" /></msg>
+[2026-05-17 12:49:38.433] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）："【汽配排名】彭彭彭客服（最优价）"邀请"标致雪铁龙铁世誉三、标致-雪铁龙--铁世誉一"加入了群聊
+[2026-05-17 12:49:42.760] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_j3bytv85n05n12：正式皮带和气门室盖垫。
+[2026-05-17 12:49:48.509] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\bc04c0585b9065c5c8db41b5bbee9198.jpg,isDecrypt=1]
+[2026-05-17 12:49:50.657] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43565345067@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LDC953T2XE1070934
+
+厂商：东风标致
+
+车型：标致308 2014款 乐享版 经典 1.6L 手动优尚型
+
+排量：1.6L
+
+询货人：【汽配排名】彭彭彭客服（最优价）
+
+补充信息：
+
+    ★发动机型号：NFP
+
+    ★车辆类型：紧凑型车
+
+    ★变速箱类型：手动变速箱(MT)
+
+    ★前轮尺寸：● 205/55 R16
+
+    ★后轮尺寸：● 205/55 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 12:49:50
+[2026-05-17 12:49:53.951] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_j3bytv85n05n12：@标致雪铁龙铁世誉三\u2005@标致-雪铁龙--铁世誉一\u2005
+[2026-05-17 12:50:54.829] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_ifno8l5ezoya22：外拉手做漆的吗
+[2026-05-17 12:52:05.028] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_ifno8l5ezoya22：气门室盖垫20/30
+火花塞油封10块一个
+ 垫子+油封成套的 30   40 一套
+右后外拉手30
+发电机皮带50   70下线 原厂140
+不包邮
+[2026-05-17 12:54:07.721] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_j3bytv85n05n12：@嘛哩噶\u2005[握手][握手][握手]
+[2026-05-17 12:55:27.402] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="BizRecommendCard">
+    <BizRecommendCard>
+        <CardName><![CDATA[Notify]]></CardName>
+        <CardBuffer><![CDATA[CAMaNHsiYml6dWluIjoyMzkzOTA4NzkxLCJtc2dpZCI6MjY1MTIzMTA1OSwiaXRlbWlkeCI6MX0iH25ld3NmbGFzaF8zMTgxMTYwNzgxXzE3Nzg5OTM3MjYovpSl0AY=]]></CardBuffer>
+    </BizRecommendCard>
+</sysmsg>
+[2026-05-17 13:00:53.541] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57075186142@chatroom）wxid_htsynarvl7mi22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\22fb561d92e63f73109791f14281c27e.jpg,isDecrypt=1]
+[2026-05-17 13:00:54.139] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57075186142@chatroom）wxid_htsynarvl7mi22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\168ae03b9f4cf7b76c0716b9ee8b10ff.jpg,isDecrypt=1]
+[2026-05-17 13:00:54.979] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57075186142@chatroom）wxid_htsynarvl7mi22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\9c07a1842c25b2347199dabfe16867e5.jpg,isDecrypt=1]
+[2026-05-17 13:00:55.569] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57075186142@chatroom）wxid_htsynarvl7mi22：轮毂
+[2026-05-17 13:01:28.952] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57075186142@chatroom）wxid_j3bytv85n05n12：@\u00A0 \u00A0 \u00A0\u2005什么车的
+[2026-05-17 13:08:35.953] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）qq745804035：做漆的多少
+[2026-05-17 13:08:49.906] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_j3bytv85n05n12：@AA聚禾奔驰宝马现代起亚丰田\u2005
+[2026-05-17 13:11:07.122] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_37fu2k7dz3z022：稍等
+[2026-05-17 13:11:16.853] wxid_9a4u1rk4w34422 | 发出私聊 | 【发送】wxid_nwrplpmxrwyq22：[file=C:\Users\Lenovo\Documents\WeChat Files\wxid_9a4u1rk4w34422\FileStorage\Video\2026-05\5f9e80c8731979710ffc88ab57ac605b.mp4]
+[2026-05-17 13:11:36.668] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_ifno8l5ezoya22：30
+[2026-05-17 13:11:40.093] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_37fu2k7dz3z022：正时皮带 盖茨100   正式套件正产260  盖茨220
+气门室盖垫配套20*2=40 品牌10*2=20
+[2026-05-17 13:11:57.452] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48547311024@chatroom）wxid_j3bytv85n05n12：@嘛哩噶\u2005
+[2026-05-17 13:12:03.445] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_j3bytv85n05n12：@凯旋\u2005[握手][握手][握手]
+[2026-05-17 13:12:42.546] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50011856098@chatroom）wxid_y976srdr30qt21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\18f8d0fe11362d1c46abae8226cebc09.jpg,isDecrypt=1]
+[2026-05-17 13:12:51.607] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50011856098@chatroom）wxid_y976srdr30qt21：转角传感器
+[2026-05-17 13:13:20.963] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50011856098@chatroom）wxid_j3bytv85n05n12：@盛达 张刚林\u2005@盛达 奔驰宝马路虎福特林肯沃尔沃\u2005
+[2026-05-17 13:13:45.656] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50011856098@chatroom）wxid_imq8u471wb8l22：稍等
+[2026-05-17 13:15:15.909] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50011856098@chatroom）wxid_imq8u471wb8l22：品牌230  合资275
+[2026-05-17 13:16:40.146] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50011856098@chatroom）wxid_j3bytv85n05n12：@朋达汽修18580962562二手车收售\u2005[握手][握手][握手]
+[2026-05-17 13:17:49.691] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：@A重庆鑫利达奔驰宝马路虎捷豹\u2005
+[2026-05-17 13:17:49.702] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：[file=C:\Users\Lenovo\Documents\WeChat Files\wxid_9a4u1rk4w34422\FileStorage\Video\2026-05\a7c5e078f7f0d14dd9145c5f852717f9.mp4]
+[2026-05-17 13:17:55.115] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）zhangfan2231：有没有盖子
+[2026-05-17 13:18:32.393] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）wxid_4xcxov7x8rug22：道氏的带盖子 品牌不带盖子
+[2026-05-17 13:21:47.638] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wjyjshihaoren：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\6dc57c4e6467558042682a149770cea4.jpg,isDecrypt=1]
+[2026-05-17 13:21:49.939] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】50377484866@chatroom：@王俊羽 18608845645
+
+
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LFB1F0683M2L25175
+
+厂商：一汽红旗
+
+车型：红旗HS7 2021款 3.0T 自动四驱智联旗享版
+
+排量：3.0T
+
+询货人：王俊羽 18608845645
+
+补充信息：
+
+    ★发动机型号：CA6GV30TD
+
+    ★车辆类型：中大型SUV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 255/50 R19
+
+    ★后轮尺寸：● 255/50 R19
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 13:21:49
+[2026-05-17 13:21:51.933] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wjyjshihaoren：前刹车盘
+[2026-05-17 13:21:53.788] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：3
+[2026-05-17 13:22:06.992] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）50266692797@chatroom：<sysmsg type="pat">
+<pat>
+  <fromusername>wxid_j3bytv85n05n12</fromusername>
+  <chatusername>50266692797@chatroom</chatusername>
+  <pattedusername>zhangfan2231</pattedusername>
+  <patsuffix><![CDATA[马屁]]></patsuffix>
+  <patsuffixversion>2</patsuffixversion>
+
+
+
+
+
+
+  <template><![CDATA["${wxid_j3bytv85n05n12}" 拍了拍 "${zhangfan2231}" 马屁]]></template>
+
+
+
+
+
+
+
+</pat>
+</sysmsg>
+[2026-05-17 13:22:06.998] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50266692797@chatroom）wxid_j3bytv85n05n12："【汽配排名】彭彭彭客服（最优价）" 拍了拍 "A-章凡-一定要快乐" 马屁
+[2026-05-17 13:22:09.778] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：4
+[2026-05-17 13:22:13.863] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_j3bytv85n05n12：@昆明睿隆红旗全车件批发68225993\u2005
+[2026-05-17 13:23:58.415] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_7osba9wrirtd12：270一个
+[2026-05-17 13:24:06.975] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_j3bytv85n05n12：@王俊羽 18608845645\u2005[握手][握手][握手]
+[2026-05-17 13:26:34.210] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wjyjshihaoren：护板锰钢
+[2026-05-17 13:28:24.841] wxid_9a4u1rk4w34422 | 发出私聊 | 【发送】wxid_nwrplpmxrwyq22：[file=C:\Users\Lenovo\Documents\WeChat Files\wxid_9a4u1rk4w34422\FileStorage\File\2026-05\WxVinBotPor_使用说明手册.docx]
+[2026-05-17 13:29:39.223] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_7osba9wrirtd12：260
+[2026-05-17 13:29:46.226] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_j3bytv85n05n12：@王俊羽 18608845645\u2005
+[2026-05-17 13:30:30.461] wxid_9a4u1rk4w34422 | 收到群聊 | 群（52694312446@chatroom）wxid_0pyw4eqoinbm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a84a64085723f641f1919d504f4be9fa.jpg,isDecrypt=1]
+[2026-05-17 13:30:31.070] wxid_9a4u1rk4w34422 | 收到群聊 | 群（52694312446@chatroom）wxid_0pyw4eqoinbm22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\daee22d1785fe9d645467d94efd2b00f.jpg,isDecrypt=1]
+[2026-05-17 13:30:33.660] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】52694312446@chatroom：@龙里汽专家养车行，王清平
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+=====★车辆信息★=====
+
+车架：LVRHDCAC3GN217190
+
+厂商：长安马自达
+
+车型：马自达CX-5 2015款 2.0L 自动两驱舒适型
+
+排量：2.0L
+
+询货人：龙里汽专家养车行，王清平
+
+补充信息：
+
+★发动机型号：PE
+
+★车辆类型：紧凑型SUV
+
+★变速箱类型：手自一体变速箱(AT)
+
+★前轮尺寸：● 225/65 R17
+
+★后轮尺寸：● 225/65 R17
+
+温馨建议：
+
+★机油用量：4.0L
+
+★机油粘度：5W-30
+
+★机油等级：全合成
+
+★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 13:30:33
+[2026-05-17 13:30:46.359] wxid_9a4u1rk4w34422 | 收到群聊 | 群（52694312446@chatroom）wxid_j3bytv85n05n12：@贵阳晨旭马自达奔腾红旗\uD83C\uDDE8\uD83C\uDDF3\u2005
+[2026-05-17 13:31:00.758] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：有没有皮卡鼓风机 今天能发货的
+[2026-05-17 13:31:12.648] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_j3bytv85n05n12：@A A重庆盛泽汽配13883967279皮卡\u2005
+[2026-05-17 13:31:25.593] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_70adcanv0z5321：什么车
+[2026-05-17 13:31:31.545] wxid_9a4u1rk4w34422 | 收到群聊 | 群（52694312446@chatroom）wxid_0pyw4eqoinbm22：右后门外饰板，右前门外饰板
+[2026-05-17 13:31:39.920] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\7c1685040994a6351dd0a9fae1166a76.jpg,isDecrypt=1]
+[2026-05-17 13:31:41.653] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ff5b1f35b58c2f39d61773e291469ec1.jpg,isDecrypt=1]
+[2026-05-17 13:31:44.275] wxid_9a4u1rk4w34422 | 收到群聊 | 群（52694312446@chatroom）wxid_0rqormkd4xm822：右后门外饰板60，右前门外饰板60
+[2026-05-17 13:31:47.933] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_j3bytv85n05n12：@A A重庆盛泽汽配13883967279皮卡\u2005
+[2026-05-17 13:32:18.848] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_70adcanv0z5321：100
+[2026-05-17 13:32:20.797] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_70adcanv0z5321：品牌
+[2026-05-17 13:32:22.107] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_70adcanv0z5321：能发
+[2026-05-17 13:32:37.946] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：正厂没有吗
+[2026-05-17 13:33:13.254] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_70adcanv0z5321：没货
+[2026-05-17 13:33:30.158] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wjyjshihaoren：发前刹车片一对，护板
+[2026-05-17 13:36:39.617] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：品牌质保好久
+[2026-05-17 13:36:48.812] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_70adcanv0z5321：1年
+[2026-05-17 13:36:55.759] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_7osba9wrirtd12：刹车盘吧
+[2026-05-17 13:39:09.489] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_7osba9wrirtd12：还是要刹车片
+[2026-05-17 13:39:15.514] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_ms51vbagfx0d22：这个有单独的没得
+[2026-05-17 13:39:17.402] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_ms51vbagfx0d22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\db844d7250f9fb5f466e144994390d59.jpg,isDecrypt=1]
+[2026-05-17 13:40:39.468] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_kryza617vkkd21：前轮轴承
+[2026-05-17 13:40:40.558] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_kryza617vkkd21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ee7c2e31d45d3f1c47cbdb31a04b1ce6.jpg,isDecrypt=1]
+[2026-05-17 13:41:05.414] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：安排发下来
+[2026-05-17 13:41:07.650] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_p5c8v5zv8qg222：路鹏货运
+[2026-05-17 13:41:26.085] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wjyjshihaoren：刹车盘
+[2026-05-17 13:41:44.342] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_j3bytv85n05n12：@昆明睿隆红旗全车件批发68225993\u2005
+[2026-05-17 13:41:57.941] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43059764416@chatroom）wxid_j3bytv85n05n12：@A A重庆盛泽汽配13883967279皮卡\u2005
+[2026-05-17 13:42:17.099] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_ms51vbagfx0d22：一汽迈腾
+[2026-05-17 13:42:24.446] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_ms51vbagfx0d22：@A01大众奥迪斯柯达  重庆圣立\u2005
+[2026-05-17 13:42:39.993] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_j3bytv85n05n12：@迪泰奇瑞捷途星途凯翼开瑞国金\u2005@迪泰.奇瑞全系.捷途.星途凯翼-田\u2005
+[2026-05-17 13:43:06.937] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_ms51vbagfx0d22：中间位置的遮阳盖是叫
+[2026-05-17 13:43:25.010] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50377484866@chatroom）wxid_7osba9wrirtd12：好
+[2026-05-17 13:43:30.243] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_uk48p87hs69u22：没有
+[2026-05-17 13:43:33.132] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：4
+[2026-05-17 13:43:34.124] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_yy7iwfl1r84422：前轮轴承  65 配套
+需要量外径的大小 分 74和78
+[2026-05-17 13:43:54.972] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50079294655@chatroom）wxid_j3bytv85n05n12：@Sugu\u2005
+[2026-05-17 13:44:07.872] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43695983037@chatroom）wxid_ms51vbagfx0d22：它不是单独的吗？意思是

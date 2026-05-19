@@ -1,0 +1,1662 @@
+[2026-05-10 20:39:56.157] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-10 20:39:56.158] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-10 20:39:56.158] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-10 20:39:56.158] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-10 20:39:56.565] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-10 20:39:56.571] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-10 20:40:06.216] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-10 20:40:07.683] 框架 | 提示 | 微信启动成功[xA9sQBbY2I7oamzF.dll]，端口[7208]，等待登录...
+[2026-05-10 20:40:08.165] 框架 | 提示 | 注入成功，端口[7208]，pid[32640]
+[2026-05-10 20:41:58.240] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-10 21:03:23.976] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7208]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-10 21:03:23.976] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-10 21:04:21.096] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\80da68ec753b534c60a8f2b23377c4ab.jpg,isDecrypt=1]
+[2026-05-10 21:07:08.607] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-10 21:08:02.139] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-10 21:08:39.783] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3f81d01089fd6d3eea22fa9704d71841.jpg,isDecrypt=1]
+[2026-05-10 21:10:26.580] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2
+[2026-05-10 21:10:55.550] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：3
+[2026-05-10 21:12:59.279] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d177cf19691713c9b4f07c31650ed85c.jpg,isDecrypt=1]
+[2026-05-10 21:13:32.712] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\63455897351ed618e556847d41ede4ba.jpg,isDecrypt=1]
+[2026-05-10 21:19:09.898] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：3
+[2026-05-10 21:19:20.968] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：4
+[2026-05-10 21:19:34.744] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="BizRecommendCard">
+    <BizRecommendCard>
+        <CardName><![CDATA[Notify]]></CardName>
+        <CardBuffer><![CDATA[CAcaNHsiYml6dWluIjoxOTk2NDQ1MDAxLCJtc2dpZCI6MjY1MDg3NjUwMSwiaXRlbWlkeCI6MX0iH25ld3NmbGFzaF8zMTgxMTYwNzgxXzE3Nzg0MTkxNzYo6IuC0AY=]]></CardBuffer>
+    </BizRecommendCard>
+</sysmsg>
+[2026-05-10 21:20:38.368] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\aac8404550b60a18e271b082384d0f4e.jpg,isDecrypt=1]
+[2026-05-10 21:20:56.533] 框架 | 提示 | [WebSocket客户端]连接中，请稍等...
+[2026-05-10 21:21:09.694] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\766883a963c99328b321f58991e6a04f.jpg,isDecrypt=1]
+[2026-05-10 21:21:26.763] 框架 | 错误 | [WebSocket客户端]连接失败
+[2026-05-10 21:25:47.455] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：4
+[2026-05-10 21:25:59.570] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：5
+[2026-05-10 21:27:53.738] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：5
+[2026-05-10 21:28:25.155] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：6
+[2026-05-10 21:30:06.806] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b01c137740c7919484868686c6b62563.jpg,isDecrypt=1]
+[2026-05-10 21:30:22.198] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3b2bfd12d9dbbbfc332c22ed362d8e95.jpg,isDecrypt=1]
+[2026-05-10 21:31:53.928] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\dc950df7c274dcd731ca4a64b0479b9f.jpg,isDecrypt=1]
+[2026-05-10 21:31:59.482] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[旺柴]
+[2026-05-10 21:32:00.326] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[旺柴]
+[2026-05-10 21:32:05.614] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：h
+[2026-05-10 21:32:15.927] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：6
+[2026-05-10 21:33:06.804] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：7
+[2026-05-10 21:36:08.577] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\70925f64f8b0c78cfee7f9355e2c988f.jpg,isDecrypt=1]
+[2026-05-10 21:36:36.158] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\48a0c2669e156eff38a98c9884c75de7.jpg,isDecrypt=1]
+[2026-05-10 21:37:01.500] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：7
+[2026-05-10 21:38:17.239] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：8
+[2026-05-10 21:38:57.169] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a86f406fdd1c4dc2a533b7d7629e7bf5.jpg,isDecrypt=1]
+[2026-05-10 21:39:36.958] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[流泪]
+[2026-05-10 21:39:43.110] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\43dcecbbd7715b8d6a9762016f142550.jpg,isDecrypt=1]
+[2026-05-10 21:43:25.449] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：8
+[2026-05-10 21:44:19.651] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：9
+[2026-05-10 21:45:03.699] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\8e45a4f8fb4d984ab02592b424c36cc9.jpg,isDecrypt=1]
+[2026-05-10 21:45:27.261] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\f2d8d7e3ef8a431f02d1d504aa2a701c.jpg,isDecrypt=1]
+[2026-05-10 21:46:36.044] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：4
+[2026-05-10 21:47:15.333] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：9
+[2026-05-10 21:48:13.913] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\19a521763bc7a4a5016362379a1e9292.jpg,isDecrypt=1]
+[2026-05-10 21:49:29.835] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：10
+[2026-05-10 21:49:50.572] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5f689e45ffe682a4bf101df453bce520.jpg,isDecrypt=1]
+[2026-05-10 21:50:28.186] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\abfe8ba42a2cbb7e9b3e87a1e52fa297.jpg,isDecrypt=1]
+[2026-05-10 21:55:00.406] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\12771aa8c486a971e273daa8a8f315e4.jpg,isDecrypt=1]
+[2026-05-10 21:59:04.785] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：10
+[2026-05-10 21:59:14.927] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：11
+[2026-05-10 22:00:14.622] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：11
+[2026-05-10 22:00:24.020] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：12
+[2026-05-10 22:00:55.443] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\1e8693dfab27aced180bfd84d28fe531.jpg,isDecrypt=1]
+[2026-05-10 22:01:56.265] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a97bd3dfe43af5c45741e39a42b9cb6f.jpg,isDecrypt=1]
+[2026-05-10 22:02:02.251] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2f4b8de72811ea52d65619eb2a4b543a.jpg,isDecrypt=1]
+[2026-05-10 22:03:23.196] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:23.538] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:23.545] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:23.550] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:23.555] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:23.865] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:23.870] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.090] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.095] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.101] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.107] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.112] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.118] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.188] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:24.398] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a852ff9703d782a05cbb7fe54641f6c7.jpg,isDecrypt=1]
+[2026-05-10 22:03:26.037] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[图片]
+[2026-05-10 22:03:26.351] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ca7b7f52f5e351de20fd70ab08204b41.jpg,isDecrypt=1]
+[2026-05-10 22:03:46.658] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：12
+[2026-05-10 22:05:06.801] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：13
+[2026-05-10 22:05:29.943] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\84c2b868bf181e19d72604636f846245.jpg,isDecrypt=1]
+[2026-05-10 22:06:00.139] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：13
+[2026-05-10 22:06:16.288] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：14
+[2026-05-10 22:06:29.198] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\4fe7bfb9d6677ee80fee94ee524b3b76.jpg,isDecrypt=1]
+[2026-05-10 22:06:29.828] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3026fd2448f4c97d1a69c935d21e756b.jpg,isDecrypt=1]
+[2026-05-10 22:06:30.983] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\f53dd2f3f48bb77dcf1ae95d8afe392a.jpg,isDecrypt=1]
+[2026-05-10 22:06:31.807] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\51aa4c832f56391b77265250b65c1c98.jpg,isDecrypt=1]
+[2026-05-10 22:06:32.851] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3e33fd25ce53048ddbee637691567a99.jpg,isDecrypt=1]
+[2026-05-10 22:07:23.326] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\7c2f2a900cbac8bc51dc6d0e51b858db.jpg,isDecrypt=1]
+[2026-05-10 22:07:23.836] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0f1834d4c79f1eeda854badb1d63aa4f.jpg,isDecrypt=1]
+[2026-05-10 22:07:24.497] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\dfbb550e89962638208b2c956e29ff22.jpg,isDecrypt=1]
+[2026-05-10 22:07:25.678] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0b400776d069c63fe5b9d4e5d59d7474.jpg,isDecrypt=1]
+[2026-05-10 22:07:26.471] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b267fa86654055643055d81bcbd3bac6.jpg,isDecrypt=1]
+[2026-05-10 22:07:29.168] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\abd1d5fef66bce7014f1412cb870e327.jpg,isDecrypt=1]
+[2026-05-10 22:07:29.911] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\87fc3a802c30daa3c7b1964121849e0f.jpg,isDecrypt=1]
+[2026-05-10 22:07:31.033] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\433b101dce8bc2d260877ad0a62dbc3b.jpg,isDecrypt=1]
+[2026-05-10 22:10:08.867] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3b029be65a2a1e75f19f76940f171312.jpg,isDecrypt=1]
+[2026-05-10 22:10:09.199] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\79f411c45debed87d39022c93114ecf5.jpg,isDecrypt=1]
+[2026-05-10 22:10:09.713] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0f374acc375e9c9bac6a2ade6b965ba4.jpg,isDecrypt=1]
+[2026-05-10 22:10:10.067] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ebd72dff3030dd115e2b88f8b87f740b.jpg,isDecrypt=1]
+[2026-05-10 22:11:00.093] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45103203010@chatroom）wxid_kux9yqp2kjdv21：[已收款]
+[2026-05-10 22:11:10.412] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：14
+[2026-05-10 22:14:55.513] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title><![CDATA[登录操作通知]]></title>
+		<des><![CDATA[你的微信账号“Rick汽配链APP机器人”进行了网站登录操作
+
+登录微信号：jcwh29
+登录网站：月之暗面登录
+登录网址：login.moonshot.cn
+登录时间：2026年05月10日22:14
+
+如有疑问，请登录kf.qq.com联系在线客服]]></des>
+		<action />
+		<type>5</type>
+		<showtype>1</showtype>
+		<soundtype>0</soundtype>
+		<content><![CDATA[]]></content>
+		<contentattr>0</contentattr>
+		<url><![CDATA[https://open.weixin.qq.com/connect/infopage?appid=wx7473f0ddf35a1c22&date=2026%E5%B9%B405%E6%9C%8810%E6%97%A522%3A14&urldomain=login.moonshot.cn&signature=0bc403f1db635d6b0f9e808b25678683#wechat_redirect]]></url>
+		<lowurl><![CDATA[]]></lowurl>
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<fileext />
+			<cdnthumburl><![CDATA[]]></cdnthumburl>
+			<cdnthumbaeskey><![CDATA[]]></cdnthumbaeskey>
+			<aeskey><![CDATA[]]></aeskey>
+		</appattach>
+		<extinfo />
+		<sourceusername><![CDATA[]]></sourceusername>
+		<sourcedisplayname><![CDATA[]]></sourcedisplayname>
+		<mmreader>
+			<category type="0" count="1">
+				<name><![CDATA[微信团队]]></name>
+				<topnew>
+					<cover><![CDATA[]]></cover>
+					<width>0</width>
+					<height>0</height>
+					<digest><![CDATA[你的微信账号“Rick汽配链APP机器人”进行了网站登录操作
+
+登录微信号：jcwh29
+登录网站：月之暗面登录
+登录网址：login.moonshot.cn
+登录时间：2026年05月10日22:14
+
+如有疑问，请登录kf.qq.com联系在线客服]]></digest>
+				</topnew>
+				<item>
+					<itemshowtype>4</itemshowtype>
+					<title><![CDATA[登录操作通知]]></title>
+					<url><![CDATA[https://open.weixin.qq.com/connect/infopage?appid=wx7473f0ddf35a1c22&date=2026%E5%B9%B405%E6%9C%8810%E6%97%A522%3A14&urldomain=login.moonshot.cn&signature=0bc403f1db635d6b0f9e808b25678683#wechat_redirect]]></url>
+					<shorturl><![CDATA[]]></shorturl>
+					<longurl><![CDATA[]]></longurl>
+					<pub_time>1778422497</pub_time>
+					<cover><![CDATA[]]></cover>
+					<tweetid />
+					<digest><![CDATA[你的微信账号“Rick汽配链APP机器人”进行了网站登录操作
+
+登录微信号：jcwh29
+登录网站：月之暗面登录
+登录网址：login.moonshot.cn
+登录时间：2026年05月10日22:14
+
+如有疑问，请登录kf.qq.com联系在线客服]]></digest>
+					<fileid>0</fileid>
+					<sources>
+						<source>
+							<name><![CDATA[微信团队]]></name>
+						</source>
+					</sources>
+					<styles>
+						<topColor><![CDATA[#00FF00]]></topColor>
+						<style>
+							<range><![CDATA[{7,13}]]></range>
+							<font><![CDATA[s]]></font>
+							<color><![CDATA[#000000]]></color>
+						</style>
+						<style>
+							<range><![CDATA[{38,6}]]></range>
+							<font><![CDATA[s]]></font>
+							<color><![CDATA[#000000]]></color>
+						</style>
+						<style>
+							<range><![CDATA[{50,6}]]></range>
+							<font><![CDATA[s]]></font>
+							<color><![CDATA[#000000]]></color>
+						</style>
+						<style>
+							<range><![CDATA[{62,17}]]></range>
+							<font><![CDATA[s]]></font>
+							<color><![CDATA[#000000]]></color>
+						</style>
+						<style>
+							<range><![CDATA[{85,16}]]></range>
+							<font><![CDATA[s]]></font>
+							<color><![CDATA[#000000]]></color>
+						</style>
+					</styles>
+					<native_url />
+					<del_flag>0</del_flag>
+					<contentattr>0</contentattr>
+					<play_length>0</play_length>
+					<play_url><![CDATA[]]></play_url>
+					<voice_id><![CDATA[]]></voice_id>
+					<tid><![CDATA[]]></tid>
+					<nonce_id><![CDATA[]]></nonce_id>
+					<voice_type>0</voice_type>
+					<player><![CDATA[]]></player>
+					<template_op_type>0</template_op_type>
+					<weapp_username><![CDATA[]]></weapp_username>
+					<weapp_path><![CDATA[]]></weapp_path>
+					<weapp_version>0</weapp_version>
+					<weapp_state>0</weapp_state>
+					<music_source>0</music_source>
+					<pic_num>0</pic_num>
+					<show_complaint_button>0</show_complaint_button>
+					<vid><![CDATA[]]></vid>
+					<recommendation><![CDATA[]]></recommendation>
+					<pic_urls />
+					<multi_picture_cover />
+					<comment_topic_id>0</comment_topic_id>
+					<cover_235_1><![CDATA[]]></cover_235_1>
+					<cover_1_1><![CDATA[]]></cover_1_1>
+					<cover_16_9><![CDATA[]]></cover_16_9>
+					<appmsg_like_type>0</appmsg_like_type>
+					<video_width>0</video_width>
+					<video_height>0</video_height>
+					<is_pay_subscribe>0</is_pay_subscribe>
+					<summary><![CDATA[]]></summary>
+					<general_string><![CDATA[]]></general_string>
+					<finder_feed />
+					<finder_live />
+					<right_cover_url />
+					<text_title><![CDATA[]]></text_title>
+					<has_redpacket_cover>0</has_redpacket_cover>
+				</item>
+			</category>
+			<publisher>
+				<username><![CDATA[weixin]]></username>
+				<nickname><![CDATA[微信团队]]></nickname>
+			</publisher>
+			<template_header />
+			<template_detail />
+			<forbid_forward>0</forbid_forward>
+			<notify_msg />
+		</mmreader>
+		<thumburl><![CDATA[]]></thumburl>
+		<template_id><![CDATA[5Itti0pmD1gBWk8Wg7TRKAQaw43kWMeyWcJyrXw7UpU]]></template_id>
+	</appmsg>
+	<fromusername><![CDATA[weixin]]></fromusername>
+	<appinfo>
+		<version>0</version>
+		<appname><![CDATA[微信团队]]></appname>
+		<isforceupdate>1</isforceupdate>
+	</appinfo>
+</msg>
+
+[2026-05-10 22:58:49.545] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：15
+[2026-05-10 23:00:03.986] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="functionmsg">
+<functionmsg>
+<cgi>/cgi-bin/micromsg-bin/pullfunctionmsg</cgi>
+<cmdid>614</cmdid>
+<functionmsgid>MMKANYIKAN_JINGXUANREDDOT_1778421900</functionmsgid>
+<retryinterval>150</retryinterval>
+<retrycount>3</retrycount>
+<custombuff>YIqkAXIKMTc3ODQyMTkwMHoGd2VpeGluigEkTU1LQU5ZSUtBTl9KSU5HWFVBTlJFRERPVF8xNzc4NDIxOTAwqgFsVUY4azZHWE15UGVBRjNiRkhjZDJBTERFd1lOMVJ0MzhSOHZ3dm54V1RBNjMvUkRJNXpjZ0tyTUdJNEJScGpZYVEwaE9RVW1JaG9zQ0dHUDZvcmk3eUlaNWVoL1hlbFJYK056emhRcklZQU09</custombuff>
+<businessid>21002</businessid>
+<actiontime>1778421609</actiontime>
+<functionmsgversion>2</functionmsgversion>
+</functionmsg>
+</sysmsg>
+[2026-05-10 23:00:04.109] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\df22aeff43e9a6dd4e8ca50fc6c0c508.jpg,isDecrypt=1]
+[2026-05-10 23:04:30.389] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\b2fe0ba8c85740fea942016eab5cf921.jpg,isDecrypt=1]
+[2026-05-10 23:08:57.001] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：15
+[2026-05-10 23:09:44.926] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\4179775068089f1a17d32c4da959930c.jpg,isDecrypt=1]
+[2026-05-10 23:11:28.192] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：16
+[2026-05-10 23:19:22.106] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="BizRecommendCard">
+    <BizRecommendCard>
+        <CardName><![CDATA[Notify]]></CardName>
+        <CardBuffer><![CDATA[CAcaNHsiYml6dWluIjozMDg5MDUxMTMyLCJtc2dpZCI6MjY1MTcxNzg2MywiaXRlbWlkeCI6MX0iH25ld3NmbGFzaF8zMTgxMTYwNzgxXzE3Nzg0MjYzNjMo+8OC0AY=]]></CardBuffer>
+    </BizRecommendCard>
+</sysmsg>
+[2026-05-11 10:52:42.486] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7208]
+[2026-05-11 21:10:19.538] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-11 21:10:21.066] 框架 | 提示 | 微信启动成功[L3vyoOohRJqzplvQ.dll]，端口[7237]，等待登录...
+[2026-05-11 21:10:21.358] 框架 | 提示 | 注入成功，端口[7237]，pid[18628]
+[2026-05-11 21:11:09.809] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7237]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-11 21:11:09.809] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-11 21:12:06.414] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>这个会不会在使用的时候  出现这个情况</title>
+		<des />
+		<username />
+		<action>view</action>
+		<type>57</type>
+		<showtype>0</showtype>
+		<content />
+		<url />
+		<lowurl />
+		<forwardflag>0</forwardflag>
+		<dataurl />
+		<lowdataurl />
+		<contentattr>0</contentattr>
+		<streamvideo>
+			<streamvideourl />
+			<streamvideototaltime>0</streamvideototaltime>
+			<streamvideotitle />
+			<streamvideowording />
+			<streamvideoweburl />
+			<streamvideothumburl />
+			<streamvideoaduxinfo />
+			<streamvideopublishid />
+		</streamvideo>
+		<canvasPageItem>
+			<canvasPageXml><![CDATA[]]></canvasPageXml>
+		</canvasPageItem>
+		<refermsg>
+			<type>1</type>
+			<svrid>7000933011214316775</svrid>
+			<fromusr>43345253685@chatroom</fromusr>
+			<chatusr>wxid_nwrplpmxrwyq22</chatusr>
+			<displayname>Muke～</displayname>
+			<msgsource>&lt;msgsource&gt;
+	&lt;atuserlist&gt;&lt;![CDATA[wxid_hha9fdncmcvz21]]&gt;&lt;/atuserlist&gt;
+	&lt;pua&gt;1&lt;/pua&gt;
+	&lt;alnode&gt;
+		&lt;cf&gt;5&lt;/cf&gt;
+		&lt;inlenlist&gt;15&lt;/inlenlist&gt;
+	&lt;/alnode&gt;
+	&lt;eggIncluded&gt;1&lt;/eggIncluded&gt;
+	&lt;silence&gt;1&lt;/silence&gt;
+	&lt;membercount&gt;6&lt;/membercount&gt;
+	&lt;signature&gt;N0_V1_ht9rjn05|v1_xBxkn3RX&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<content>
+@13647609166Mr\u2005昨天夜里压力测试请求过快kimi限制了</content>
+			<strid />
+			<createtime>1778504928</createtime>
+		</refermsg>
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<cdnattachurl />
+			<emoticonmd5 />
+			<aeskey />
+			<fileext />
+			<islargefilemsg>0</islargefilemsg>
+		</appattach>
+		<extinfo />
+		<androidsource>0</androidsource>
+		<thumburl />
+		<mediatagname />
+		<messageaction><![CDATA[]]></messageaction>
+		<messageext><![CDATA[]]></messageext>
+		<emoticongift>
+			<packageflag>0</packageflag>
+			<packageid />
+		</emoticongift>
+		<emoticonshared>
+			<packageflag>0</packageflag>
+			<packageid />
+		</emoticonshared>
+		<designershared>
+			<designeruin>0</designeruin>
+			<designername>null</designername>
+			<designerrediretcturl><![CDATA[null]]></designerrediretcturl>
+		</designershared>
+		<emotionpageshared>
+			<tid>0</tid>
+			<title>null</title>
+			<desc>null</desc>
+			<iconUrl><![CDATA[null]]></iconUrl>
+			<secondUrl>null</secondUrl>
+			<pageType>0</pageType>
+			<setKey>null</setKey>
+		</emotionpageshared>
+		<webviewshared>
+			<shareUrlOriginal />
+			<shareUrlOpen />
+			<jsAppId />
+			<publisherId />
+			<publisherReqId />
+		</webviewshared>
+		<template_id />
+		<md5 />
+		<websearch>
+			<rec_category>0</rec_category>
+			<channelId>0</channelId>
+		</websearch>
+		<weappinfo>
+			<username />
+			<appid />
+			<appservicetype>0</appservicetype>
+			<secflagforsinglepagemode>0</secflagforsinglepagemode>
+			<videopageinfo>
+				<thumbwidth>0</thumbwidth>
+				<thumbheight>0</thumbheight>
+				<fromopensdk>0</fromopensdk>
+			</videopageinfo>
+		</weappinfo>
+		<statextstr />
+		<musicShareItem>
+			<musicDuration>0</musicDuration>
+		</musicShareItem>
+		<finderLiveProductShare>
+			<finderLiveID><![CDATA[]]></finderLiveID>
+			<finderUsername><![CDATA[]]></finderUsername>
+			<finderObjectID><![CDATA[]]></finderObjectID>
+			<finderNonceID><![CDATA[]]></finderNonceID>
+			<liveStatus><![CDATA[]]></liveStatus>
+			<appId><![CDATA[]]></appId>
+			<pagePath><![CDATA[]]></pagePath>
+			<productId><![CDATA[]]></productId>
+			<coverUrl><![CDATA[]]></coverUrl>
+			<productTitle><![CDATA[]]></productTitle>
+			<marketPrice><![CDATA[0]]></marketPrice>
+			<sellingPrice><![CDATA[0]]></sellingPrice>
+			<platformHeadImg><![CDATA[]]></platformHeadImg>
+			<platformName><![CDATA[]]></platformName>
+			<shopWindowId><![CDATA[]]></shopWindowId>
+			<flashSalePrice><![CDATA[0]]></flashSalePrice>
+			<flashSaleEndTime><![CDATA[0]]></flashSaleEndTime>
+			<ecSource><![CDATA[]]></ecSource>
+			<sellingPriceWording><![CDATA[]]></sellingPriceWording>
+			<platformIconURL><![CDATA[]]></platformIconURL>
+			<firstProductTagURL><![CDATA[]]></firstProductTagURL>
+			<firstProductTagAspectRatioString><![CDATA[0.0]]></firstProductTagAspectRatioString>
+			<secondProductTagURL><![CDATA[]]></secondProductTagURL>
+			<secondProductTagAspectRatioString><![CDATA[0.0]]></secondProductTagAspectRatioString>
+			<firstGuaranteeWording><![CDATA[]]></firstGuaranteeWording>
+			<secondGuaranteeWording><![CDATA[]]></secondGuaranteeWording>
+			<thirdGuaranteeWording><![CDATA[]]></thirdGuaranteeWording>
+			<isPriceBeginShow>false</isPriceBeginShow>
+			<lastGMsgID><![CDATA[]]></lastGMsgID>
+			<promoterKey><![CDATA[]]></promoterKey>
+			<discountWording><![CDATA[]]></discountWording>
+			<priceSuffixDescription><![CDATA[]]></priceSuffixDescription>
+			<productCardKey><![CDATA[]]></productCardKey>
+			<isWxShop><![CDATA[]]></isWxShop>
+			<brandIconUrl><![CDATA[]]></brandIconUrl>
+			<rIconUrl><![CDATA[]]></rIconUrl>
+			<rIconUrlDarkMode><![CDATA[]]></rIconUrlDarkMode>
+			<topShopIconUrl><![CDATA[]]></topShopIconUrl>
+			<topShopIconUrlDarkMode><![CDATA[]]></topShopIconUrlDarkMode>
+			<simplifyTopShopIconUrl><![CDATA[]]></simplifyTopShopIconUrl>
+			<simplifyTopShopIconUrlDarkmode><![CDATA[]]></simplifyTopShopIconUrlDarkmode>
+			<topShopIconWidth><![CDATA[0]]></topShopIconWidth>
+			<topShopIconHeight><![CDATA[0]]></topShopIconHeight>
+			<simplifyTopShopIconWidth><![CDATA[0]]></simplifyTopShopIconWidth>
+			<simplifyTopShopIconHeight><![CDATA[0]]></simplifyTopShopIconHeight>
+			<showBoxItemStringList />
+		</finderLiveProductShare>
+		<finderOrder>
+			<appID><![CDATA[]]></appID>
+			<orderID><![CDATA[]]></orderID>
+			<path><![CDATA[]]></path>
+			<priceWording><![CDATA[]]></priceWording>
+			<stateWording><![CDATA[]]></stateWording>
+			<productImageURL><![CDATA[]]></productImageURL>
+			<products><![CDATA[]]></products>
+			<productsCount><![CDATA[0]]></productsCount>
+			<orderType><![CDATA[0]]></orderType>
+			<newPriceWording><![CDATA[]]></newPriceWording>
+			<newStateWording><![CDATA[]]></newStateWording>
+			<useNewWording><![CDATA[0]]></useNewWording>
+		</finderOrder>
+		<finderShopWindowShare>
+			<finderUsername><![CDATA[]]></finderUsername>
+			<avatar><![CDATA[]]></avatar>
+			<nickname><![CDATA[]]></nickname>
+			<commodityInStockCount><![CDATA[]]></commodityInStockCount>
+			<appId><![CDATA[]]></appId>
+			<path><![CDATA[]]></path>
+			<appUsername><![CDATA[]]></appUsername>
+			<query><![CDATA[]]></query>
+			<liteAppId><![CDATA[]]></liteAppId>
+			<liteAppPath><![CDATA[]]></liteAppPath>
+			<liteAppQuery><![CDATA[]]></liteAppQuery>
+			<platformTagURL><![CDATA[]]></platformTagURL>
+			<saleWording><![CDATA[]]></saleWording>
+			<lastGMsgID><![CDATA[]]></lastGMsgID>
+			<profileTypeWording><![CDATA[]]></profileTypeWording>
+			<saleWordingExtra><![CDATA[]]></saleWordingExtra>
+			<isWxShop><![CDATA[]]></isWxShop>
+			<platformIconUrl><![CDATA[]]></platformIconUrl>
+			<brandIconUrl><![CDATA[]]></brandIconUrl>
+			<description><![CDATA[]]></description>
+			<backgroundUrl><![CDATA[]]></backgroundUrl>
+			<darkModePlatformIconUrl><![CDATA[]]></darkModePlatformIconUrl>
+			<rIconUrl><![CDATA[]]></rIconUrl>
+			<rIconUrlDarkMode><![CDATA[]]></rIconUrlDarkMode>
+			<rWords><![CDATA[]]></rWords>
+			<topShopIconUrl><![CDATA[]]></topShopIconUrl>
+			<topShopIconUrlDarkMode><![CDATA[]]></topShopIconUrlDarkMode>
+			<simplifyTopShopIconUrl><![CDATA[]]></simplifyTopShopIconUrl>
+			<simplifyTopShopIconUrlDarkmode><![CDATA[]]></simplifyTopShopIconUrlDarkmode>
+			<topShopIconWidth><![CDATA[0]]></topShopIconWidth>
+			<topShopIconHeight><![CDATA[0]]></topShopIconHeight>
+			<simplifyTopShopIconWidth><![CDATA[0]]></simplifyTopShopIconWidth>
+			<simplifyTopShopIconHeight><![CDATA[0]]></simplifyTopShopIconHeight>
+			<reputationInfo>
+				<hasReputationInfo>0</hasReputationInfo>
+				<reputationScore>0</reputationScore>
+				<reputationWording />
+				<reputationTextColor />
+				<reputationLevelWording />
+				<reputationBackgroundColor />
+			</reputationInfo>
+			<productImageURLList />
+		</finderShopWindowShare>
+		<findernamecard>
+			<username />
+			<avatar><![CDATA[]]></avatar>
+			<nickname />
+			<auth_job />
+			<auth_icon>0</auth_icon>
+			<auth_icon_url />
+			<ecSource><![CDATA[]]></ecSource>
+			<lastGMsgID><![CDATA[]]></lastGMsgID>
+		</findernamecard>
+		<finderGuarantee>
+			<scene><![CDATA[0]]></scene>
+		</finderGuarantee>
+		<directshare>0</directshare>
+		<gamecenter>
+			<namecard>
+				<iconUrl />
+				<name />
+				<desc />
+				<tail />
+				<jumpUrl />
+				<liteappId />
+				<liteappPath />
+				<liteappQuery />
+				<liteappMinVersion />
+			</namecard>
+		</gamecenter>
+		<patMsg>
+			<chatUser />
+			<records>
+				<recordNum>0</recordNum>
+			</records>
+		</patMsg>
+		<secretmsg>
+			<issecretmsg>0</issecretmsg>
+		</secretmsg>
+		<referfromscene>0</referfromscene>
+		<gameshare>
+			<liteappext>
+				<liteappbizdata />
+				<priority>0</priority>
+			</liteappext>
+			<appbrandext>
+				<litegameinfo />
+				<priority>-1</priority>
+			</appbrandext>
+			<gameshareid />
+			<sharedata />
+			<isvideo>0</isvideo>
+			<duration>-1</duration>
+			<isexposed>0</isexposed>
+			<readtext />
+		</gameshare>
+		<tingChatRoomItem>
+			<type>0</type>
+			<categoryItem>null</categoryItem>
+			<categoryId />
+		</tingChatRoomItem>
+		<mpsharetrace>
+			<hasfinderelement>0</hasfinderelement>
+			<lastgmsgid />
+		</mpsharetrace>
+		<wxgamecard>
+			<framesetname />
+			<mbcarddata />
+			<minpkgversion />
+			<clientextinfo />
+			<mbcardheight>0</mbcardheight>
+			<isoldversion>0</isoldversion>
+		</wxgamecard>
+		<ecskfcard>
+			<framesetname />
+			<mbcarddata />
+			<minupdateunixtimestamp>0</minupdateunixtimestamp>
+			<needheader>false</needheader>
+			<summary />
+		</ecskfcard>
+		<liteapp>
+			<id>null</id>
+			<path />
+			<query />
+			<istransparent>0</istransparent>
+			<hideicon>0</hideicon>
+			<forbidforward>0</forbidforward>
+		</liteapp>
+		<opensdk_share_is_modified>0</opensdk_share_is_modified>
+	</appmsg>
+	<fromusername>wxid_hha9fdncmcvz21</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-11 21:12:35.688] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：17
+[2026-05-11 21:13:30.049] wxid_9a4u1rk4w34422 | 收到私聊 | gh_0b8b25c6eeee：<msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[央行发布重磅报告！]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650422747&idx=1&sn=d0439f24d77cc1694ea5bb9d7a61d6ab&chksm=f56f1763830043adbc633d9c307bc61a7348748278cc8552991c6a65632a34009b2cf95e1f72&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[金融时报]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wIHDSDnqAWXNjiaNojlIicftKibwPUeydh09cYvrkL8V75gyl4Fd8LMKVaAw2xFIZjTpm0KPppbLib7goB1HfgtnNic0wQULDsX4JjY/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[央行发布重磅报告！]]></title>
+                    <title_v2><![CDATA[央行发布重磅报告！]]></title_v2>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650422747&idx=1&sn=d0439f24d77cc1694ea5bb9d7a61d6ab&chksm=f575edd07f42410ef245059d0f593d29b819360820c7588e6e006d8cc7017ac51e5a07162bc9&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1778504890</pub_time>
+                    <summary><![CDATA[5月11日，央行发布《2026年第一季度中国货币政策执行报告》（以下简称《报告》）。《报告》指出，今年以来，在以习近平同志为核心的党中央坚强领导下，国民经济起步有力，主要指标好于预期，彰显强大韧性和活]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wIHDSDnqAWXNjiaNojlIicftKibwPUeydh09cYvrkL8V75gyl4Fd8LMKVaAw2xFIZjTpm0KPppbLib7goB1HfgtnNic0wQULDsX4JjY/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>0</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[金融时报]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>4511605105866932225</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wIHDSDnqAWXNjiaNojlIicftKibwPUeydh09cYvrkL8V75gyl4Fd8LMKVaAw2xFIZjTpm0KPppbLib7goB1HfgtnNic0wQULDsX4JjY/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wJY1t92ovXogzXNw2s8Bichiamd4CfXAr5d7V66fz93TpiaqCpMHy1oHbp4icJ1rqwiaWIYAeia6eTZgmfqq04lY3ViawGXlKRr5XKXaI/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                    <product_activity>
+                        <activity_type></activity_type>
+                        <activity_tag><![CDATA[]]></activity_tag>
+                        <activity_content><![CDATA[]]></activity_content>
+                    </product_activity>
+                    <has_redpacket_cover_v2>0</has_redpacket_cover_v2>
+                    <has_gift_activity>0</has_gift_activity>
+                    <mall_activity>
+                        <mall_id></mall_id>
+                        <mall_version></mall_version>
+                        <ecs_jump_info_base64><![CDATA[]]></ecs_jump_info_base64>
+                        <mall_tag><![CDATA[]]></mall_tag>
+                        <mall_product_cnt></mall_product_cnt>
+                    </mall_activity>
+                    <preload_picture_info>
+				        
+			        </preload_picture_info>
+                    <share_cover>
+                        <cdn_url><![CDATA[]]></cdn_url>
+                        <width></width>
+                        <height></height>
+                    </share_cover>
+                    <cover_3_4><![CDATA[]]></cover_3_4>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_0b8b25c6eeee]]></username>
+                <nickname><![CDATA[金融时报]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wIHDSDnqAWXNjiaNojlIicftKibwPUeydh09cYvrkL8V75gyl4Fd8LMKVaAw2xFIZjTpm0KPppbLib7goB1HfgtnNic0wQULDsX4JjY/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_0b8b25c6eeee]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[金融时报]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2026-05-11 21:13:46.643] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5b5e8a3ebc7afbfab65050cd236854f6.jpg,isDecrypt=1]
+[2026-05-11 21:14:15.810] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\2d9fad80a6d2b78bb1a816084d1c6962.jpg,isDecrypt=1]
+[2026-05-11 21:17:43.891] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：17
+[2026-05-11 21:18:40.877] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：16
+[2026-05-11 21:20:56.937] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：18
+[2026-05-11 21:21:43.977] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\4425f673fd96c08a3a40ee0d3610f1be.jpg,isDecrypt=1]
+[2026-05-11 21:21:50.027] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>不会</title>
+		<des />
+		<username />
+		<action>view</action>
+		<type>57</type>
+		<showtype>0</showtype>
+		<content />
+		<url />
+		<lowurl />
+		<forwardflag>0</forwardflag>
+		<dataurl />
+		<lowdataurl />
+		<contentattr>0</contentattr>
+		<streamvideo>
+			<streamvideourl />
+			<streamvideototaltime>0</streamvideototaltime>
+			<streamvideotitle />
+			<streamvideowording />
+			<streamvideoweburl />
+			<streamvideothumburl />
+			<streamvideoaduxinfo />
+			<streamvideopublishid />
+		</streamvideo>
+		<canvasPageItem>
+			<canvasPageXml><![CDATA[]]></canvasPageXml>
+		</canvasPageItem>
+		<refermsg>
+			<type>49</type>
+			<svrid>6226940954655742789</svrid>
+			<fromusr>43345253685@chatroom</fromusr>
+			<chatusr>wxid_hha9fdncmcvz21</chatusr>
+			<displayname>13647609166Mr</displayname>
+			<content>&lt;?xml version="1.0"?&gt;
+&lt;msg&gt;
+	&lt;appmsg appid="" sdkver="0"&gt;
+		&lt;title&gt;这个会不会在使用的时候  出现这个情况&lt;/title&gt;
+		&lt;des /&gt;
+		&lt;username /&gt;
+		&lt;action&gt;view&lt;/action&gt;
+		&lt;type&gt;57&lt;/type&gt;
+		&lt;showtype&gt;0&lt;/showtype&gt;
+		&lt;content /&gt;
+		&lt;url /&gt;
+		&lt;lowurl /&gt;
+		&lt;forwardflag&gt;0&lt;/forwardflag&gt;
+		&lt;dataurl /&gt;
+		&lt;lowdataurl /&gt;
+		&lt;contentattr&gt;0&lt;/contentattr&gt;
+		&lt;streamvideo&gt;
+			&lt;streamvideourl /&gt;
+			&lt;streamvideototaltime&gt;0&lt;/streamvideototaltime&gt;
+			&lt;streamvideotitle /&gt;
+			&lt;streamvideowording /&gt;
+			&lt;streamvideoweburl /&gt;
+			&lt;streamvideothumburl /&gt;
+			&lt;streamvideoaduxinfo /&gt;
+			&lt;streamvideopublishid /&gt;
+		&lt;/streamvideo&gt;
+		&lt;canvasPageItem&gt;
+			&lt;canvasPageXml&gt;&lt;![CDATA[]]&gt;&lt;/canvasPageXml&gt;
+		&lt;/canvasPageItem&gt;
+		&lt;refermsg&gt;&lt;/refermsg&gt;
+		&lt;appattach&gt;
+			&lt;totallen&gt;0&lt;/totallen&gt;
+			&lt;attachid /&gt;
+			&lt;cdnattachurl /&gt;
+			&lt;emoticonmd5 /&gt;
+			&lt;aeskey /&gt;
+			&lt;fileext /&gt;
+			&lt;islargefilemsg&gt;0&lt;/islargefilemsg&gt;
+		&lt;/appattach&gt;
+		&lt;extinfo /&gt;
+		&lt;androidsource&gt;0&lt;/androidsource&gt;
+		&lt;thumburl /&gt;
+		&lt;mediatagname /&gt;
+		&lt;messageaction&gt;&lt;![CDATA[]]&gt;&lt;/messageaction&gt;
+		&lt;messageext&gt;&lt;![CDATA[]]&gt;&lt;/messageext&gt;
+		&lt;emoticongift&gt;
+			&lt;packageflag&gt;0&lt;/packageflag&gt;
+			&lt;packageid /&gt;
+		&lt;/emoticongift&gt;
+		&lt;emoticonshared&gt;
+			&lt;packageflag&gt;0&lt;/packageflag&gt;
+			&lt;packageid /&gt;
+		&lt;/emoticonshared&gt;
+		&lt;designershared&gt;
+			&lt;designeruin&gt;0&lt;/designeruin&gt;
+			&lt;designername&gt;null&lt;/designername&gt;
+			&lt;designerrediretcturl&gt;&lt;![CDATA[null]]&gt;&lt;/designerrediretcturl&gt;
+		&lt;/designershared&gt;
+		&lt;emotionpageshared&gt;
+			&lt;tid&gt;0&lt;/tid&gt;
+			&lt;title&gt;null&lt;/title&gt;
+			&lt;desc&gt;null&lt;/desc&gt;
+			&lt;iconUrl&gt;&lt;![CDATA[null]]&gt;&lt;/iconUrl&gt;
+			&lt;secondUrl&gt;null&lt;/secondUrl&gt;
+			&lt;pageType&gt;0&lt;/pageType&gt;
+			&lt;setKey&gt;null&lt;/setKey&gt;
+		&lt;/emotionpageshared&gt;
+		&lt;webviewshared&gt;
+			&lt;shareUrlOriginal /&gt;
+			&lt;shareUrlOpen /&gt;
+			&lt;jsAppId /&gt;
+			&lt;publisherId /&gt;
+			&lt;publisherReqId /&gt;
+		&lt;/webviewshared&gt;
+		&lt;template_id /&gt;
+		&lt;md5 /&gt;
+		&lt;websearch&gt;
+			&lt;rec_category&gt;0&lt;/rec_category&gt;
+			&lt;channelId&gt;0&lt;/channelId&gt;
+		&lt;/websearch&gt;
+		&lt;weappinfo&gt;
+			&lt;username /&gt;
+			&lt;appid /&gt;
+			&lt;appservicetype&gt;0&lt;/appservicetype&gt;
+			&lt;secflagforsinglepagemode&gt;0&lt;/secflagforsinglepagemode&gt;
+			&lt;videopageinfo&gt;
+				&lt;thumbwidth&gt;0&lt;/thumbwidth&gt;
+				&lt;thumbheight&gt;0&lt;/thumbheight&gt;
+				&lt;fromopensdk&gt;0&lt;/fromopensdk&gt;
+			&lt;/videopageinfo&gt;
+		&lt;/weappinfo&gt;
+		&lt;statextstr /&gt;
+		&lt;musicShareItem&gt;
+			&lt;musicDuration&gt;0&lt;/musicDuration&gt;
+		&lt;/musicShareItem&gt;
+		&lt;finderLiveProductShare&gt;
+			&lt;finderLiveID&gt;&lt;![CDATA[]]&gt;&lt;/finderLiveID&gt;
+			&lt;finderUsername&gt;&lt;![CDATA[]]&gt;&lt;/finderUsername&gt;
+			&lt;finderObjectID&gt;&lt;![CDATA[]]&gt;&lt;/finderObjectID&gt;
+			&lt;finderNonceID&gt;&lt;![CDATA[]]&gt;&lt;/finderNonceID&gt;
+			&lt;liveStatus&gt;&lt;![CDATA[]]&gt;&lt;/liveStatus&gt;
+			&lt;appId&gt;&lt;![CDATA[]]&gt;&lt;/appId&gt;
+			&lt;pagePath&gt;&lt;![CDATA[]]&gt;&lt;/pagePath&gt;
+			&lt;productId&gt;&lt;![CDATA[]]&gt;&lt;/productId&gt;
+			&lt;coverUrl&gt;&lt;![CDATA[]]&gt;&lt;/coverUrl&gt;
+			&lt;productTitle&gt;&lt;![CDATA[]]&gt;&lt;/productTitle&gt;
+			&lt;marketPrice&gt;&lt;![CDATA[0]]&gt;&lt;/marketPrice&gt;
+			&lt;sellingPrice&gt;&lt;![CDATA[0]]&gt;&lt;/sellingPrice&gt;
+			&lt;platformHeadImg&gt;&lt;![CDATA[]]&gt;&lt;/platformHeadImg&gt;
+			&lt;platformName&gt;&lt;![CDATA[]]&gt;&lt;/platformName&gt;
+			&lt;shopWindowId&gt;&lt;![CDATA[]]&gt;&lt;/shopWindowId&gt;
+			&lt;flashSalePrice&gt;&lt;![CDATA[0]]&gt;&lt;/flashSalePrice&gt;
+			&lt;flashSaleEndTime&gt;&lt;![CDATA[0]]&gt;&lt;/flashSaleEndTime&gt;
+			&lt;ecSource&gt;&lt;![CDATA[]]&gt;&lt;/ecSource&gt;
+			&lt;sellingPriceWording&gt;&lt;![CDATA[]]&gt;&lt;/sellingPriceWording&gt;
+			&lt;platformIconURL&gt;&lt;![CDATA[]]&gt;&lt;/platformIconURL&gt;
+			&lt;firstProductTagURL&gt;&lt;![CDATA[]]&gt;&lt;/firstProductTagURL&gt;
+			&lt;firstProductTagAspectRatioString&gt;&lt;![CDATA[0.0]]&gt;&lt;/firstProductTagAspectRatioString&gt;
+			&lt;secondProductTagURL&gt;&lt;![CDATA[]]&gt;&lt;/secondProductTagURL&gt;
+			&lt;secondProductTagAspectRatioString&gt;&lt;![CDATA[0.0]]&gt;&lt;/secondProductTagAspectRatioString&gt;
+			&lt;firstGuaranteeWording&gt;&lt;![CDATA[]]&gt;&lt;/firstGuaranteeWording&gt;
+			&lt;secondGuaranteeWording&gt;&lt;![CDATA[]]&gt;&lt;/secondGuaranteeWording&gt;
+			&lt;thirdGuaranteeWording&gt;&lt;![CDATA[]]&gt;&lt;/thirdGuaranteeWording&gt;
+			&lt;isPriceBeginShow&gt;false&lt;/isPriceBeginShow&gt;
+			&lt;lastGMsgID&gt;&lt;![CDATA[]]&gt;&lt;/lastGMsgID&gt;
+			&lt;promoterKey&gt;&lt;![CDATA[]]&gt;&lt;/promoterKey&gt;
+			&lt;discountWording&gt;&lt;![CDATA[]]&gt;&lt;/discountWording&gt;
+			&lt;priceSuffixDescription&gt;&lt;![CDATA[]]&gt;&lt;/priceSuffixDescription&gt;
+			&lt;productCardKey&gt;&lt;![CDATA[]]&gt;&lt;/productCardKey&gt;
+			&lt;isWxShop&gt;&lt;![CDATA[]]&gt;&lt;/isWxShop&gt;
+			&lt;brandIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/brandIconUrl&gt;
+			&lt;rIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/rIconUrl&gt;
+			&lt;rIconUrlDarkMode&gt;&lt;![CDATA[]]&gt;&lt;/rIconUrlDarkMode&gt;
+			&lt;topShopIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/topShopIconUrl&gt;
+			&lt;topShopIconUrlDarkMode&gt;&lt;![CDATA[]]&gt;&lt;/topShopIconUrlDarkMode&gt;
+			&lt;simplifyTopShopIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/simplifyTopShopIconUrl&gt;
+			&lt;simplifyTopShopIconUrlDarkmode&gt;&lt;![CDATA[]]&gt;&lt;/simplifyTopShopIconUrlDarkmode&gt;
+			&lt;topShopIconWidth&gt;&lt;![CDATA[0]]&gt;&lt;/topShopIconWidth&gt;
+			&lt;topShopIconHeight&gt;&lt;![CDATA[0]]&gt;&lt;/topShopIconHeight&gt;
+			&lt;simplifyTopShopIconWidth&gt;&lt;![CDATA[0]]&gt;&lt;/simplifyTopShopIconWidth&gt;
+			&lt;simplifyTopShopIconHeight&gt;&lt;![CDATA[0]]&gt;&lt;/simplifyTopShopIconHeight&gt;
+			&lt;showBoxItemStringList /&gt;
+		&lt;/finderLiveProductShare&gt;
+		&lt;finderOrder&gt;
+			&lt;appID&gt;&lt;![CDATA[]]&gt;&lt;/appID&gt;
+			&lt;orderID&gt;&lt;![CDATA[]]&gt;&lt;/orderID&gt;
+			&lt;path&gt;&lt;![CDATA[]]&gt;&lt;/path&gt;
+			&lt;priceWording&gt;&lt;![CDATA[]]&gt;&lt;/priceWording&gt;
+			&lt;stateWording&gt;&lt;![CDATA[]]&gt;&lt;/stateWording&gt;
+			&lt;productImageURL&gt;&lt;![CDATA[]]&gt;&lt;/productImageURL&gt;
+			&lt;products&gt;&lt;![CDATA[]]&gt;&lt;/products&gt;
+			&lt;productsCount&gt;&lt;![CDATA[0]]&gt;&lt;/productsCount&gt;
+			&lt;orderType&gt;&lt;![CDATA[0]]&gt;&lt;/orderType&gt;
+			&lt;newPriceWording&gt;&lt;![CDATA[]]&gt;&lt;/newPriceWording&gt;
+			&lt;newStateWording&gt;&lt;![CDATA[]]&gt;&lt;/newStateWording&gt;
+			&lt;useNewWording&gt;&lt;![CDATA[0]]&gt;&lt;/useNewWording&gt;
+		&lt;/finderOrder&gt;
+		&lt;finderShopWindowShare&gt;
+			&lt;finderUsername&gt;&lt;![CDATA[]]&gt;&lt;/finderUsername&gt;
+			&lt;avatar&gt;&lt;![CDATA[]]&gt;&lt;/avatar&gt;
+			&lt;nickname&gt;&lt;![CDATA[]]&gt;&lt;/nickname&gt;
+			&lt;commodityInStockCount&gt;&lt;![CDATA[]]&gt;&lt;/commodityInStockCount&gt;
+			&lt;appId&gt;&lt;![CDATA[]]&gt;&lt;/appId&gt;
+			&lt;path&gt;&lt;![CDATA[]]&gt;&lt;/path&gt;
+			&lt;appUsername&gt;&lt;![CDATA[]]&gt;&lt;/appUsername&gt;
+			&lt;query&gt;&lt;![CDATA[]]&gt;&lt;/query&gt;
+			&lt;liteAppId&gt;&lt;![CDATA[]]&gt;&lt;/liteAppId&gt;
+			&lt;liteAppPath&gt;&lt;![CDATA[]]&gt;&lt;/liteAppPath&gt;
+			&lt;liteAppQuery&gt;&lt;![CDATA[]]&gt;&lt;/liteAppQuery&gt;
+			&lt;platformTagURL&gt;&lt;![CDATA[]]&gt;&lt;/platformTagURL&gt;
+			&lt;saleWording&gt;&lt;![CDATA[]]&gt;&lt;/saleWording&gt;
+			&lt;lastGMsgID&gt;&lt;![CDATA[]]&gt;&lt;/lastGMsgID&gt;
+			&lt;profileTypeWording&gt;&lt;![CDATA[]]&gt;&lt;/profileTypeWording&gt;
+			&lt;saleWordingExtra&gt;&lt;![CDATA[]]&gt;&lt;/saleWordingExtra&gt;
+			&lt;isWxShop&gt;&lt;![CDATA[]]&gt;&lt;/isWxShop&gt;
+			&lt;platformIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/platformIconUrl&gt;
+			&lt;brandIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/brandIconUrl&gt;
+			&lt;description&gt;&lt;![CDATA[]]&gt;&lt;/description&gt;
+			&lt;backgroundUrl&gt;&lt;![CDATA[]]&gt;&lt;/backgroundUrl&gt;
+			&lt;darkModePlatformIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/darkModePlatformIconUrl&gt;
+			&lt;rIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/rIconUrl&gt;
+			&lt;rIconUrlDarkMode&gt;&lt;![CDATA[]]&gt;&lt;/rIconUrlDarkMode&gt;
+			&lt;rWords&gt;&lt;![CDATA[]]&gt;&lt;/rWords&gt;
+			&lt;topShopIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/topShopIconUrl&gt;
+			&lt;topShopIconUrlDarkMode&gt;&lt;![CDATA[]]&gt;&lt;/topShopIconUrlDarkMode&gt;
+			&lt;simplifyTopShopIconUrl&gt;&lt;![CDATA[]]&gt;&lt;/simplifyTopShopIconUrl&gt;
+			&lt;simplifyTopShopIconUrlDarkmode&gt;&lt;![CDATA[]]&gt;&lt;/simplifyTopShopIconUrlDarkmode&gt;
+			&lt;topShopIconWidth&gt;&lt;![CDATA[0]]&gt;&lt;/topShopIconWidth&gt;
+			&lt;topShopIconHeight&gt;&lt;![CDATA[0]]&gt;&lt;/topShopIconHeight&gt;
+			&lt;simplifyTopShopIconWidth&gt;&lt;![CDATA[0]]&gt;&lt;/simplifyTopShopIconWidth&gt;
+			&lt;simplifyTopShopIconHeight&gt;&lt;![CDATA[0]]&gt;&lt;/simplifyTopShopIconHeight&gt;
+			&lt;reputationInfo&gt;
+				&lt;hasReputationInfo&gt;0&lt;/hasReputationInfo&gt;
+				&lt;reputationScore&gt;0&lt;/reputationScore&gt;
+				&lt;reputationWording /&gt;
+				&lt;reputationTextColor /&gt;
+				&lt;reputationLevelWording /&gt;
+				&lt;reputationBackgroundColor /&gt;
+			&lt;/reputationInfo&gt;
+			&lt;productImageURLList /&gt;
+		&lt;/finderShopWindowShare&gt;
+		&lt;findernamecard&gt;
+			&lt;username /&gt;
+			&lt;avatar&gt;&lt;![CDATA[]]&gt;&lt;/avatar&gt;
+			&lt;nickname /&gt;
+			&lt;auth_job /&gt;
+			&lt;auth_icon&gt;0&lt;/auth_icon&gt;
+			&lt;auth_icon_url /&gt;
+			&lt;ecSource&gt;&lt;![CDATA[]]&gt;&lt;/ecSource&gt;
+			&lt;lastGMsgID&gt;&lt;![CDATA[]]&gt;&lt;/lastGMsgID&gt;
+		&lt;/findernamecard&gt;
+		&lt;finderGuarantee&gt;
+			&lt;scene&gt;&lt;![CDATA[0]]&gt;&lt;/scene&gt;
+		&lt;/finderGuarantee&gt;
+		&lt;directshare&gt;0&lt;/directshare&gt;
+		&lt;gamecenter&gt;
+			&lt;namecard&gt;
+				&lt;iconUrl /&gt;
+				&lt;name /&gt;
+				&lt;desc /&gt;
+				&lt;tail /&gt;
+				&lt;jumpUrl /&gt;
+				&lt;liteappId /&gt;
+				&lt;liteappPath /&gt;
+				&lt;liteappQuery /&gt;
+				&lt;liteappMinVersion /&gt;
+			&lt;/namecard&gt;
+		&lt;/gamecenter&gt;
+		&lt;patMsg&gt;
+			&lt;chatUser /&gt;
+			&lt;records&gt;
+				&lt;recordNum&gt;0&lt;/recordNum&gt;
+			&lt;/records&gt;
+		&lt;/patMsg&gt;
+		&lt;secretmsg&gt;
+			&lt;issecretmsg&gt;0&lt;/issecretmsg&gt;
+		&lt;/secretmsg&gt;
+		&lt;referfromscene&gt;0&lt;/referfromscene&gt;
+		&lt;gameshare&gt;
+			&lt;liteappext&gt;
+				&lt;liteappbizdata /&gt;
+				&lt;priority&gt;0&lt;/priority&gt;
+			&lt;/liteappext&gt;
+			&lt;appbrandext&gt;
+				&lt;litegameinfo /&gt;
+				&lt;priority&gt;-1&lt;/priority&gt;
+			&lt;/appbrandext&gt;
+			&lt;gameshareid /&gt;
+			&lt;sharedata /&gt;
+			&lt;isvideo&gt;0&lt;/isvideo&gt;
+			&lt;duration&gt;-1&lt;/duration&gt;
+			&lt;isexposed&gt;0&lt;/isexposed&gt;
+			&lt;readtext /&gt;
+		&lt;/gameshare&gt;
+		&lt;tingChatRoomItem&gt;
+			&lt;type&gt;0&lt;/type&gt;
+			&lt;categoryItem&gt;null&lt;/categoryItem&gt;
+			&lt;categoryId /&gt;
+		&lt;/tingChatRoomItem&gt;
+		&lt;mpsharetrace&gt;
+			&lt;hasfinderelement&gt;0&lt;/hasfinderelement&gt;
+			&lt;lastgmsgid /&gt;
+		&lt;/mpsharetrace&gt;
+		&lt;wxgamecard&gt;
+			&lt;framesetname /&gt;
+			&lt;mbcarddata /&gt;
+			&lt;minpkgversion /&gt;
+			&lt;clientextinfo /&gt;
+			&lt;mbcardheight&gt;0&lt;/mbcardheight&gt;
+			&lt;isoldversion&gt;0&lt;/isoldversion&gt;
+		&lt;/wxgamecard&gt;
+		&lt;ecskfcard&gt;
+			&lt;framesetname /&gt;
+			&lt;mbcarddata /&gt;
+			&lt;minupdateunixtimestamp&gt;0&lt;/minupdateunixtimestamp&gt;
+			&lt;needheader&gt;false&lt;/needheader&gt;
+			&lt;summary /&gt;
+		&lt;/ecskfcard&gt;
+		&lt;liteapp&gt;
+			&lt;id&gt;null&lt;/id&gt;
+			&lt;path /&gt;
+			&lt;query /&gt;
+			&lt;istransparent&gt;0&lt;/istransparent&gt;
+			&lt;hideicon&gt;0&lt;/hideicon&gt;
+			&lt;forbidforward&gt;0&lt;/forbidforward&gt;
+		&lt;/liteapp&gt;
+		&lt;opensdk_share_is_modified&gt;0&lt;/opensdk_share_is_modified&gt;
+	&lt;/appmsg&gt;
+	&lt;fromusername&gt;wxid_hha9fdncmcvz21&lt;/fromusername&gt;
+	&lt;scene&gt;0&lt;/scene&gt;
+	&lt;appinfo&gt;
+		&lt;version&gt;1&lt;/version&gt;
+		&lt;appname&gt;&lt;/appname&gt;
+	&lt;/appinfo&gt;
+	&lt;commenturl&gt;&lt;/commenturl&gt;
+&lt;/msg&gt;
+</content>
+			<msgsource>&lt;msgsource&gt;
+	&lt;alnode&gt;
+		&lt;fr&gt;4&lt;/fr&gt;
+	&lt;/alnode&gt;
+	&lt;eggIncluded&gt;1&lt;/eggIncluded&gt;
+	&lt;sec_msg_node&gt;
+		&lt;uuid&gt;9c24867d5e24bf48af4cddf9ba2e7b51_&lt;/uuid&gt;
+		&lt;risk-file-flag /&gt;
+		&lt;risk-file-md5-list /&gt;
+	&lt;/sec_msg_node&gt;
+	&lt;silence&gt;0&lt;/silence&gt;
+	&lt;membercount&gt;6&lt;/membercount&gt;
+	&lt;signature&gt;N0_V1_bGlofe2n|v1_wfCqaFzT&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<createtime>1778505125</createtime>
+		</refermsg>
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<cdnattachurl />
+			<emoticonmd5 />
+			<aeskey />
+			<fileext />
+			<islargefilemsg>0</islargefilemsg>
+			<filename />
+		</appattach>
+		<extinfo />
+		<androidsource>0</androidsource>
+		<thumburl />
+		<mediatagname />
+		<messageaction><![CDATA[]]></messageaction>
+		<messageext><![CDATA[]]></messageext>
+		<emoticongift>
+			<packageflag>0</packageflag>
+			<packageid />
+		</emoticongift>
+		<emoticonshared>
+			<packageflag>0</packageflag>
+			<packageid />
+		</emoticonshared>
+		<designershared>
+			<designeruin>0</designeruin>
+			<designername>null</designername>
+			<designerrediretcturl><![CDATA[null]]></designerrediretcturl>
+		</designershared>
+		<emotionpageshared>
+			<tid>0</tid>
+			<title>null</title>
+			<desc>null</desc>
+			<iconUrl><![CDATA[null]]></iconUrl>
+			<secondUrl>null</secondUrl>
+			<pageType>0</pageType>
+			<setKey>null</setKey>
+		</emotionpageshared>
+		<webviewshared>
+			<shareUrlOriginal />
+			<shareUrlOpen />
+			<jsAppId />
+			<publisherId />
+			<publisherReqId />
+		</webviewshared>
+		<template_id />
+		<md5 />
+		<websearch>
+			<rec_category>0</rec_category>
+			<channelId>0</channelId>
+		</websearch>
+		<weappinfo>
+			<username />
+			<appid />
+			<appservicetype>0</appservicetype>
+			<secflagforsinglepagemode>0</secflagforsinglepagemode>
+			<videopageinfo>
+				<thumbwidth>0</thumbwidth>
+				<thumbheight>0</thumbheight>
+				<fromopensdk>0</fromopensdk>
+			</videopageinfo>
+		</weappinfo>
+		<statextstr />
+		<musicShareItem>
+			<musicDuration>0</musicDuration>
+		</musicShareItem>
+		<finderLiveProductShare>
+			<finderLiveID><![CDATA[]]></finderLiveID>
+			<finderUsername><![CDATA[]]></finderUsername>
+			<finderObjectID><![CDATA[]]></finderObjectID>
+			<finderNonceID><![CDATA[]]></finderNonceID>
+			<liveStatus><![CDATA[]]></liveStatus>
+			<appId><![CDATA[]]></appId>
+			<pagePath><![CDATA[]]></pagePath>
+			<productId><![CDATA[]]></productId>
+			<coverUrl><![CDATA[]]></coverUrl>
+			<productTitle><![CDATA[]]></productTitle>
+			<marketPrice><![CDATA[0]]></marketPrice>
+			<sellingPrice><![CDATA[0]]></sellingPrice>
+			<platformHeadImg><![CDATA[]]></platformHeadImg>
+			<platformName><![CDATA[]]></platformName>
+			<shopWindowId><![CDATA[]]></shopWindowId>
+			<flashSalePrice><![CDATA[0]]></flashSalePrice>
+			<flashSaleEndTime><![CDATA[0]]></flashSaleEndTime>
+			<ecSource><![CDATA[]]></ecSource>
+			<sellingPriceWording><![CDATA[]]></sellingPriceWording>
+			<platformIconURL><![CDATA[]]></platformIconURL>
+			<firstProductTagURL><![CDATA[]]></firstProductTagURL>
+			<firstProductTagAspectRatioString><![CDATA[0.0]]></firstProductTagAspectRatioString>
+			<secondProductTagURL><![CDATA[]]></secondProductTagURL>
+			<secondProductTagAspectRatioString><![CDATA[0.0]]></secondProductTagAspectRatioString>
+			<firstGuaranteeWording><![CDATA[]]></firstGuaranteeWording>
+			<secondGuaranteeWording><![CDATA[]]></secondGuaranteeWording>
+			<thirdGuaranteeWording><![CDATA[]]></thirdGuaranteeWording>
+			<isPriceBeginShow>false</isPriceBeginShow>
+			<lastGMsgID><![CDATA[]]></lastGMsgID>
+			<promoterKey><![CDATA[]]></promoterKey>
+			<discountWording><![CDATA[]]></discountWording>
+			<priceSuffixDescription><![CDATA[]]></priceSuffixDescription>
+			<productCardKey><![CDATA[]]></productCardKey>
+			<isWxShop><![CDATA[]]></isWxShop>
+			<brandIconUrl><![CDATA[]]></brandIconUrl>
+			<rIconUrl><![CDATA[]]></rIconUrl>
+			<rIconUrlDarkMode><![CDATA[]]></rIconUrlDarkMode>
+			<topShopIconUrl><![CDATA[]]></topShopIconUrl>
+			<topShopIconUrlDarkMode><![CDATA[]]></topShopIconUrlDarkMode>
+			<simplifyTopShopIconUrl><![CDATA[]]></simplifyTopShopIconUrl>
+			<simplifyTopShopIconUrlDarkmode><![CDATA[]]></simplifyTopShopIconUrlDarkmode>
+			<topShopIconWidth><![CDATA[0]]></topShopIconWidth>
+			<topShopIconHeight><![CDATA[0]]></topShopIconHeight>
+			<simplifyTopShopIconWidth><![CDATA[0]]></simplifyTopShopIconWidth>
+			<simplifyTopShopIconHeight><![CDATA[0]]></simplifyTopShopIconHeight>
+			<maskPriceWording><![CDATA[]]></maskPriceWording>
+			<showBoxItemStringList />
+			<richLabelTitleB64><![CDATA[]]></richLabelTitleB64>
+			<richShopDescB64><![CDATA[]]></richShopDescB64>
+		</finderLiveProductShare>
+		<finderOrder>
+			<appID><![CDATA[]]></appID>
+			<orderID><![CDATA[]]></orderID>
+			<path><![CDATA[]]></path>
+			<priceWording><![CDATA[]]></priceWording>
+			<stateWording><![CDATA[]]></stateWording>
+			<productImageURL><![CDATA[]]></productImageURL>
+			<products><![CDATA[]]></products>
+			<productsCount><![CDATA[0]]></productsCount>
+			<orderType><![CDATA[0]]></orderType>
+			<newPriceWording><![CDATA[]]></newPriceWording>
+			<newStateWording><![CDATA[]]></newStateWording>
+			<useNewWording><![CDATA[0]]></useNewWording>
+		</finderOrder>
+		<finderShopWindowShare>
+			<finderUsername><![CDATA[]]></finderUsername>
+			<avatar><![CDATA[]]></avatar>
+			<nickname><![CDATA[]]></nickname>
+			<commodityInStockCount><![CDATA[]]></commodityInStockCount>
+			<appId><![CDATA[]]></appId>
+			<path><![CDATA[]]></path>
+			<appUsername><![CDATA[]]></appUsername>
+			<query><![CDATA[]]></query>
+			<liteAppId><![CDATA[]]></liteAppId>
+			<liteAppPath><![CDATA[]]></liteAppPath>
+			<liteAppQuery><![CDATA[]]></liteAppQuery>
+			<platformTagURL><![CDATA[]]></platformTagURL>
+			<saleWording><![CDATA[]]></saleWording>
+			<lastGMsgID><![CDATA[]]></lastGMsgID>
+			<profileTypeWording><![CDATA[]]></profileTypeWording>
+			<saleWordingExtra><![CDATA[]]></saleWordingExtra>
+			<isWxShop><![CDATA[]]></isWxShop>
+			<platformIconUrl><![CDATA[]]></platformIconUrl>
+			<brandIconUrl><![CDATA[]]></brandIconUrl>
+			<description><![CDATA[]]></description>
+			<backgroundUrl><![CDATA[]]></backgroundUrl>
+			<darkModePlatformIconUrl><![CDATA[]]></darkModePlatformIconUrl>
+			<rIconUrl><![CDATA[]]></rIconUrl>
+			<rIconUrlDarkMode><![CDATA[]]></rIconUrlDarkMode>
+			<rWords><![CDATA[]]></rWords>
+			<topShopIconUrl><![CDATA[]]></topShopIconUrl>
+			<topShopIconUrlDarkMode><![CDATA[]]></topShopIconUrlDarkMode>
+			<simplifyTopShopIconUrl><![CDATA[]]></simplifyTopShopIconUrl>
+			<simplifyTopShopIconUrlDarkmode><![CDATA[]]></simplifyTopShopIconUrlDarkmode>
+			<topShopIconWidth><![CDATA[0]]></topShopIconWidth>
+			<topShopIconHeight><![CDATA[0]]></topShopIconHeight>
+			<simplifyTopShopIconWidth><![CDATA[0]]></simplifyTopShopIconWidth>
+			<simplifyTopShopIconHeight><![CDATA[0]]></simplifyTopShopIconHeight>
+			<profileMainWording><![CDATA[]]></profileMainWording>
+			<profileSubWording><![CDATA[]]></profileSubWording>
+		</finderShopWindowShare>
+		<findernamecard>
+			<username />
+			<avatar><![CDATA[]]></avatar>
+			<nickname />
+			<auth_job />
+			<auth_icon>0</auth_icon>
+			<auth_icon_url />
+			<ecSource><![CDATA[]]></ecSource>
+			<lastGMsgID><![CDATA[]]></lastGMsgID>
+		</findernamecard>
+		<finderGuarantee>
+			<scene><![CDATA[0]]></scene>
+		</finderGuarantee>
+		<directshare>0</directshare>
+		<gamecenter>
+			<namecard>
+				<iconUrl />
+				<name />
+				<desc />
+				<tail />
+				<jumpUrl />
+				<liteappId />
+				<liteappPath />
+				<liteappQuery />
+				<liteappMinVersion />
+			</namecard>
+		</gamecenter>
+		<patMsg>
+			<chatUser />
+			<records>
+				<recordNum>0</recordNum>
+			</records>
+		</patMsg>
+		<secretmsg>
+			<issecretmsg>0</issecretmsg>
+		</secretmsg>
+		<referfromscene>0</referfromscene>
+		<gameshare>
+			<liteappext>
+				<liteappbizdata />
+				<priority>0</priority>
+			</liteappext>
+			<appbrandext>
+				<litegameinfo />
+				<priority>-1</priority>
+			</appbrandext>
+			<gameshareid />
+			<sharedata />
+			<isvideo>0</isvideo>
+			<duration>-1</duration>
+			<isexposed>0</isexposed>
+			<readtext />
+		</gameshare>
+		<tingChatRoomItem>
+			<type>0</type>
+			<categoryItem>null</categoryItem>
+			<categoryId />
+			<listenItem>null</listenItem>
+		</tingChatRoomItem>
+		<photoaccountnamecard>
+			<username />
+			<nickname />
+			<fromnickname />
+			<fullpy />
+			<shortpy />
+			<alias />
+			<imagestatus>0</imagestatus>
+			<scene>0</scene>
+			<province />
+			<city />
+			<sign />
+			<percard>0</percard>
+			<sex>0</sex>
+			<certflag>0</certflag>
+			<certinfo />
+			<certinfoext />
+			<brandIconUrl><![CDATA[]]></brandIconUrl>
+			<brandHomeUrl><![CDATA[]]></brandHomeUrl>
+			<brandSubscriptConfigUrl><![CDATA[]]></brandSubscriptConfigUrl>
+			<brandFlags>0</brandFlags>
+			<regionCode />
+			<biznamecardinfo><![CDATA[]]></biznamecardinfo>
+			<brandType>0</brandType>
+		</photoaccountnamecard>
+		<mpsharetrace>
+			<hasfinderelement>0</hasfinderelement>
+			<lastgmsgid />
+		</mpsharetrace>
+		<wxgamecard>
+			<framesetname />
+			<mbcarddata />
+			<minpkgversion />
+			<clientextinfo />
+			<mbcardheight>0</mbcardheight>
+			<isoldversion>0</isoldversion>
+		</wxgamecard>
+		<ecskfcard>
+			<framesetname />
+			<mbcarddata />
+			<minupdateunixtimestamp>0</minupdateunixtimestamp>
+			<needheader>false</needheader>
+			<summary />
+		</ecskfcard>
+		<liteapp>
+			<id>null</id>
+			<path />
+			<query />
+			<istransparent>0</istransparent>
+			<hideicon>0</hideicon>
+			<forbidforward>0</forbidforward>
+		</liteapp>
+		<opensdk_share_is_modified>0</opensdk_share_is_modified>
+	</appmsg>
+	<fromusername>wxid_nwrplpmxrwyq22</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-11 21:22:01.776] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：所以现在在改bug@13647609166Mr\u2005
+[2026-05-11 21:22:05.881] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+未查询到车架号 BUG13647609166MRU 的相关信息，请检查车架号是否正确。
+[2026-05-11 21:22:43.684] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：@13647609166Mr\u2005
+[2026-05-11 21:22:47.701] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+未查询到车架号 13647609166MRU200 的相关信息，请检查车架号是否正确。
+[2026-05-11 21:26:04.293] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：18
+[2026-05-11 21:29:56.893] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：19
+[2026-05-11 21:31:14.921] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="BizRecommendCard">
+    <BizRecommendCard>
+        <CardName><![CDATA[Notify]]></CardName>
+        <CardBuffer><![CDATA[CAcaNHsiYml6dWluIjoyMzkxMjcxNjcyLCJtc2dpZCI6MjY1MTYwOTYyMCwiaXRlbWlkeCI6NX0iH25ld3NmbGFzaF8zMTgxMTYwNzgxXzE3Nzg1MDYyNzQoorSH0AY=]]></CardBuffer>
+    </BizRecommendCard>
+</sysmsg>
+[2026-05-11 21:33:18.707] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：19
+[2026-05-11 21:34:31.964] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：20
+[2026-05-11 21:36:29.357] wxid_9a4u1rk4w34422 | 收到私聊 | gh_0b8b25c6eeee：<msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[中方决定：不同意台湾地区参加今年世卫大会]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>0</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650422748&idx=1&sn=ee51b26f2ef9a4d01bbf5bc2529a64ea&chksm=f57dfd618472a1dcec5ba7e6497076e0e584d0c383fbde5dba6e3e131eed2ef1b3f292e78975&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[金融时报]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKcPwPHEbeGTUwbmNquNCMoAVHia7pSheBvoFkBABfpz1q4Lz6pW72LwkQIkfAbzdibpj4bbYToibLTBb0ud0n6CU1O2OP6ZHXly0/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[中方决定：不同意台湾地区参加今年世卫大会]]></title>
+                    <title_v2><![CDATA[中方决定：不同意台湾地区参加今年世卫大会]]></title_v2>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzI5MjE1ODM5Mw==&mid=2650422748&idx=1&sn=ee51b26f2ef9a4d01bbf5bc2529a64ea&chksm=f5cbdeb2ed6e48afa96ca9d63e6e8a9fbc36f46941eb581340781582d43377ed498ba15a0861&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1778506260</pub_time>
+                    <summary><![CDATA[今天（5月11日），外交部发言人郭嘉昆主持例行记者会。有记者问：据了解，第七十九届世界卫生大会将于5月18日开幕，台湾方面迄今没有收到与会邀请。请问中方对此有何评论？郭嘉昆表示，世界上只有一个中国，台]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKcPwPHEbeGTUwbmNquNCMoAVHia7pSheBvoFkBABfpz1q4Lz6pW72LwkQIkfAbzdibpj4bbYToibLTBb0ud0n6CU1O2OP6ZHXly0/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>0</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[金融时报]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>0</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>4511619075835265028</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKcPwPHEbeGTUwbmNquNCMoAVHia7pSheBvoFkBABfpz1q4Lz6pW72LwkQIkfAbzdibpj4bbYToibLTBb0ud0n6CU1O2OP6ZHXly0/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wIibH4InZuD2bic7xr9FtvtDglpTbficThQLnCE0SK7j4KlK6ibqSzew0LaoHia6kXH415LQQx0pRZLy6DQbBmemeRZ3INy6iczaagFo/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                    <product_activity>
+                        <activity_type></activity_type>
+                        <activity_tag><![CDATA[]]></activity_tag>
+                        <activity_content><![CDATA[]]></activity_content>
+                    </product_activity>
+                    <has_redpacket_cover_v2>0</has_redpacket_cover_v2>
+                    <has_gift_activity>0</has_gift_activity>
+                    <mall_activity>
+                        <mall_id></mall_id>
+                        <mall_version></mall_version>
+                        <ecs_jump_info_base64><![CDATA[]]></ecs_jump_info_base64>
+                        <mall_tag><![CDATA[]]></mall_tag>
+                        <mall_product_cnt></mall_product_cnt>
+                    </mall_activity>
+                    <preload_picture_info>
+				        
+			        </preload_picture_info>
+                    <share_cover>
+                        <cdn_url><![CDATA[]]></cdn_url>
+                        <width></width>
+                        <height></height>
+                    </share_cover>
+                    <cover_3_4><![CDATA[]]></cover_3_4>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_0b8b25c6eeee]]></username>
+                <nickname><![CDATA[金融时报]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZVFMsm5R3wKcPwPHEbeGTUwbmNquNCMoAVHia7pSheBvoFkBABfpz1q4Lz6pW72LwkQIkfAbzdibpj4bbYToibLTBb0ud0n6CU1O2OP6ZHXly0/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_0b8b25c6eeee]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[金融时报]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2026-05-11 21:37:23.499] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\593a4fa9867be91b01bb50062240a7c1.jpg,isDecrypt=1]
+[2026-05-11 21:38:07.814] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：@13647609166Mr\u2005
+[2026-05-11 21:38:21.970] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：好好好
+[2026-05-11 21:38:32.711] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：测试bbnjkcddf
+[2026-05-11 21:38:41.606] wxid_9a4u1rk4w34422 | 收到群聊 | 群（52428819056@chatroom）："【汽配排名】彭彭彭客服（最优价）"邀请"金科-丰田本田日产-奔驰宝马大众"加入了群聊
+[2026-05-11 21:41:24.313] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：20
+[2026-05-11 21:43:39.102] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：21
+[2026-05-11 21:48:31.811] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3ad343ea3e119aded141a8c932fb57fb.jpg,isDecrypt=1]
+[2026-05-11 21:48:36.846] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\090b338e0d4bb2048afd7233f2663538.jpg,isDecrypt=1]
+[2026-05-11 21:57:27.109] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\9a8c108f1c6a382437a0af582a1124a8.jpg,isDecrypt=1]
+[2026-05-11 22:01:10.363] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：22
+[2026-05-11 22:01:49.160] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：21
+[2026-05-11 22:02:28.397] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\369c4cede805e8e2851670a5c127e48d.jpg,isDecrypt=1]
+[2026-05-11 22:05:58.882] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5960555abebe4fc59f3ae533a0e995e8.jpg,isDecrypt=1]
+[2026-05-11 22:09:39.708] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：22
+[2026-05-11 22:12:02.473] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：23
+[2026-05-11 22:13:09.007] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\20788bfe46b23d4dc8e479053739ad69.jpg,isDecrypt=1]
+[2026-05-11 22:16:03.712] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：23
+[2026-05-11 22:16:17.081] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：24
+[2026-05-11 22:19:40.154] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\45b467d8a3e8ff80f50802e11a7fe891.jpg,isDecrypt=1]
+[2026-05-11 22:22:51.465] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43565345067@chatroom）wxid_bgur3ll9jza322：对
+[2026-05-11 22:23:58.874] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：25
+[2026-05-11 22:26:25.580] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：24
+[2026-05-11 22:26:44.214] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：25
+[2026-05-11 22:48:32.029] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：26
+[2026-05-11 22:49:30.404] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\fe52387875a9d294467a01636a40caa0.jpg,isDecrypt=1]
+[2026-05-11 22:53:20.123] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：27
+[2026-05-11 22:53:36.061] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="functionmsg">
+<functionmsg>
+<cgi>/cgi-bin/micromsg-bin/pullfunctionmsg</cgi>
+<cmdid>614</cmdid>
+<functionmsgid>MMKANYIKAN_JINGXUANREDDOT_1778508300</functionmsgid>
+<retryinterval>150</retryinterval>
+<retrycount>3</retrycount>
+<custombuff>YIqkAXIKMTc3ODUwODMwMHoGd2VpeGluigEkTU1LQU5ZSUtBTl9KSU5HWFVBTlJFRERPVF8xNzc4NTA4MzAwqgFscGExZ0wybC8zNHRuYzBKZnpmYlUwKzJwRDRUc3d6QlJTazFSSXJFWDBWbjluc21CVEdoZHVnVmFJd0lKb1BWa1U5TEFqdWZQLzc0dENRcmp6Vlo3ZWNYT2g0RVdKWXhJT0NVRUJxRjdGSFE9</custombuff>
+<businessid>21002</businessid>
+<actiontime>1778508003</actiontime>
+<functionmsgversion>2</functionmsgversion>
+</functionmsg>
+</sysmsg>
+[2026-05-11 22:53:40.695] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：26
+[2026-05-11 22:57:32.984] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：27
+[2026-05-11 22:57:52.219] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：28
+[2026-05-11 22:58:48.042] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\5d7fe796bafbdd4d38543db38e4bd398.jpg,isDecrypt=1]
+[2026-05-11 22:59:05.710] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\887bf989c02f96e14907d7c115d612e1.jpg,isDecrypt=1]
+[2026-05-11 23:01:36.233] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="BizRecommendCard">
+    <BizRecommendCard>
+        <CardName><![CDATA[Notify]]></CardName>
+        <CardBuffer><![CDATA[CAMaNHsiYml6dWluIjoyMzk3NzkzMzAyLCJtc2dpZCI6MjY1NzUxMTg5OCwiaXRlbWlkeCI6MX0iH25ld3NmbGFzaF8zMTgxMTYwNzgxXzE3Nzg1MTE2OTUoz96H0AY=]]></CardBuffer>
+    </BizRecommendCard>
+</sysmsg>
+[2026-05-11 23:05:24.835] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：28
+[2026-05-11 23:05:35.528] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：29
+[2026-05-11 23:07:54.405] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\433c30859daa77ad2bc17b8a61711f7b.jpg,isDecrypt=1]
+[2026-05-12 03:15:46.999] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7237]
+[2026-05-12 07:18:56.057] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：29

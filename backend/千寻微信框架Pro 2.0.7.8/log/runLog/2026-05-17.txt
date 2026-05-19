@@ -1,0 +1,642 @@
+[2026-05-17 17:57:04.511] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-17 17:57:04.511] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-17 17:57:04.511] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-17 17:57:04.511] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-17 17:57:04.547] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-17 17:57:04.556] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-17 17:57:09.022] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 17:57:10.600] 框架 | 提示 | 微信启动成功[nftYW1A94TdYq3ya.dll]，端口[7326]，等待登录...
+[2026-05-17 17:57:11.017] 框架 | 提示 | 注入成功，端口[7326]，pid[21308]
+[2026-05-17 17:57:17.531] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7326]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-17 17:57:17.531] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-17 17:59:37.321] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-17 18:02:56.982] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47709113934@chatroom）wxid_ctb4o5xrog2f12：好的
+[2026-05-17 18:03:00.558] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-17 18:03:57.815] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-17 18:06:48.857] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47399279536@chatroom）wxid_f8dqykyborcb22：两头都是一样的啊
+[2026-05-17 18:06:51.739] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47399279536@chatroom）wxid_f8dqykyborcb22：@A紫云亿家汽修18885330211
+[2026-05-17 18:07:46.957] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47399279536@chatroom）wxid_n6iq366gph8y22：是的
+[2026-05-17 18:10:15.499] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47399279536@chatroom）wxid_f8dqykyborcb22：好的
+[2026-05-17 18:15:27.418] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wxid_pr7rrlnlfk1p22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\24e791e61757d37b0a6e66bdbbf12160.jpg,isDecrypt=1]
+[2026-05-17 18:15:30.654] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wxid_pr7rrlnlfk1p22：左前大灯原厂的。
+[2026-05-17 18:15:46.965] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2
+[2026-05-17 18:15:57.553] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：3
+[2026-05-17 18:16:36.947] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wjh263661063：稍等
+[2026-05-17 18:16:39.555] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\04ae6d1c10dc3b47e47147c486de7815.jpg,isDecrypt=1]
+[2026-05-17 18:16:42.551] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2316" length="3731" bufid="0" aeskey="4e1b504008a5ad85e76e2e82c3d8fead" voiceurl="3052020100044b30490201000204441da47e02032dcd6702044f3be6b702046a099589042463316263396532312d383936302d346431612d613731632d34653764623664353865333902040524000f0201000400" voicemd5="" clientmsgid="41333163666339316238306437626500newSendVoice_381816051726e1a7ed84c80103" fromusername="wxid_8ruz4f5u285341" /></msg>
+[2026-05-17 18:17:26.504] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\707b23aca49e6788101d6e7ed1493a36.jpg,isDecrypt=1]
+[2026-05-17 18:17:35.427] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wjh263661063：宏光左前大灯 正厂185
+[2026-05-17 18:17:36.691] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\c1b7bd471bc6315999c8a3275e396e81.jpg,isDecrypt=1]
+[2026-05-17 18:17:47.337] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wxid_pr7rrlnlfk1p22：原厂的有没有？
+[2026-05-17 18:18:16.954] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wjh263661063：维修站的310
+[2026-05-17 18:18:29.571] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43228603013@chatroom）wjh263661063：明天去维修站拿 
+[2026-05-17 18:19:24.869] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2012" length="3128" bufid="0" aeskey="09f9c6b02588d5a0aefdee7eba350ee0" voiceurl="3052020100044b30490201000204441da47e02032dcd6702044f3be6b702046a09962c042436333465356166362d343864652d343738642d623636372d63356137656336643964353602040524000f0201000400" voicemd5="" clientmsgid="41333163666339316238306437626500newSendVoice_211819051726e1a7ed8c7b5104" fromusername="wxid_8ruz4f5u285341" /></msg>
+[2026-05-17 18:19:38.386] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：压
+[2026-05-17 18:19:48.319] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：压缩机
+[2026-05-17 18:20:03.216] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50435456159@chatroom）wxid_2dkmw4axjncl21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\110588d31deff6fe8433745c1ff30418.jpg,isDecrypt=1]
+[2026-05-17 18:20:07.375] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50435456159@chatroom）wxid_2dkmw4axjncl21：左前门锁块
+[2026-05-17 18:22:39.705] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：@亚盛别克雪佛兰凯迪13996165990\u2005
+[2026-05-17 18:22:50.594] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：发个三电的空调压缩机。
+[2026-05-17 18:23:01.760] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：@【汽配排名】彭彭彭客服（最优价）
+=====★车辆信息★=====
+车架：LSGKE54H2LW133761
+厂商：上汽通用
+车型：别克 上汽通用 英朗 2020款，2020产 轿车 1.5 手自一体 典范精英型
+发动机：L2B
+[2026-05-17 18:23:28.351] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47616161951@chatroom）wxid_5m825unydka322：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\618416905c22804a282b3d61610c03fd.jpg,isDecrypt=1]
+[2026-05-17 18:23:32.303] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47616161951@chatroom）wxid_5m825unydka322：马达
+[2026-05-17 18:24:17.705] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：好
+[2026-05-17 18:25:38.943] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：麻烦转一下
+[2026-05-17 18:25:44.025] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\736a8b95a49990f01c0860fea31dc199.jpg,isDecrypt=1]
+[2026-05-17 18:25:49.155] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：3
+[2026-05-17 18:26:00.559] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）："【汽配排名】彭彭彭客服（最优价）"邀请"A金杯福田金龙凯马新吉奥远程昌德1"加入了群聊
+[2026-05-17 18:26:10.265] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：@\uD83C\uDF40海洋之星\uD83D\uDC15\u0F7C\uDB82\uDC07\u2005
+[2026-05-17 18:26:13.940] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_j3bytv85n05n12：压缩机
+[2026-05-17 18:26:16.294] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\847cfae583d1e151408794827139e44e.jpg,isDecrypt=1]
+[2026-05-17 18:26:16.303] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\6ecbafb4f9a92b59330bf60930f51f93.jpg,isDecrypt=1]
+[2026-05-17 18:26:16.874] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_j3bytv85n05n12：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\a5ff3cea4a98c1cb8ea55c2df97cedd1.jpg,isDecrypt=1]
+[2026-05-17 18:26:21.645] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_j3bytv85n05n12：@A金杯福田金龙凯马新吉奥远程昌德1\u2005
+[2026-05-17 18:26:21.942] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\53c1edb6b40d86fc05a1d01b36693c66.png,isDecrypt=1]
+[2026-05-17 18:26:28.738] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_y8t5hrn2je6t22：@A瑞现(途翔) 现代 起亚 江淮  威马\u2005发一个
+[2026-05-17 18:26:44.818] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8je57x9oo91t21：有实物图没
+[2026-05-17 18:26:48.632] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48662564502@chatroom）wxid_5p2say1tkixb21：好
+[2026-05-17 18:27:08.546] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_ta24w4okwi5n22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0a506c5c5da21e8a1c51020414b6e4ba.jpg,isDecrypt=1]
+[2026-05-17 18:27:08.985] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47616161951@chatroom）wxid_j3bytv85n05n12：@北汽幻速，威旺，绅宝，潍柴小李\u2005
+[2026-05-17 18:27:15.249] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_ta24w4okwi5n22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3911381d3f5504bffefc8c03b36f8292.jpg,isDecrypt=1]
+[2026-05-17 18:27:17.018] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47616161951@chatroom）wxid_6u3ufjrdxdkj22：稍等
+[2026-05-17 18:27:20.550] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_ta24w4okwi5n22：右前大灯
+[2026-05-17 18:27:33.031] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50435456159@chatroom）wxid_j3bytv85n05n12：@奔驰宝马特斯拉新能源长丰同盛\u2005
+[2026-05-17 18:27:41.457] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_j3bytv85n05n12：@小邓：15002308603  :英领气修\u2005
+[2026-05-17 18:27:54.917] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\1a95579b38c948b33758aa256f590127.jpg,isDecrypt=1]
+[2026-05-17 18:27:59.747] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50435456159@chatroom）wxid_ft7mpg6cts4n22：查一下
+[2026-05-17 18:28:00.691] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_j3bytv85n05n12：@A利丰传祺埃安合创菲亚特宝沃威马\u2005
+[2026-05-17 18:28:01.218] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：@亚盛别克雪佛兰凯迪13996165990\u2005
+[2026-05-17 18:28:03.059] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8ruz4f5u285341：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2513" length="4679" bufid="0" aeskey="0b3990bb05f2fe2323628f5313d05435" voiceurl="3052020100044b30490201000204441da47e02032dcd6702044f3be6b702046a099832042433646337323038652d643238382d343834612d623563352d62373362383763313139646102040524000f0201000400" voicemd5="" clientmsgid="41333163666339316238306437626500newSendVoice_581827051726e1a7ed8acd0101" fromusername="wxid_8ruz4f5u285341" /></msg>
+[2026-05-17 18:28:08.504] wxid_9a4u1rk4w34422 | 收到群聊 | 群（48720114331@chatroom）wxid_8je57x9oo91t21：好
+[2026-05-17 18:28:11.539] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：收到
+[2026-05-17 18:28:13.154] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_1x3srr5aht4h12：品牌760
+[2026-05-17 18:28:19.949] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_1x3srr5aht4h12：精品900
+[2026-05-17 18:28:37.236] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_j3bytv85n05n12：@源丰新能源汽车电子\u2005
+[2026-05-17 18:28:43.357] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43085911999@chatroom）wxid_ta24w4okwi5n22：[OK]
+[2026-05-17 18:29:25.505] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47616161951@chatroom）wxid_6u3ufjrdxdkj22：普通的230，好的290
+[2026-05-17 18:30:16.336] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50435456159@chatroom）wxid_ft7mpg6cts4n22：51217202149左前门锁国产品牌115 贝偲特185
+[2026-05-17 18:30:24.272] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）MeIdegaIde：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\aeba061184698d064ef3b3a32a745ccb.jpg,isDecrypt=1]
+[2026-05-17 18:30:36.185] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）MeIdegaIde：左前大灯
+[2026-05-17 18:31:46.546] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_j3bytv85n05n12：@A十心汽配 长安 北汽 铃木 昌河\u2005
+[2026-05-17 18:32:05.772] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47616161951@chatroom）wxid_j3bytv85n05n12：@明耀汽修  高飞 15823193382\u2005
+[2026-05-17 18:32:15.351] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50435456159@chatroom）wxid_j3bytv85n05n12：@羽 通汽车维修 易通18223534367\u2005
+[2026-05-17 18:34:06.714] wxid_9a4u1rk4w34422 | 收到私聊 | wxid_nwrplpmxrwyq22：[file=C:\Users\Lenovo\Documents\WeChat Files\wxid_9a4u1rk4w34422\FileStorage\File\2026-05\WxVinBot Por.zip]
+[2026-05-17 18:34:12.065] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_553l8fay7el221：马上
+[2026-05-17 18:34:34.364] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_553l8fay7el221：金牛星
+[2026-05-17 18:34:52.928] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_553l8fay7el221：大灯95
+[2026-05-17 18:34:59.340] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_j3bytv85n05n12：@志顺15111976027\u2005
+[2026-05-17 18:35:04.555] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）MeIdegaIde：哪里是金牛星哦
+[2026-05-17 18:35:16.644] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_553l8fay7el221：什么车
+[2026-05-17 18:35:25.208] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）MeIdegaIde：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\ef8cce344d5aea9fdef843aa01780178.jpg,isDecrypt=1]
+[2026-05-17 18:35:37.250] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）MeIdegaIde：车架号发错了
+[2026-05-17 18:36:04.527] wxid_9a4u1rk4w34422 | 收到群聊 | 群（49589313166@chatroom）25984983547179220@openim：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\aea73d2b96fa05bd4b38b5a7d426318a.jpg,isDecrypt=1]
+[2026-05-17 18:36:09.844] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：帮我发金信了，谢谢。
+[2026-05-17 18:36:15.047] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：@亚盛别克雪佛兰凯迪13996165990\u2005
+[2026-05-17 18:36:15.710] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：嗯
+[2026-05-17 18:36:33.565] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）wxid_66jnpr7ik34421：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d97a5a391008271432c033c0e81d7e51.jpg,isDecrypt=1]
+[2026-05-17 18:36:43.745] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）wxid_66jnpr7ik34421：水箱
+[2026-05-17 18:36:44.405] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_j3bytv85n05n12：@重庆航嘉五菱宝骏菱势-吕建锋\u2005@航嘉全车五菱宝骏配件\u2005
+[2026-05-17 18:37:06.928] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50220895698@chatroom）wxid_rvm2hcr50dgz21：哪家有导电膏
+[2026-05-17 18:38:43.620] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-17 18:38:43.620] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-17 18:38:43.620] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-17 18:38:43.620] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-17 18:38:44.020] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-17 18:38:44.027] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-17 18:38:47.748] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 18:38:49.352] 框架 | 提示 | 微信启动成功[n0OVP7uCQWDSZ7HB.dll]，端口[7035]，等待登录...
+[2026-05-17 18:38:50.066] 框架 | 提示 | 注入成功，端口[7035]，pid[47708]
+[2026-05-17 18:38:56.552] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7035]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-17 18:38:56.552] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-17 18:39:07.943] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_u55ram1i8cy022：175品牌/195新视业质保一年 /235配套质保装车
+[2026-05-17 18:39:19.404] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_j3bytv85n05n12：@志顺15111976027\u2005
+[2026-05-17 18:39:20.079] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-17 18:39:23.751] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：稍等
+[2026-05-17 18:40:12.553] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\6f65b6064a9c7e5f638eb61cff895a53.jpg,isDecrypt=1]
+[2026-05-17 18:41:01.160] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50220895698@chatroom）wxid_tvh9jq00ftso21：没有
+[2026-05-17 18:41:05.304] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）MeIdegaIde：发一个195的
+[2026-05-17 18:41:10.307] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_j3bytv85n05n12：@航嘉全车五菱宝骏配件\u2005
+[2026-05-17 18:41:12.142] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_u55ram1i8cy022：好
+[2026-05-17 18:41:42.220] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50220895698@chatroom）wxid_j3bytv85n05n12：<?xml version="1.0"?>
+<msg bigheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/DhnPSgYqBDaJRoa20PDq2M7WPr92FRefCicwUyib6a7G6NiayUZQhtso1cWPII3xSyOjMOD3OFgDEr6MIrf3tHuCuDqMQXsfyNDs2AibmWKNhjBTN6cYX3sUnNCiavGAQyA0E/0" smallheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/DhnPSgYqBDaJRoa20PDq2M7WPr92FRefCicwUyib6a7G6NiayUZQhtso1cWPII3xSyOjMOD3OFgDEr6MIrf3tHuCuDqMQXsfyNDs2AibmWKNhjBTN6cYX3sUnNCiavGAQyA0E/132" username="v3_020b3826fd030100000000002ee430286bd366000000501ea9a3dba12f95f6b60a0536a1adb68d33ca98c8751e5b1f5fb786f5b50c4f216fc1c6c45465acb465c9394867198de9822cdb97472ab790d7b7d21e@stranger" nickname="A强顺汽保洗车设备工具电瓶粘胶" fullpy="Aqiangshunqibaoxicheshebeigongjudianpingnianjiao" shortpy="" alias="" imagestatus="3" scene="17" province="四川" city="遂宁" sign="" sex="1" certflag="0" certinfo="" brandIconUrl="" brandHomeUrl="" brandSubscriptConfigUrl="" brandFlags="0" regionCode="CN" brandType="0" biznamecardinfo="" antispamticket="v4_000b708f0b040000010000000000bd6028029e3870ec1e53669b096a1000000050ded0b020927e3c97896a09d47e6e9eea90b02b018e3b2a854ab76c071a18c9d74b2cd5847b4a7b6c062993a3e50ce2e7be032a7a0875d2a44db0d552957cc02d2d854c89d8b060da25b3457d0c38f16b91ec5593c6512fd17c61e588cfcd16373fea2215b45d926f2370ba1b14f3026ed57d8fd9ea37ad8ca85ec4fbea50f8dc85ccac91b6e78e50624d84e1d314cefd911da60af1e7ccf9a7bf954a15c58d49fd6873e9f85df16d1cc841579ff08d9991107df37e98038cadbf8910c1ebb384103f3a8206d4e6c73cfbe83d813ace3d2da0cc1d17f92d236a89f5ab7fa39c02bf4658b31f24020822de2d8e3cd79fc1366cfab7e630b61c@stranger" />
+
+[2026-05-17 18:41:48.657] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50220895698@chatroom）wxid_j3bytv85n05n12：@修凯迪也要开凯迪\u2005
+[2026-05-17 18:42:33.428] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）wxid_fonxiljcckxb22：车铭牌发一下   或者水箱型号
+[2026-05-17 18:42:44.326] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：后刹线正厂130一套
+[2026-05-17 18:42:47.693] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：@A蒋言挖机铲车货车小车修理保养\u2005
+[2026-05-17 18:42:50.015] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：<msg><emoji fromusername = "wxid_88m3fb5lmdm222" tousername = "43092002826@chatroom" type="1" idbuffer="media:0_0" md5="226ad7f9eb139c20891bc963e0a30f4f" len = "4148" productid="com.tencent.xin.emoticon.person.stiker_1689131136df9228a4342f34e9" androidmd5="226ad7f9eb139c20891bc963e0a30f4f" androidlen="4148" s60v3md5 = "226ad7f9eb139c20891bc963e0a30f4f" s60v3len="4148" s60v5md5 = "226ad7f9eb139c20891bc963e0a30f4f" s60v5len="4148" cdnurl = "http://wxapp.tc.qq.com/275/20304/stodownload?m=226ad7f9eb139c20891bc963e0a30f4f&amp;filekey=30340201010420301e02020113040253480410226ad7f9eb139c20891bc963e0a30f4f02021034040d00000004627466730000000132&amp;hy=SH&amp;storeid=264ae188d000017bbb459d7a30000011300004f5053480e234b00b6b5865a5&amp;bizid=1023" designerid = "" thumburl = "http://wxapp.tc.qq.com/275/20304/stodownload?m=58d49f9a0e658577a774e23d5b916e3a&amp;filekey=30340201010420301e0202011304025348041058d49f9a0e658577a774e23d5b916e3a02020923040d00000004627466730000000132&amp;hy=SH&amp;storeid=264ae188d0005f07db459d7a30000011300004f5053482b30b8e0b7650f3f2&amp;bizid=1023" encrypturl = "http://wxapp.tc.qq.com/262/20304/stodownload?m=1668262a6ba1072b499fcd6870d32610&amp;filekey=30340201010420301e020201060402534804101668262a6ba1072b499fcd6870d3261002021040040d00000004627466730000000132&amp;hy=SH&amp;storeid=264ae83480001de27b459d7a30000010600004f50534828234b00b0e0c78e3&amp;bizid=1023" aeskey= "5c772a50c124bcc014af041a75680c16" externurl = "http://wxapp.tc.qq.com/262/20304/stodownload?m=fd9b40f34d22d697c28d6ace0ff536d6&amp;filekey=30340201010420301e02020106040253480410fd9b40f34d22d697c28d6ace0ff536d602020870040d00000004627466730000000132&amp;hy=SH&amp;storeid=264aebd840001067ff1a8c2560000010600004f505348073448e0b10684bc4&amp;bizid=1023" externmd5 = "ee65bcb99d45575078ddd7aaa27f882e" width= "240" height= "240" tpurl= "" tpauthkey= "" attachedtext= "" attachedtextcolor= "" lensid= "" emojiattr= "" linkid= "" desc= "Cg4KB2RlZmF1bHQSA+WvuQ==" ></emoji>  </msg>
+[2026-05-17 18:43:04.950] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：克度。云聚物流
+[2026-05-17 18:43:08.546] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：好
+[2026-05-17 18:43:14.000] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2238" length="3337" bufid="0" aeskey="36ad22387137fa2f80ee070f805abd80" voiceurl="3052020100044b30490201000204788603c802032df8c3020432e6877502046a099bc1042463666563323337652d643731392d343466342d396638622d66373865343336393066623502040524000f0201000400" voicemd5="" clientmsgid="41303239393066343364633530396300newSendVoice_101843051726df9f909969e103" fromusername="wxid_88m3fb5lmdm222" /></msg>
+[2026-05-17 18:43:24.137] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：那里的卡子 
+[2026-05-17 18:43:29.271] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\8ec48aaa4386da04dc921d7a4209ad08.jpg,isDecrypt=1]
+[2026-05-17 18:43:52.750] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）wxid_j3bytv85n05n12：@盧俊\u2005
+[2026-05-17 18:43:55.648] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）wxid_66jnpr7ik34421：只发了个车架号过来
+[2026-05-17 18:44:22.130] wxid_9a4u1rk4w34422 | 收到群聊 | 群（45167648323@chatroom）wxid_u55ram1i8cy022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\f453f60f9c1b40bc15993a78bc3f4e92.jpg,isDecrypt=1]
+[2026-05-17 18:44:42.268] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\6e9cba201492b8863f3a149d204483a6.jpg,isDecrypt=1]
+[2026-05-17 18:44:45.253] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="1393" length="2000" bufid="0" aeskey="de25cf2d9aaf2e2964b989dc10ea3b58" voiceurl="3052020100044b30490201000204788603c802032df8c3020432e6877502046a099c1c042437613536323536612d666234302d343137652d616632642d62313463346366643137653802040524000f0201000400" voicemd5="" clientmsgid="41303239393066343364633530396300newSendVoice_421844051726df9f909fdb1101" fromusername="wxid_88m3fb5lmdm222" /></msg>
+[2026-05-17 18:45:10.641] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\e9ac5c557699fb652642d312a1a07ab7.jpg,isDecrypt=1]
+[2026-05-17 18:45:32.600] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）WO1358285：这个查不了
+[2026-05-17 18:45:35.041] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：今天发哟。
+[2026-05-17 18:45:37.325] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）tszzyang：@亚盛别克雪佛兰凯迪13996165990\u2005
+[2026-05-17 18:45:38.350] wxid_9a4u1rk4w34422 | 收到群聊 | 群（57484187902@chatroom）WO1358285：不准
+[2026-05-17 18:45:41.353] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_3275582757711：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\77b2370ac23a84f71b452837c850a1a7.jpg,isDecrypt=1]
+[2026-05-17 18:45:42.189] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_3275582757711：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3be5fc51ae17143ad5bf36b4c0a2ef37.jpg,isDecrypt=1]
+[2026-05-17 18:45:48.918] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_j3bytv85n05n12：@A-01建东皮卡长城全顺大通陆风\u2005
+[2026-05-17 18:45:50.696] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：这个  卡片你找一个面包车的卡片就行  这个卡子我还没有    都是通用的
+[2026-05-17 18:45:57.088] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_3275582757711：电动玻璃摇机
+[2026-05-17 18:46:01.252] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_3275582757711：左前
+[2026-05-17 18:46:04.438] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_j3bytv85n05n12：拆 690 订 原厂 2360 订货
+[2026-05-17 18:46:07.135] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_j3bytv85n05n12：@小韩18683048616\u2005
+[2026-05-17 18:46:29.153] wxid_9a4u1rk4w34422 | 收到群聊 | 群（50084850359@chatroom）wxid_j3bytv85n05n12：<?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>拆车 490 订货 原厂 780 订货</title>
+		<type>57</type>
+		<appattach>
+			<cdnthumbaeskey />
+			<aeskey />
+		</appattach>
+		<refermsg>
+			<type>3</type>
+			<svrid>3292310346442968504</svrid>
+			<fromusr>50084850359@chatroom</fromusr>
+			<chatusr>wxid_2iwu2bl1nc8122</chatusr>
+			<displayname>小韩18683048616</displayname>
+			<content>&lt;?xml version="1.0"?&gt;
+&lt;msg&gt;
+	&lt;img aeskey="849e6e3b5b372633584fd43b938b8f56" encryver="1" cdnthumbaeskey="849e6e3b5b372633584fd43b938b8f56" cdnthumburl="3057020100044b30490201000204a514d2b802032f53a3020416752d7002046a098fd3042462336330353562372d356232352d346337392d386634372d343364616134386132313038020405290a020201000405004c4ff300" cdnthumblength="5586" cdnthumbheight="489" cdnthumbwidth="274" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b30490201000204a514d2b802032f53a3020416752d7002046a098fd3042462336330353562372d356232352d346337392d386634372d343364616134386132313038020405290a020201000405004c4ff300" length="889384" md5="af859889894176339f6e8f3b96afbd71" hevc_mid_size="76140" originsourcemd5="1c7bb5e9577f25c84d9c3ec6e66681ec"&gt;
+		&lt;secHashInfoBase64&gt;eyJwaGFzaCI6IjMwMDAxMDEwMDAwMDgwMDAiLCJwZHFIYXNoIjoiZTdlZWVjOTEzODBkMTc4NjAx
+ZjZlMjVlY2MwMDNjZjFiYmVlNDExMTA2NzBjODY3YjljZTczMTkwZjcyM2ViZCJ9
+&lt;/secHashInfoBase64&gt;
+		&lt;live&gt;
+			&lt;duration&gt;0&lt;/duration&gt;
+			&lt;size&gt;0&lt;/size&gt;
+			&lt;md5 /&gt;
+			&lt;fileid /&gt;
+			&lt;hdsize&gt;0&lt;/hdsize&gt;
+			&lt;hdmd5 /&gt;
+			&lt;hdfileid /&gt;
+			&lt;stillimagetimems&gt;0&lt;/stillimagetimems&gt;
+		&lt;/live&gt;
+	&lt;/img&gt;
+	&lt;platform_signature /&gt;
+	&lt;imgdatahash /&gt;
+	&lt;ImgSourceInfo&gt;
+		&lt;ImgSourceUrl /&gt;
+		&lt;BizType&gt;0&lt;/BizType&gt;
+	&lt;/ImgSourceInfo&gt;
+&lt;/msg&gt;
+</content>
+			<msgsource>&lt;msgsource&gt;&lt;sequence_id&gt;870342899&lt;/sequence_id&gt;
+	&lt;sec_msg_node&gt;
+		&lt;uuid&gt;faf4257f8bc8131b0c9ee942674243f2_&lt;/uuid&gt;
+		&lt;risk-file-flag /&gt;
+		&lt;risk-file-md5-list /&gt;
+	&lt;/sec_msg_node&gt;
+	&lt;imgmsg_pd cdnmidimgurl_size="76140" /&gt;
+	&lt;silence&gt;0&lt;/silence&gt;
+	&lt;membercount&gt;45&lt;/membercount&gt;
+	&lt;NotAutoDownloadRange&gt;20:00-22:00;00:00-01:00&lt;/NotAutoDownloadRange&gt;
+	&lt;signature&gt;N0_V1_YCZiiCEY|v1_zQAHBHG5&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<createtime>1779011539</createtime>
+		</refermsg>
+	</appmsg>
+	<fromusername>wxid_j3bytv85n05n12</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2026-05-17 18:46:36.512] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_j3bytv85n05n12：@A000王学中华金杯福田18984881482\u2005
+[2026-05-17 18:46:39.298] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_j3bytv85n05n12：@A蒋言挖机铲车货车小车修理保养\u2005
+[2026-05-17 18:46:48.583] wxid_9a4u1rk4w34422 | 收到群聊 | 群（25474427923@chatroom）aya425518：好
+[2026-05-17 18:46:52.522] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_zee2u8r61z3b21：135
+[2026-05-17 18:46:57.227] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3023" length="5395" bufid="0" aeskey="3b5e06cf0c17577f7de8221f677b6599" voiceurl="3052020100044b30490201000204788603c802032df8c3020432e6877502046a099ca0042436656233376633322d636465332d343539662d393964642d31613731653662373466393602040524000f0201000400" voicemd5="" clientmsgid="41303239393066343364633530396300newSendVoice_521846051726df9f909faf4102" fromusername="wxid_88m3fb5lmdm222" /></msg>
+[2026-05-17 18:47:06.285] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2507" length="4342" bufid="0" aeskey="77c0113cf25bd57cf12cc7b39829d1b5" voiceurl="3052020100044b30490201000204788603c802032df8c3020432e6877502046a099ca9042431396366396330662d396263652d343561342d386361332d65666135343732303663366202040524000f0201000400" voicemd5="" clientmsgid="41303239393066343364633530396300newSendVoice_021847051726df9f90921fe106" fromusername="wxid_88m3fb5lmdm222" /></msg>
+[2026-05-17 18:47:58.027] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：好
+[2026-05-17 18:48:03.398] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：我找一下 给你安排
+[2026-05-17 18:49:02.572] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_j3bytv85n05n12：@龙里豪华车饰安治国\u2005
+[2026-05-17 18:50:46.963] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_zee2u8r61z3b21：发不
+[2026-05-17 18:50:48.561] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\9465367b2f8ebe9f43340aaba76c9a17.jpg,isDecrypt=1]
+[2026-05-17 18:50:57.524] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：有没有这个车的中控屏
+[2026-05-17 18:51:07.593] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：原车的还是后改
+[2026-05-17 18:51:39.504] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="3660" length="6107" bufid="0" aeskey="e697c2819ebd46d4dd8f77e39f9e7a90" voiceurl="3052020100044b30490201000204788603c802032df8c3020445e6877502046a099dba042433633039336135312d326134612d343334362d623533632d33316363393634396637643702040524000f0201000400" voicemd5="" clientmsgid="41303239393066343364633530396300newSendVoice_341851051726df9f909475a105" fromusername="wxid_88m3fb5lmdm222" /></msg>
+[2026-05-17 18:51:48.587] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\09c843a23cd034d324532e2199a706a9.jpg,isDecrypt=1]
+[2026-05-17 18:51:51.848] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_88m3fb5lmdm222：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\f6476a10e18ca73d5d4cabe0d99b69e1.jpg,isDecrypt=1]
+[2026-05-17 18:51:57.581] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：我也不知道他这个是不是原车
+[2026-05-17 18:52:02.140] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：你看一下
+[2026-05-17 18:52:05.332] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：稍等
+[2026-05-17 18:53:36.263] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：改了
+[2026-05-17 18:53:38.586] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：没有这种
+[2026-05-17 18:53:39.893] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_3275582757711：发
+[2026-05-17 18:53:46.582] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_zee2u8r61z3b21：好的
+[2026-05-17 18:53:46.591] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_3275582757711：宏达
+[2026-05-17 18:53:50.818] wxid_9a4u1rk4w34422 | 收到群聊 | 群（47931276671@chatroom）wxid_zee2u8r61z3b21：好的
+[2026-05-17 18:53:52.633] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：你只有原车的吗？
+[2026-05-17 18:54:03.461] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0426850709d62a1b4052f39e8ef29b8f.png,isDecrypt=1]
+[2026-05-17 18:54:05.031] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：原车是这样的
+[2026-05-17 18:54:16.171] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_fl5zcc7lii8o21：这个多少
+[2026-05-17 18:54:48.167] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_j3bytv85n05n12：@兴晨别克雪佛兰凯迪小米问界新能源\u2005
+[2026-05-17 18:55:05.198] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：稍等哈
+[2026-05-17 18:56:43.865] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：650订货一天到
+[2026-05-17 18:57:04.234] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43092002826@chatroom）wxid_kd3prnykamd822：好
+[2026-05-17 18:58:26.077] wxid_9a4u1rk4w34422 | 收到群聊 | 群（53467108856@chatroom）wxid_pn62kfc3iycv22：@\uFFFC
+[2026-05-17 19:00:10.438] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-17 19:00:11.688] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-17 19:04:26.759] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2
+[2026-05-17 20:18:37.116] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-17 20:18:37.116] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-17 20:18:37.116] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-17 20:18:37.116] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-17 20:18:37.153] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-17 20:18:37.159] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-17 20:18:39.884] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：1
+[2026-05-17 20:18:41.396] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 20:18:42.620] 框架 | 提示 | 微信启动成功[U2c50avX6fVCk9t0.dll]，端口[7177]，等待登录...
+[2026-05-17 20:18:43.928] 框架 | 提示 | 注入成功，端口[7177]，pid[21196]
+[2026-05-17 20:18:50.448] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7177]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-17 20:18:50.449] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-17 20:24:23.856] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：1
+[2026-05-17 20:24:24.938] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：2
+[2026-05-17 20:24:44.620] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：2
+[2026-05-17 20:24:51.501] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：3
+[2026-05-17 20:27:39.017] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：3
+[2026-05-17 20:27:40.060] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：4
+[2026-05-17 20:28:00.711] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：4
+[2026-05-17 20:28:01.753] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：5
+[2026-05-17 20:30:16.924] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：5
+[2026-05-17 20:30:21.350] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：6
+[2026-05-17 20:32:38.834] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：7
+[2026-05-17 20:32:44.833] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：6
+[2026-05-17 20:34:03.929] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：8
+[2026-05-17 20:34:20.487] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：7
+[2026-05-17 20:34:56.912] wxid_9a4u1rk4w34422 | 收到群聊 | 群（34719925187@chatroom）hgg123321：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\0f50f90ce064364fc75664eabfe4855e.jpg,isDecrypt=1]
+[2026-05-17 20:35:00.883] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：8
+[2026-05-17 20:36:04.834] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：9
+[2026-05-17 20:38:29.908] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：10
+[2026-05-17 20:38:48.198] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：9
+[2026-05-17 20:39:30.946] wxid_9a4u1rk4w34422 | 收到群聊 | 群（34719925187@chatroom）hgg123321：分动箱总成
+[2026-05-17 20:39:49.841] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\d90b8e5af2728652b7d9ab034da2d418.jpg,isDecrypt=1]
+[2026-05-17 20:39:53.013] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@大雄
+
+@【汽配排名】彭彭彭客服（最优价）
+
+@汽配链」排名齐心15683692999张洲
+
+
+
+=====★车辆信息★=====
+
+车架：LVZZU3P96NC033578
+
+厂商：东风小康
+
+车型：风光500 2022款 1.5L CVT悦享型
+
+排量：1.5L
+
+询货人：大雄
+
+补充信息：
+
+    ★发动机型号：SFG15A
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：无级变速箱(CVT)
+
+    ★前轮尺寸：● 205/65 R16
+
+    ★后轮尺寸：● 205/65 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 20:39:52
+[2026-05-17 20:39:53.161] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-17 20:39:53.418] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@汽配链」排名齐心15683692999张洲
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-17 20:41:46.059] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\bec863c53651172c00aed1facaed3224.jpg,isDecrypt=1]
+[2026-05-17 20:41:48.753] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@大雄
+
+@【汽配排名】彭彭彭客服（最优价）
+
+
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LUXL92T05GB001941
+
+厂商：东风裕隆
+
+车型：大7 MPV 2016款 2.0T 豪华型
+
+排量：2.0T
+
+询货人：大雄
+
+补充信息：
+
+    ★发动机型号：G20TG
+
+    ★车辆类型：中型MPV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 215/60 R16
+
+    ★后轮尺寸：● 215/60 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 20:41:48
+[2026-05-17 20:41:48.902] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LUXL92T05GB001941，车型：大7 MPV 2016款 2.0T 豪华型，请查看报价
+[2026-05-17 20:41:59.698] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：10
+[2026-05-17 20:42:00.851] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：11
+[2026-05-17 20:42:36.172] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：11
+[2026-05-17 20:42:42.639] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：12
+[2026-05-17 20:42:54.414] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\92e63c8d8af3d2cdb6db53a16499d1cb.jpg,isDecrypt=1]
+[2026-05-17 20:42:57.388] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@大雄
+
+@【汽配排名】彭彭彭客服（最优价）
+
+@汽配链」排名齐心15683692999张洲
+
+=====★车辆信息★=====
+
+车架：LVZZU3P96NC033578
+
+厂商：东风小康
+
+车型：风光500 2022款 1.5L CVT悦享型
+
+排量：1.5L
+
+询货人：大雄
+
+补充信息：
+
+    ★发动机型号：SFG15A
+
+    ★车辆类型：紧凑型SUV
+
+    ★变速箱类型：无级变速箱(CVT)
+
+    ★前轮尺寸：● 205/65 R16
+
+    ★后轮尺寸：● 205/65 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 20:42:57
+[2026-05-17 20:42:57.532] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-17 20:42:57.710] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@汽配链」排名齐心15683692999张洲
+
+有新的询价：LVZZU3P96NC033578，车型：风光500 2022款 1.5L CVT悦享型，请查看报价
+[2026-05-17 20:43:01.646] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\69df25d65e5218a07a44ab05efa3ecf1.jpg,isDecrypt=1]
+[2026-05-17 20:43:03.605] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@大雄
+
+@【汽配排名】彭彭彭客服（最优价）
+
+?? 该车型暂未设置对应供应商，请联系管理员配置
+
+
+
+=====★车辆信息★=====
+
+车架：LUXL92T05GB001941
+
+厂商：东风裕隆
+
+车型：大7 MPV 2016款 2.0T 豪华型
+
+排量：2.0T
+
+询货人：大雄
+
+补充信息：
+
+    ★发动机型号：G20TG
+
+    ★车辆类型：中型MPV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 215/60 R16
+
+    ★后轮尺寸：● 215/60 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 20:43:03
+[2026-05-17 20:43:03.759] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LUXL92T05GB001941，车型：大7 MPV 2016款 2.0T 豪华型，请查看报价
+[2026-05-17 20:45:14.326] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：12
+[2026-05-17 20:45:15.518] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：13
+[2026-05-17 20:45:32.051] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：13
+[2026-05-17 20:45:47.037] 框架 | 提示 | [WebSocket服务端]客户端连接->IPv4->连接Id：14
+[2026-05-17 20:45:49.042] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\3373ca7d342eaba46608ac2155884687.jpg,isDecrypt=1]
+[2026-05-17 20:45:51.820] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@Muke～
+
+@【汽配排名】彭彭彭客服（最优价）?? 该车型暂未设置对应供应商，请联系管理员配置
+
+=====★车辆信息★=====
+
+车架：LUXL92T05GB001941
+
+厂商：东风裕隆
+
+车型：大7 MPV 2016款 2.0T 豪华型
+
+排量：2.0T
+
+询货人：Muke～
+
+补充信息：
+
+    ★发动机型号：G20TG
+
+    ★车辆类型：中型MPV
+
+    ★变速箱类型：手自一体变速箱(AT)
+
+    ★前轮尺寸：● 215/60 R16
+
+    ★后轮尺寸：● 215/60 R16
+
+温馨建议：
+
+    ★机油用量：4.0L
+
+    ★机油粘度：5W-30
+
+    ★机油等级：全合成
+
+    ★Level：SN
+
+>>>您有新的订单！请核对车架号尽快群内报价（注意：报价格式请体现：品质，价格，质保时间）（注意：请群内报价，禁止私聊，确保每一单成交金额群内可以追溯，方便群统计，售后无忧）
+
+时间：2026-05-17 20:45:51
+[2026-05-17 20:45:51.951] wxid_9a4u1rk4w34422 | 发出群聊 | 【发送】43345253685@chatroom：@【汽配排名】彭彭彭客服（最优价）
+
+有新的询价：LUXL92T05GB001941，车型：大7 MPV 2016款 2.0T 豪华型，请查看报价
+[2026-05-17 20:48:10.681] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7177]
+[2026-05-17 20:48:10.708] 框架 | 提示 | [WebSocket服务端]客户端断开->IPv4->连接Id：14
+[2026-05-17 20:51:10.736] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-05-17 20:51:10.736] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-05-17 20:51:10.736] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-05-17 20:51:10.736] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-05-17 20:51:10.771] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-05-17 20:51:10.777] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-05-17 20:51:14.415] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 20:51:15.576] 框架 | 提示 | 微信启动成功[nI4k5Bs6qJB7bKRR.dll]，端口[7387]，等待登录...
+[2026-05-17 20:51:15.897] 框架 | 提示 | 注入成功，端口[7387]，pid[28516]
+[2026-05-17 20:51:21.345] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7387]，授权到期时间[2027-04-15 21:37:30]
+[2026-05-17 20:51:21.345] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-17 20:51:26.397] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-05-17 20:51:27.522] 框架 | 提示 | 微信启动成功[vpWYh3mQPgHfAzbH.dll]，端口[7386]，等待登录...
+[2026-05-17 20:51:27.730] 框架 | 提示 | 注入成功，端口[7386]，pid[53160]
+[2026-05-17 20:51:40.426] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-05-17 20:51:40.439] 框架 | 账号上线 | 微信账号上线，昵称[Muke～]，wxid[wxid_nwrplpmxrwyq22]，端口[7386]，授权到期时间[2026-04-08 13:24:39]
+[2026-05-17 20:51:40.439] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-05-17 20:51:56.023] 框架 | 提示 | Muke～(wxid_nwrplpmxrwyq22)的授权已到期，请续费后使用，到期时间：2026-04-08 13:24:39
+[2026-05-17 20:51:57.861] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[file=C:\Users\Lenovo\Documents\WeChat Files\wxid_9a4u1rk4w34422\FileStorage\File\2026-05\WxVinBot Por(1).zip]
+[2026-05-17 20:53:39.693] 框架 | 账号下线 | 微信账号下线，wxid[wxid_nwrplpmxrwyq22]，端口[7386]
+[2026-05-17 20:55:14.452] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：@Muke～\u2005你在登录吗
+[2026-05-17 20:55:24.174] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：是的
+[2026-05-17 20:55:26.786] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：刚点错了
+[2026-05-17 20:55:30.361] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：我在更新
+[2026-05-17 20:55:42.065] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：OK
+[2026-05-17 20:55:44.809] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：我优化了检测机制
+[2026-05-17 20:55:55.035] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：基本上可以了
+[2026-05-17 20:56:05.498] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：没有需要再改的地方了
+[2026-05-17 20:56:29.733] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：尽量做成整体设置的，不行给你加点钱，我后期省点事[旺柴]
+[2026-05-17 20:56:51.336] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：外包给我我给你维护[呲牙][呲牙]
+[2026-05-17 20:57:01.315] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：悄悄滴
+[2026-05-17 20:57:51.053] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：每个月付我640就行，我给你用免费的llmapi[奸笑]
+[2026-05-17 20:58:07.998] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：我们公司机房里最近在搭建大模型
+[2026-05-17 20:58:18.095] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：内部使用
+[2026-05-17 20:59:32.301] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：[pic=C:\Users\Lenovo\Documents\DaenWxHookCache\6da6070b1c3c5abd92b9d447c6f04511.jpg,isDecrypt=1]
+[2026-05-17 21:00:04.990] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：@大雄\u2005承担不起
+[2026-05-17 21:00:13.233] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：我的建议是还是要定期维护的，网站，小程序，app都是这样的
+[2026-05-17 21:00:15.064] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：还是算了吧[捂脸]
+[2026-05-17 21:00:28.778] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：我舅舅就是做技术的
+[2026-05-17 21:00:49.296] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：那不一样的
+[2026-05-17 21:00:55.690] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：术业有专攻
+[2026-05-17 21:01:20.948] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_rebkby3xuet022：软件开发这个行业垂直细分领域跨度非常大
+[2026-05-17 21:02:33.149] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：做个网站都还分前端后端
+[2026-05-17 21:02:56.863] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：工业领域有分上位机和驱动开发
+[2026-05-17 21:03:07.147] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：互联网行业就更杂了
+[2026-05-17 21:03:50.275] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：@13647609166Mr\u2005
+[2026-05-17 21:03:59.509] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：老板，格局打开
+[2026-05-17 21:04:35.877] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：格局打不开[捂脸]
+[2026-05-17 21:04:48.652] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：把这套系统卖出去，做强做优做大，争取一年坐上CEO，两年迎娶白富美[旺柴]
+[2026-05-17 21:04:51.098] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：模板给你了，按这个做没做到，
+[2026-05-17 21:05:02.156] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：卖不掉的
+[2026-05-17 21:05:19.700] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：自己用能满足就不错
+[2026-05-17 21:05:45.790] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[憨笑][憨笑]
+[2026-05-17 21:06:07.726] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：我舅舅就是搞技术的
+[2026-05-17 21:06:09.354] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：没事，老板你还是比较成功
+[2026-05-17 21:06:22.817] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：有想法有行动
+[2026-05-17 21:06:41.695] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：很多客户开发的都是不能落地
+[2026-05-17 21:07:02.300] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：他自己搞了一些平台，，因为没人员去地推也不能落地
+[2026-05-17 21:07:24.126] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：地推太慢了
+[2026-05-17 21:07:47.135] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="gamecenter"><gamecenter msgtype="100" newmsgtype="100"><msg_id>mmgamemessagedistribution_recall_wx95a3a4d7c627e07d_1317915072_1779023265</msg_id><appid>wx95a3a4d7c627e07d</appid><push_id></push_id><weight>6</weight><time_info><create_time>1779023265</create_time><expire_time>259200</expire_time></time_info><entrance><entrance_red_dot_type>4</entrance_red_dot_type><entrance_icon_url>https://mmgame.qpic.cn/image/1f7ef7613829c9e9dde7cc92151d1bb8a0bfeef923b4da65c0f41e0550740382/h64</entrance_icon_url><entrance_text>瑶妹刷盾挡控保C位</entrance_text><entrance_icon_rounded_corner>1</entrance_icon_rounded_corner><entrance_show_control><basic_type>10000</basic_type><ignore_local_control>0</ignore_local_control><reappearable>0</reappearable></entrance_show_control></entrance><tab_info><default_key if_has_native_banner="">home</default_key><red_dot><key></key></red_dot></tab_info><extra_data><preload><![CDATA[{&quot;wonderful_video_feed&quot;:{&quot;type&quot;:1,&quot;content&quot;:&quot;瑶妹的核心任务就是保护好己方核心输出位，团战时不断通过“刷盾”和“挡控”来吸收伤害，并利用一技能进行控制和探草，为队友创造安全的输出环境。#峡谷高光操作名场面&quot;,&quot;enable_external_link&quot;:false,&quot;view_count&quot;:2791579,&quot;duration&quot;:45,&quot;pic_url_list&quot;:[&quot;https://mmgamevideores.qpic.cn/image/wxgv0779ef1fcf81461d92e8925c0d92f289.f103000.jpg&quot;],&quot;lazy_pic_url_list&quot;:[],&quot;image_list&quot;:[],&quot;ext_image_list&quot;:[],&quot;is_thumbnail&quot;:false,&quot;create_time&quot;:1776644937,&quot;id&quot;:1317915072,&quot;feed_id&quot;:&quot;1317915072&quot;,&quot;content_id&quot;:&quot;5q8qOS0_uD2rZ63zC58_6g&quot;,&quot;extern_info&quot;:&quot;{\&quot;ExpID\&quot;:0,\&quot;ReasonID\&quot;:23,\&quot;account_info\&quot;:[3,0],\&quot;content_source_type\&quot;:27,\&quot;labelid_rela\&quot;:0,\&quot;ContentType\&quot;:22,\&quot;distype\&quot;:[],\&quot;GiftType\&quot;:2,\&quot;video_height\&quot;:592,\&quot;video_width\&quot;:1280,\&quot;recom_info_map\&quot;:{\&quot;openid\&quot;:\&quot;g1NlbyjV-X2Z-iNC0pBCcCYA2OAo\&quot;},\&quot;openid_list\&quot;:[],\&quot;VideoTime\&quot;:45.0,\&quot;realtime_vv\&quot;:2791579,\&quot;appid_list\&quot;:[],\&quot;user_title\&quot;:[{\&quot;identity_type\&quot;:10001,\&quot;identity_desc\&quot;:\&quot;至尊星耀I1星\&quot;,\&quot;service_source\&quot;:0},{\&quot;identity_type\&quot;:10005,\&quot;identity_desc\&quot;:\&quot;已玩331小时\&quot;,\&quot;service_source\&quot;:0}],\&quot;task_name\&quot;:\&quot;red_dot_topic\&quot;,\&quot;tab_name\&quot;:2}&quot;,&quot;action_info&quot;:{&quot;type&quot;:1,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circle/detail.html?tid=5q8qOS0_uD2rZ63zC58_6g&amp;liteapp=liteapp%3A%2F%2Fwxalite842f9e8076010458697522e7db33761b%3Fpath%3Dpages%252Fdetail%252Findex&amp;wechat_pkgid=circle_detail&quot;,&quot;video_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/gameobjectstoragewap/getvideourl?vid=wxgv0779ef1fcf81461d92e8925c0d92f289&amp;redirect=1&quot;},&quot;user_info&quot;:{&quot;nick_name&quot;:&quot;东方淮竹&quot;,&quot;head_img_url&quot;:&quot;https://mmgame.qpic.cn/image/1f7ef7613829c9e9dde7cc92151d1bb8a0bfeef923b4da65c0f41e0550740382/132&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/lite/pureprofile/index.html?t=g1NlbyjV-X2Z-iNC0pBCcCYA2OAo&amp;tab_type=0&amp;liteapp=liteapp%3A%2F%2Fwxalite542c802d5633c78e0ae84046274e30cf%3Fpath%3Dpages%252Findex%252Findex%26force_open_liteapp%3D1&amp;wechat_pkgid=lite_pureprofile&quot;,&quot;openid&quot;:&quot;g1NlbyjV-X2Z-iNC0pBCcCYA2OAo&quot;,&quot;user_custom_info&quot;:{&quot;auth_type&quot;:6,&quot;auth_desc&quot;:&quot;创作者&quot;,&quot;auth_icon_type&quot;:3,&quot;update_time_rule_type&quot;:0,&quot;icon_url&quot;:&quot;https://mmgame.qpic.cn/image/8908b91d28bae656fe864993817e12b235f2f1bcb26d5dc626843d0f9f8fa1b0/0&quot;,&quot;desc&quot;:&quot;创作者&quot;},&quot;user_relation_info&quot;:{&quot;group_relation_type&quot;:0},&quot;user_name&quot;:&quot;U1_BgAAr-OCZmk0@gamelife&quot;,&quot;complain_url&quot;:&quot;https://weixin110.qq.com/security/readtemplate?t=weixin_report/w_type&amp;scene=60&amp;beexposechatname=eyJ1c2VyX25hbWUiOiJVMV9CZ0FBci1PQ1ptazBAZ2FtZWxpZmUiLCJ1c2VyX3R5cGUiOjAsImJpel9pZCI6MTAwMDA2LCJvYmplY3RfdHlwZSI6MSwib2JqZWN0X2lkZW50IjoiMTMxNzkxNTA3MiJ9&quot;,&quot;negative_type&quot;:2,&quot;tag_list&quot;:[{&quot;tag_name&quot;:&quot;至尊星耀I1星&quot;,&quot;icon&quot;:&quot;&quot;,&quot;type&quot;:10001,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/clustertitle/index.html?identity_feeds_key=gxhnlYhZnRgxr0yEDlLXB2nmVZanE7rLVIWOwh9z7wdQpCz0AdTOVuDw3wDHZphW&amp;content_id=5q8qOS0_uD2rZ63zC58_6g&quot;,&quot;service_source&quot;:0},{&quot;tag_name&quot;:&quot;已玩331小时&quot;,&quot;icon&quot;:&quot;&quot;,&quot;type&quot;:10005,&quot;service_source&quot;:0}],&quot;sex&quot;:0,&quot;is_friend&quot;:false,&quot;is_authorized&quot;:true},&quot;source_info&quot;:{&quot;group_info&quot;:{&quot;appid&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;group_name&quot;:&quot;王者荣耀&quot;,&quot;desc&quot;:&quot;【游戏介绍】\n《王者荣耀》是腾讯第一5V5团队公平竞技手游，国民MOBA手游大作！5V5王者峡谷、公平对战，还原MOBA经典体验；契约之战、五军对决、边境突围等，带来花式作战乐趣！10秒实时跨区匹配，与好友开黑上分，向最强王者进击！多款英雄任凭选择，一血、五杀、超神，实力碾压，收割全场！敌军即将到达战场，王者召唤师快来集结好友，准备团战，就在《王者荣耀》！&quot;,&quot;button_desc&quot;:&quot;加入圈子&quot;,&quot;is_join&quot;:true,&quot;background_pic_url&quot;:&quot;https://mmgame.qpic.cn/image/aff9d31d61385e15d72c56fb7e2af5e1ce7dd23bf4273b61912a730d47980d6e/0&quot;,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/lite/circlecenter/index.html?wechat_pkgid=lite_circlecenter&amp;liteapp=liteapp%3A%2F%2Fwxalited17d79803d8c228a7eac78129f40484c%3Fpath%3Dpages%252Findex%252Findex&amp;appid=wx95a3a4d7c627e07d&quot;,&quot;icon_url&quot;:&quot;https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0&quot;,&quot;group_not_open&quot;:false,&quot;apptype&quot;:1,&quot;close_topic_recommend&quot;:false,&quot;not_played&quot;:false,&quot;group_out_id&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;topic_nums&quot;:593144072,&quot;fans_num&quot;:41166628,&quot;fans_desc&quot;:&quot;召唤师&quot;},&quot;source_type&quot;:27,&quot;is_topic&quot;:true},&quot;cluster_info&quot;:{&quot;cluster_id&quot;:35258,&quot;cluster_name&quot;:&quot;峡谷高光操作名场面&quot;,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/lite/clustertopic/index.html?clusterid=35258&amp;cluster_content_id=z4V5le0IjX3330oZAnd9ow&amp;wechat_immersive=1&amp;immersivePageBgIsDark=1&amp;immersiveUIStyle=1&amp;wechat_pkgid=lite_clustertopic&amp;liteapp=liteapp%3A%2F%2Fwxalite1721739582997924fe6b71a403c338c6%3Fpath%3Dpages%252Findex%252Findex%26force_open_liteapp%3D1&quot;,&quot;is_new_activity&quot;:false,&quot;is_hot_spot&quot;:false},&quot;cluster_info_list&quot;:[{&quot;cluster_id&quot;:35258,&quot;cluster_name&quot;:&quot;峡谷高光操作名场面&quot;,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/lite/clustertopic/index.html?clusterid=35258&amp;cluster_content_id=z4V5le0IjX3330oZAnd9ow&amp;wechat_immersive=1&amp;immersivePageBgIsDark=1&amp;immersiveUIStyle=1&amp;wechat_pkgid=lite_clustertopic&amp;liteapp=liteapp%3A%2F%2Fwxalite1721739582997924fe6b71a403c338c6%3Fpath%3Dpages%252Findex%252Findex%26force_open_liteapp%3D1&quot;,&quot;is_new_activity&quot;:false,&quot;is_hot_spot&quot;:false}],&quot;video_info&quot;:{&quot;duration&quot;:45,&quot;height&quot;:592,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circle/immerse.html?content_id=5q8qOS0_uD2rZ63zC58_6g&amp;liteapp=liteapp%3A%2F%2Fwxalite842f9e8076010458697522e7db33761b%3Fpath%3Dpages%252Fimmerse%252Findex&amp;wechat_pkgid=circle_detail&quot;,&quot;snapshot&quot;:&quot;https://mmgamevideores.qpic.cn/image/wxgv0779ef1fcf81461d92e8925c0d92f289.f103000.jpg&quot;,&quot;url&quot;:&quot;https://mmgamevideo.qpic.cn/video/wxgv0779ef1fcf81461d92e8925c0d92f289.f103000.mp4?dis_k=dc72cc07c3d0e061e6080f2b7684735b&amp;dis_t=1779023035&amp;__mmgcrid=wxgv0779ef1fcf81461d92e8925c0d92f289&quot;,&quot;vid&quot;:&quot;28732030127&quot;,&quot;view_count&quot;:2791579,&quot;width&quot;:1280,&quot;is_transcode&quot;:true,&quot;not_auto_play&quot;:false,&quot;hevc_url&quot;:&quot;https://mmgamevideo.qpic.cn/video/wxgv0779ef1fcf81461d92e8925c0d92f289.f103100.mp4?dis_k=d1056c54daa003ca09ce49fbae3378cb&amp;dis_t=1779023035&amp;__mmgcrid=wxgv0779ef1fcf81461d92e8925c0d92f289&quot;,&quot;codec_tag&quot;:1},&quot;content_tag_on_screen_list&quot;:[],&quot;is_red_dot&quot;:true,&quot;wonderful_video&quot;:{&quot;video_album_item&quot;:{&quot;tag_list&quot;:[],&quot;wxfriends_team_mate_list&quot;:[],&quot;mix_tag_info&quot;:{&quot;wonderful_tag_list&quot;:[],&quot;new_tag_list&quot;:[],&quot;battle_tag_list&quot;:[],&quot;video_tag_list&quot;:[]},&quot;feed_tag_list&quot;:[],&quot;team_mate_list&quot;:[],&quot;opponent_list&quot;:[],&quot;cluster_index_list&quot;:[]},&quot;relation_type&quot;:0},&quot;need_top&quot;:true,&quot;video_list&quot;:[],&quot;appid&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;can_share_to_chatroom&quot;:false,&quot;msg_pack_extend_list&quot;:[],&quot;topic_feed_list&quot;:[],&quot;feature_str&quot;:&quot;1W-q7vLSgiisX6OhqWkHIg&quot;,&quot;topic_extra_info&quot;:{&quot;custom_flag&quot;:0},&quot;service_entrance_list&quot;:[],&quot;user_list&quot;:[],&quot;group_out_id&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;not_can_recom_group&quot;:false,&quot;cover_pic_list&quot;:[],&quot;content_entrance_list&quot;:[],&quot;game_list&quot;:[]},&quot;type&quot;:7}]]></preload></extra_data><report><msg_subtype>116</msg_subtype><noticeid>800501</noticeid><ext_data>{&quot;biz_subtype&quot;:3,&quot;content_id&quot;:&quot;1317915072&quot;,&quot;exp_data&quot;:&quot;&quot;,&quot;friend_uin&quot;:0,&quot;interactive&quot;:800502,&quot;recommend_data&quot;:&quot;wxg_gamecenter_mmgame_redpoint_recommend_20220829:2024070205;wxg_gamecenter_mmgame_redpoint_recommend_rerank_20230601:2023110601;user_daily_type:4;daily_full_expose_count:4;user_exposure_count:906;type_exposure_count:20&quot;,&quot;send_time&quot;:1779023266,&quot;text&quot;:&quot;瑶妹刷盾挡控保C位&quot;,&quot;video_id&quot;:&quot;&quot;}</ext_data><business_data>{&quot;biz_type&quot;:7,&quot;data&quot;:&quot;{\&quot;notice_id\&quot;:\&quot;800501\&quot;,\&quot;topic_id\&quot;:1317915072,\&quot;tab_id\&quot;:3}&quot;,&quot;sys_report&quot;:{&quot;msg_type&quot;:116,&quot;interactive&quot;:800502,&quot;biz_subtype&quot;:3}}</business_data></report><jump_info></jump_info><exposure_strategy><history_message_list><msg_id>unifiedpush_content_414455_433470</msg_id><click_score>216.552612</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_414405_433424</msg_id><click_score>181.683899</click_score></history_message_list><history_message_list><msg_id>content_auto_push_20260511_642446_41778898811</msg_id><click_score>151.956085</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_414404_433420</msg_id><click_score>144.588943</click_score></history_message_list><history_message_list><msg_id>mmgamemessagedistribution_recall_wx95a3a4d7c627e07d_1324548225_1778915358</msg_id><click_score>139.707321</click_score></history_message_list><history_message_list><msg_id>mmgamemessagedistribution_recall_wx95a3a4d7c627e07d_1318560685_1778915358</msg_id><click_score>131.517654</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_604866_1776614399.6_145935685_9007199255345858</msg_id><click_score>101.545456</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_457931_1776614399.6_145556358_9007199255198923</msg_id><click_score>94.643234</click_score></history_message_list><expire_time_strategy><enabled></enabled></expire_time_strategy><battery_strategy><enabled></enabled></battery_strategy><wifi_strategy><enabled></enabled></wifi_strategy><exposure_count>4</exposure_count><channel>2</channel><click_score>109.773872</click_score><ignore_exceed_exposure>1</ignore_exceed_exposure></exposure_strategy><verify_info><signature>FA0E6FF4F4F77513A794084800ADFA0C0F9501DB93788BA9EE66906CCBD157F4</signature><nonce>armmcuao</nonce><timestamp>1779023265</timestamp><version>1</version></verify_info></gamecenter></sysmsg>
+[2026-05-17 21:07:47.337] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="gamecenter"><gamecenter msgtype="100" newmsgtype="100"><msg_id>mmgamemessagedistribution_recall_wx95a3a4d7c627e07d_1317929309_1779023265</msg_id><appid>wx95a3a4d7c627e07d</appid><push_id></push_id><weight>6</weight><time_info><create_time>1779023265</create_time><expire_time>259200</expire_time></time_info><entrance><entrance_red_dot_type>4</entrance_red_dot_type><entrance_icon_url>https://mmgame.qpic.cn/image/ff2848fe3109fd91853a248ea7a867af1dc99227928bf6d89ffec401ba4bd54c/h64</entrance_icon_url><entrance_text>那场五杀你还记得吗</entrance_text><entrance_icon_rounded_corner>1</entrance_icon_rounded_corner><entrance_show_control><basic_type>10000</basic_type><ignore_local_control>0</ignore_local_control><reappearable>0</reappearable></entrance_show_control></entrance><tab_info><default_key if_has_native_banner="">home</default_key><red_dot><key></key></red_dot></tab_info><extra_data><preload><![CDATA[{&quot;wonderful_video_feed&quot;:{&quot;type&quot;:1,&quot;content&quot;:&quot;你都淡忘了那场五杀, 你偶尔还会回头想想超级大逆风翻盘功劳有你一半-婈兮宝贝[爱心]&quot;,&quot;enable_external_link&quot;:false,&quot;view_count&quot;:133617,&quot;duration&quot;:38,&quot;pic_url_list&quot;:[&quot;https://mmgamevideores.qpic.cn/image/wxgv1b03bd1c58194afbb73ba383cd9e530c.f103000.jpg&quot;],&quot;lazy_pic_url_list&quot;:[],&quot;image_list&quot;:[],&quot;ext_image_list&quot;:[],&quot;is_thumbnail&quot;:false,&quot;create_time&quot;:1776645508,&quot;id&quot;:1317929309,&quot;feed_id&quot;:&quot;1317929309&quot;,&quot;content_id&quot;:&quot;1IOWyLtdgXFbLlmEGuHZUA&quot;,&quot;extern_info&quot;:&quot;{\&quot;ExpID\&quot;:0,\&quot;ReasonID\&quot;:23,\&quot;account_info\&quot;:[3,0],\&quot;content_source_type\&quot;:27,\&quot;labelid_rela\&quot;:0,\&quot;ContentType\&quot;:22,\&quot;distype\&quot;:[],\&quot;GiftType\&quot;:2,\&quot;video_height\&quot;:720,\&quot;video_width\&quot;:1280,\&quot;recom_info_map\&quot;:{\&quot;openid\&quot;:\&quot;g1NlbyiyjUBhi2lYrSFyigdPXtB8\&quot;},\&quot;openid_list\&quot;:[],\&quot;VideoTime\&quot;:38.0,\&quot;realtime_vv\&quot;:133617,\&quot;appid_list\&quot;:[],\&quot;user_title\&quot;:[{\&quot;identity_type\&quot;:10001,\&quot;identity_desc\&quot;:\&quot;绝世王者32星\&quot;,\&quot;service_source\&quot;:0},{\&quot;identity_type\&quot;:10006,\&quot;identity_desc\&quot;:\&quot;7.2年玩家\&quot;,\&quot;service_source\&quot;:0}],\&quot;task_name\&quot;:\&quot;red_dot_topic\&quot;,\&quot;tab_name\&quot;:2}&quot;,&quot;action_info&quot;:{&quot;type&quot;:1,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circle/detail.html?tid=1IOWyLtdgXFbLlmEGuHZUA&amp;liteapp=liteapp%3A%2F%2Fwxalite842f9e8076010458697522e7db33761b%3Fpath%3Dpages%252Fdetail%252Findex&amp;wechat_pkgid=circle_detail&quot;,&quot;video_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/gameobjectstoragewap/getvideourl?vid=wxgv1b03bd1c58194afbb73ba383cd9e530c&amp;redirect=1&quot;},&quot;user_info&quot;:{&quot;nick_name&quot;:&quot;携秋水揽星河&quot;,&quot;head_img_url&quot;:&quot;https://mmgame.qpic.cn/image/ff2848fe3109fd91853a248ea7a867af1dc99227928bf6d89ffec401ba4bd54c/132&quot;,&quot;profile_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/lite/pureprofile/index.html?t=g1NlbyiyjUBhi2lYrSFyigdPXtB8&amp;tab_type=0&amp;liteapp=liteapp%3A%2F%2Fwxalite542c802d5633c78e0ae84046274e30cf%3Fpath%3Dpages%252Findex%252Findex%26force_open_liteapp%3D1&amp;wechat_pkgid=lite_pureprofile&quot;,&quot;openid&quot;:&quot;g1NlbyiyjUBhi2lYrSFyigdPXtB8&quot;,&quot;user_custom_info&quot;:{&quot;auth_type&quot;:6,&quot;auth_desc&quot;:&quot;创作者&quot;,&quot;auth_icon_type&quot;:3,&quot;update_time_rule_type&quot;:0,&quot;icon_url&quot;:&quot;https://mmgame.qpic.cn/image/b06c97cc9a05df86479263cbca3d2c6e7eb1f55f009180c770a78224969a2123/0&quot;,&quot;desc&quot;:&quot;创作者&quot;},&quot;user_relation_info&quot;:{&quot;group_relation_type&quot;:0},&quot;user_name&quot;:&quot;U1_BgAAr6POhL7V@gamelife&quot;,&quot;complain_url&quot;:&quot;https://weixin110.qq.com/security/readtemplate?t=weixin_report/w_type&amp;scene=60&amp;beexposechatname=eyJ1c2VyX25hbWUiOiJVMV9CZ0FBcjZQT2hMN1ZAZ2FtZWxpZmUiLCJ1c2VyX3R5cGUiOjAsImJpel9pZCI6MTAwMDA2LCJvYmplY3RfdHlwZSI6MSwib2JqZWN0X2lkZW50IjoiMTMxNzkyOTMwOSJ9&quot;,&quot;negative_type&quot;:2,&quot;tag_list&quot;:[{&quot;tag_name&quot;:&quot;绝世王者32星&quot;,&quot;icon&quot;:&quot;&quot;,&quot;type&quot;:10001,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/clustertitle/index.html?identity_feeds_key=Lx9I1wlbEp_mEdOB3yxCDIt94A7qzaVIY5vcPu-MiBxQoUTQnCBFVcEI4ddLC4oz&amp;content_id=1IOWyLtdgXFbLlmEGuHZUA&quot;,&quot;service_source&quot;:0},{&quot;tag_name&quot;:&quot;7.2年玩家&quot;,&quot;icon&quot;:&quot;&quot;,&quot;type&quot;:10006,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/clustertitle/index.html?identity_feeds_key=pVDYTOJXSo770Rif1uFAK5ZGe8L4J8U2BOtN0VP4pcUSDl2pQot28Bntd_DswfPD&amp;content_id=1IOWyLtdgXFbLlmEGuHZUA&quot;,&quot;service_source&quot;:0}],&quot;sex&quot;:1,&quot;is_friend&quot;:false,&quot;is_authorized&quot;:true},&quot;source_info&quot;:{&quot;group_info&quot;:{&quot;appid&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;group_name&quot;:&quot;王者荣耀&quot;,&quot;desc&quot;:&quot;【游戏介绍】\n《王者荣耀》是腾讯第一5V5团队公平竞技手游，国民MOBA手游大作！5V5王者峡谷、公平对战，还原MOBA经典体验；契约之战、五军对决、边境突围等，带来花式作战乐趣！10秒实时跨区匹配，与好友开黑上分，向最强王者进击！多款英雄任凭选择，一血、五杀、超神，实力碾压，收割全场！敌军即将到达战场，王者召唤师快来集结好友，准备团战，就在《王者荣耀》！&quot;,&quot;button_desc&quot;:&quot;加入圈子&quot;,&quot;is_join&quot;:true,&quot;background_pic_url&quot;:&quot;https://mmgame.qpic.cn/image/aff9d31d61385e15d72c56fb7e2af5e1ce7dd23bf4273b61912a730d47980d6e/0&quot;,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/lite/circlecenter/index.html?wechat_pkgid=lite_circlecenter&amp;liteapp=liteapp%3A%2F%2Fwxalited17d79803d8c228a7eac78129f40484c%3Fpath%3Dpages%252Findex%252Findex&amp;appid=wx95a3a4d7c627e07d&quot;,&quot;icon_url&quot;:&quot;https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0&quot;,&quot;group_not_open&quot;:false,&quot;apptype&quot;:1,&quot;close_topic_recommend&quot;:false,&quot;not_played&quot;:false,&quot;group_out_id&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;topic_nums&quot;:593144174,&quot;fans_num&quot;:41166629,&quot;fans_desc&quot;:&quot;召唤师&quot;},&quot;source_type&quot;:27,&quot;is_topic&quot;:true},&quot;cluster_info_list&quot;:[],&quot;video_info&quot;:{&quot;duration&quot;:38,&quot;height&quot;:720,&quot;jump_url&quot;:&quot;https://game.weixin.qq.com/cgi-bin/h5/static/circle/immerse.html?content_id=1IOWyLtdgXFbLlmEGuHZUA&amp;liteapp=liteapp%3A%2F%2Fwxalite842f9e8076010458697522e7db33761b%3Fpath%3Dpages%252Fimmerse%252Findex&amp;wechat_pkgid=circle_detail&quot;,&quot;snapshot&quot;:&quot;https://mmgamevideores.qpic.cn/image/wxgv1b03bd1c58194afbb73ba383cd9e530c.f103000.jpg&quot;,&quot;url&quot;:&quot;https://mmgamevideo.qpic.cn/video/wxgv1b03bd1c58194afbb73ba383cd9e530c.f103000.mp4?dis_k=75638ceb7a2cd8b55278bc4c154a77df&amp;dis_t=1779023108&amp;__mmgcrid=wxgv1b03bd1c58194afbb73ba383cd9e530c&quot;,&quot;vid&quot;:&quot;28732215027&quot;,&quot;view_count&quot;:133617,&quot;width&quot;:1280,&quot;is_transcode&quot;:true,&quot;not_auto_play&quot;:false,&quot;hevc_url&quot;:&quot;https://mmgamevideo.qpic.cn/video/wxgv1b03bd1c58194afbb73ba383cd9e530c.f103100.mp4?dis_k=7ccb5cc3b0a3e53b9af18160ac597e47&amp;dis_t=1779023108&amp;__mmgcrid=wxgv1b03bd1c58194afbb73ba383cd9e530c&quot;,&quot;codec_tag&quot;:1},&quot;content_tag_on_screen_list&quot;:[],&quot;is_red_dot&quot;:true,&quot;wonderful_video&quot;:{&quot;video_album_item&quot;:{&quot;tag_list&quot;:[],&quot;wxfriends_team_mate_list&quot;:[],&quot;mix_tag_info&quot;:{&quot;wonderful_tag_list&quot;:[],&quot;new_tag_list&quot;:[],&quot;battle_tag_list&quot;:[],&quot;video_tag_list&quot;:[]},&quot;feed_tag_list&quot;:[],&quot;team_mate_list&quot;:[],&quot;opponent_list&quot;:[],&quot;cluster_index_list&quot;:[]},&quot;relation_type&quot;:0},&quot;need_top&quot;:true,&quot;video_list&quot;:[],&quot;appid&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;can_share_to_chatroom&quot;:false,&quot;msg_pack_extend_list&quot;:[],&quot;topic_feed_list&quot;:[],&quot;feature_str&quot;:&quot;bEnPkYSkFMWpILXtfNtzVQ&quot;,&quot;topic_extra_info&quot;:{&quot;custom_flag&quot;:1},&quot;service_entrance_list&quot;:[],&quot;user_list&quot;:[],&quot;group_out_id&quot;:&quot;wx95a3a4d7c627e07d&quot;,&quot;not_can_recom_group&quot;:false,&quot;cover_pic_list&quot;:[],&quot;content_entrance_list&quot;:[],&quot;game_list&quot;:[]},&quot;type&quot;:7}]]></preload></extra_data><report><msg_subtype>116</msg_subtype><noticeid>800501</noticeid><ext_data>{&quot;biz_subtype&quot;:3,&quot;content_id&quot;:&quot;1317929309&quot;,&quot;exp_data&quot;:&quot;&quot;,&quot;friend_uin&quot;:0,&quot;interactive&quot;:800502,&quot;recommend_data&quot;:&quot;wxg_gamecenter_mmgame_redpoint_recommend_20220829:2024070205;wxg_gamecenter_mmgame_redpoint_recommend_rerank_20230601:2023110601;user_daily_type:4;daily_full_expose_count:4;user_exposure_count:906;type_exposure_count:20&quot;,&quot;send_time&quot;:1779023267,&quot;text&quot;:&quot;那场五杀你还记得吗&quot;,&quot;video_id&quot;:&quot;&quot;}</ext_data><business_data>{&quot;biz_type&quot;:7,&quot;data&quot;:&quot;{\&quot;notice_id\&quot;:\&quot;800501\&quot;,\&quot;topic_id\&quot;:1317929309,\&quot;tab_id\&quot;:3}&quot;,&quot;sys_report&quot;:{&quot;msg_type&quot;:116,&quot;interactive&quot;:800502,&quot;biz_subtype&quot;:3}}</business_data></report><jump_info></jump_info><exposure_strategy><history_message_list><msg_id>unifiedpush_content_414455_433470</msg_id><click_score>214.183334</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_414405_433424</msg_id><click_score>179.770584</click_score></history_message_list><history_message_list><msg_id>content_auto_push_20260511_642446_41778898811</msg_id><click_score>150.158997</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_414404_433420</msg_id><click_score>143.426651</click_score></history_message_list><history_message_list><msg_id>mmgamemessagedistribution_recall_wx95a3a4d7c627e07d_1324548225_1778915358</msg_id><click_score>138.062241</click_score></history_message_list><history_message_list><msg_id>mmgamemessagedistribution_recall_wx95a3a4d7c627e07d_1318560685_1778915358</msg_id><click_score>130.096085</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_604866_1776614399.6_145935685_9007199255345858</msg_id><click_score>100.350380</click_score></history_message_list><history_message_list><msg_id>unifiedpush_content_457931_1776614399.6_145556358_9007199255198923</msg_id><click_score>93.498825</click_score></history_message_list><expire_time_strategy><enabled></enabled></expire_time_strategy><battery_strategy><enabled></enabled></battery_strategy><wifi_strategy><enabled></enabled></wifi_strategy><exposure_count>4</exposure_count><channel>2</channel><click_score>145.152206</click_score><ignore_exceed_exposure>1</ignore_exceed_exposure></exposure_strategy><verify_info><signature>CD3E0314BD5E25B856490C7221E83A19CBE7E685D86DD4371CB2F35AEB9ACA0A</signature><nonce>pbovdkza</nonce><timestamp>1779023265</timestamp><version>1</version></verify_info></gamecenter></sysmsg>
+[2026-05-17 21:07:50.851] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：要借住短视频平台放大传播速度
+[2026-05-17 21:08:19.580] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：我老婆就是做销售的
+[2026-05-17 21:08:35.451] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：地推最不好做
+[2026-05-17 21:09:56.248] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：@13647609166Mr\u2005
+[2026-05-17 21:10:28.958] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：关于傻瓜式一键配置，我到时候给你研究一下
+[2026-05-17 21:10:44.430] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：我给你整一个省心省心的
+[2026-05-17 21:10:49.168] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：让你不用操心
+[2026-05-17 21:11:13.061] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：前期你自己先在系统中录数据
+[2026-05-17 21:11:30.286] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：我那着你系统中的数据，给你训练一个ai
+[2026-05-17 21:11:53.692] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：让它学习你的经验和配置方法以及习惯
+[2026-05-17 21:12:24.950] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：训练完成后给你开发一套全自动的傻瓜式一键配置
+[2026-05-17 21:12:40.026] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：当有新增群聊时自动配置
+[2026-05-17 21:12:50.145] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：@Muke～\u2005可以复制现有的网站
+[2026-05-17 21:13:00.443] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：老板，你看怎么样？[憨笑]
+[2026-05-17 21:13:10.813] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：比原来的那个网站还高级
+[2026-05-17 21:13:12.850] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：当然好，，为什么不抄作业
+[2026-05-17 21:13:16.720] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[旺柴]
+[2026-05-17 21:13:22.052] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：感谢理解
+[2026-05-17 21:13:43.676] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：隔行如隔山嘛
+[2026-05-17 21:13:44.853] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：一样一样弄好，，后期要长期合作的嘛
+[2026-05-17 21:14:10.219] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：我只会做开发，其实业务方面你肯定比我懂
+[2026-05-17 21:14:19.030] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：你在汽配行业深耕多年
+[2026-05-17 21:14:36.109] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：要整体设置，就省事
+[2026-05-17 21:14:38.162] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：汽配行业对于我来说是零基础
+[2026-05-17 21:14:50.767] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：一个群一个群，想想都头大
+[2026-05-17 21:15:01.767] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_hha9fdncmcvz21：[捂脸]
+[2026-05-17 21:15:07.894] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：做开发我又比你略懂一些
+[2026-05-17 21:15:14.899] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：[呲牙][呲牙]
+[2026-05-17 21:15:32.883] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：没事儿，上班无聊就当开心消消乐
+[2026-05-17 21:15:38.771] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：没事就点点
+[2026-05-17 21:16:10.285] wxid_9a4u1rk4w34422 | 收到群聊 | 群（43345253685@chatroom）wxid_nwrplpmxrwyq22：很快的，群聊设置就在不经意间配置完成了
+[2026-05-17 21:19:46.361] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7387]

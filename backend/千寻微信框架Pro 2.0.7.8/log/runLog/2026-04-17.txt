@@ -1,0 +1,25 @@
+[2026-04-17 22:24:34.932] 框架 | 公告 | \uD83D\uDE01 欢迎使用本软件，仅供学习测试，请勿用于商业用途、违法内容等
+[2026-04-17 22:24:34.932] 框架 | 公告 | ● 官网、开发文档、购买授权、常见问题：https://www.cnblogs.com/daen/p/-/qxpro
+[2026-04-17 22:24:34.932] 框架 | 公告 | ● 最新版本、SDK、DEMO下载：https://daen.lanzoue.com/b01hsujsj
+[2026-04-17 22:24:34.932] 框架 | 公告 | ● 如果登录微信后，微信管理不显示，请查看【官网】的【常见问题】
+[2026-04-17 22:24:35.313] 框架 | 提示 | [HTTPAPI服务端]已启动，端口[7777]，回调地址[]
+[2026-04-17 22:24:35.319] 框架 | 提示 | [WebSocket服务端]已启动，端口[7778]
+[2026-04-17 22:24:41.211] 框架 | 提示 | 已尝试启动微信，请等待微信窗口拉起...如果长时间不见微信窗口，请查看官网常见问题解决
+[2026-04-17 22:24:42.656] 框架 | 提示 | 微信启动成功[VBwf99C3rjH9uaSu.dll]，端口[7137]，等待登录...
+[2026-04-17 22:24:43.194] 框架 | 提示 | 注入成功，端口[7137]，pid[29224]
+[2026-04-17 22:26:18.177] 框架 | 账号上线 | 微信账号上线，昵称[Rick汽配链APP机器人]，wxid[wxid_9a4u1rk4w34422]，端口[7137]，授权到期时间[2027-04-15 21:37:30]
+[2026-04-17 22:26:18.177] 框架 | 提示 | 将在10秒后开始处理事件和消息……
+[2026-04-17 23:04:03.438] wxid_9a4u1rk4w34422 | 收到私聊 | weixin：<sysmsg type="functionmsg">
+<functionmsg>
+<cgi>/cgi-bin/micromsg-bin/pullfunctionmsg</cgi>
+<cmdid>614</cmdid>
+<functionmsgid>MMKANYIKAN_JINGXUANREDDOT_1776434700</functionmsgid>
+<retryinterval>150</retryinterval>
+<retrycount>3</retrycount>
+<custombuff>YIqkAXIKMTc3NjQzNDcwMHoGd2VpeGluigEkTU1LQU5ZSUtBTl9KSU5HWFVBTlJFRERPVF8xNzc2NDM0NzAwqgFsQVlCQlVLakRGSEhPMmJJb0VaTUZhamJtRTZTcmt6NytVTFprejMyTyswR2JKRFVubHhSU2xJZ01vb09UNFZhZlphaGl1VUlnMi9velFZMU8wUjQ5OHpSc215Y09HN0MxaDBOZzRnMExZYmM9</custombuff>
+<businessid>21002</businessid>
+<actiontime>1776434404</actiontime>
+<functionmsgversion>2</functionmsgversion>
+</functionmsg>
+</sysmsg>
+[2026-04-17 23:25:11.693] 框架 | 账号下线 | 微信账号下线，wxid[wxid_9a4u1rk4w34422]，端口[7137]

@@ -1,0 +1,125 @@
+@import './variables.css';
+
+/* 布局容器 */
+.layout-container {
+  display: flex;
+  height: 100vh;
+}
+
+/* 侧边栏 */
+.sidebar {
+  width: var(--sidebar-width);
+  height: 100%;
+  background-color: #304156;
+  transition: width 0.3s;
+  flex-shrink: 0;
+}
+
+.sidebar.collapsed {
+  width: var(--sidebar-collapsed-width);
+}
+
+.sidebar-header {
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.sidebar-menu {
+  border-right: none;
+}
+
+.sidebar-menu :deep(.el-menu) {
+  background-color: transparent;
+  border-right: none;
+}
+
+.sidebar-menu :deep(.el-menu-item),
+.sidebar-menu :deep(.el-sub-menu__title) {
+  color: #bfcbd9;
+}
+
+.sidebar-menu :deep(.el-menu-item:hover),
+.sidebar-menu :deep(.el-sub-menu__title:hover) {
+  background-color: #263445;
+}
+
+.sidebar-menu :deep(.el-menu-item.is-active) {
+  color: var(--primary-color);
+  background-color: #263445;
+}
+
+/* 主内容区 */
+.main-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* 顶部导航 */
+.main-header {
+  height: var(--header-height);
+  background-color: var(--bg-white);
+  box-shadow: var(--shadow-base);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--spacing-lg);
+  flex-shrink: 0;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.collapse-btn {
+  font-size: 20px;
+  cursor: pointer;
+  color: var(--text-regular);
+}
+
+/* 面包屑 */
+.breadcrumb {
+  margin-left: var(--spacing-md);
+}
+
+/* 内容区 */
+.main-content {
+  flex: 1;
+  overflow: auto;
+  background-color: var(--bg-base);
+  padding: var(--content-padding);
+}
+
+/* 用户下拉 */
+.user-dropdown {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.user-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 14px;
+}
