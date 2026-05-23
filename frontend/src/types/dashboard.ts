@@ -55,3 +55,15 @@ export interface RecentRecord {
   createTime: string
   status: number
 }
+
+export interface GroupActivityItem {
+  group_name: string
+  message_count: number
+  percentage: number
+}
+
+export interface GroupActivityStats {
+  total_vin_images: number
+  period_days: number
+  group_stats: GroupActivityItem[]
+}

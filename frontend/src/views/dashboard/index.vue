@@ -109,11 +109,36 @@
         </div>
       </el-col>
     </el-row>
+
+    <!-- 群活跃度统计 - 图表展示 -->
+    <el-row :gutter="20" class="chart-row">
+      <el-col :xs="24" :lg="12">
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <span class="chart-card-title">群活跃度排行（近30天含车架号图片消息）</span>
+            <span class="chart-card-subtitle">共 {{ groupActivityStats.total_vin_images }} 条VIN图片消息</span>
+          </div>
+          <div class="chart-card-body">
+            <BarChart :data="groupActivityChartData" horizontal />
+          </div>
+        </div>
+      </el-col>
+      <el-col :xs="24" :lg="12">
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <span class="chart-card-title">群活跃度占比分布</span>
+          </div>
+          <div class="chart-card-body">
+            <PieChart :data="groupActivityPieData" />
+          </div>
+        </div>
+      </el-col>
+    </el-row>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, computed } from 'vue'
 import { ElMessage } from 'element-plus'
 import StatCard from '@/components/common/StatCard.vue'
 import PieChart from '@/components/charts/PieChart.vue'
@@ -121,9 +146,10 @@ import BarChart from '@/components/charts/BarChart.vue'
 import LineChart from '@/components/charts/LineChart.vue'
 import { dashboardApi } from '@/api/dashboard'
 import { formatDate } from '@/utils/format'
-import type { StatCardData, HotModelRank, RecentRecord } from '@/types/dashboard'
+import type { StatCardData, HotModelRank, RecentRecord, GroupActivityStats } from '@/types/dashboard'
 
 const loading = ref(false)
+const groupActivityLoading = ref(false)
 
 // 统计卡片数据
 const statCards = ref<StatCardData[]>([
@@ -134,6 +160,28 @@ const statCards = ref<StatCardData[]>([
   { title: '群聊数量', value: 0, icon: 'ChatDotSquare', iconColor: '#909399', iconBgColor: '#F4F4F5' },
   { title: 'LLM识别成功率', value: 0, trend: 0, trendUp: true, icon: 'CircleCheck', iconColor: '#409EFF', iconBgColor: '#ECF5FF', suffix: '%' }
 ])
+
+// 群活跃度统计数据
+const groupActivityStats = ref<GroupActivityStats>({
+  total_vin_images: 0,
+  period_days: 30,
+  group_stats: []
+})
+
+// 群活跃度图表数据（计算属性）
+const groupActivityChartData = computed(() => {
+  return groupActivityStats.value.group_stats.map(item => ({
+    name: item.group_name.length > 15 ? item.group_name.substring(0, 15) + '...' : item.group_name,
+    value: item.message_count
+  }))
+})
+
+const groupActivityPieData = computed(() => {
+  return groupActivityStats.value.group_stats.map(item => ({
+    name: item.group_name.length > 10 ? item.group_name.substring(0, 10) + '...' : item.group_name,
+    value: item.message_count
+  }))
+})
 
 // 图表数据
 const vehicleTypeData = ref<{name: string, value: number}[]>([])
@@ -199,6 +247,21 @@ const loadRecentRecords = async () => {
   }
 }
 
+// 加载群活跃度统计
+const loadGroupActivityStats = async () => {
+  groupActivityLoading.value = true
+  try {
+    const result = await dashboardApi.getGroupActivityStats(30, 10)
+    if (result) {
+      groupActivityStats.value = result
+    }
+  } catch (error) {
+    console.error('获取群活跃度统计失败', error)
+  } finally {
+    groupActivityLoading.value = false
+  }
+}
+
 // 加载所有数据
 const loadAllData = async () => {
   loading.value = true
@@ -207,7 +270,8 @@ const loadAllData = async () => {
       loadStats(),
       loadCharts(),
       loadHotModels(),
-      loadRecentRecords()
+      loadRecentRecords(),
+      loadGroupActivityStats()
     ])
   } finally {
     loading.value = false
@@ -283,6 +347,17 @@ onMounted(() => {
   font-size: 16px;
   font-weight: 500;
   color: var(--text-primary);
+}
+
+.card-subtitle {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-left: var(--spacing-sm);
+}
+
+.percentage-bar {
+  width: 100%;
+  padding: 0 10px;
 }
 
 .text-success {

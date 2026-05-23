@@ -146,7 +146,7 @@ const form = reactive<ApiConfig>({
   api_key: '',
   api_base: '',
   model: '',
-  temperature: '0.1',
+  temperature: 0.1,
   max_tokens: 2000,
   prompt_template: '',
   is_active: true,
@@ -185,6 +185,10 @@ const handleAdd = () => {
 const handleEdit = (row: ApiConfig) => {
   dialogTitle.value = '编辑配置'
   Object.assign(form, row)
+  // 确保 temperature 是数字类型
+  if (typeof form.temperature === 'string') {
+    form.temperature = parseFloat(form.temperature)
+  }
   dialogVisible.value = true
 }
 
@@ -258,7 +262,7 @@ const resetForm = () => {
   form.api_key = ''
   form.api_base = ''
   form.model = ''
-  form.temperature = '0.1'
+  form.temperature = 0.1
   form.max_tokens = 2000
   form.prompt_template = ''
   form.db_host = ''

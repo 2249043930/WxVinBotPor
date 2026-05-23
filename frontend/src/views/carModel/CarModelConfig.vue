@@ -1,5 +1,8 @@
 <template>
   <div class="page-container">
+    <!-- 黑洞加载动画 -->
+    <BlackHoleLoading :visible="showBlackHoleLoading" />
+    
     <!-- 搜索栏 -->
     <div class="search-form-container">
       <el-form :model="query" inline>
@@ -30,6 +33,9 @@
     <div class="table-operations">
       <el-button type="success" @click="handleSyncGroups" :loading="syncLoading">
         <el-icon><Refresh /></el-icon>同步群聊信息
+      </el-button>
+      <el-button type="warning" @click="handleGlobalAutoSync" :loading="globalSyncLoading">
+        <el-icon><MagicStick /></el-icon>一键智能同步
       </el-button>
     </div>
     
@@ -187,6 +193,138 @@
       </template>
     </el-dialog>
 
+    <!-- 智能同步结果弹窗 -->
+    <el-dialog
+      v-model="syncResultVisible"
+      title="智能同步结果"
+      width="650px"
+      :close-on-click-modal="false"
+      class="sync-result-dialog"
+    >
+      <div v-if="syncResultData" class="sync-result-content">
+        <!-- 统计卡片 -->
+        <el-card class="stats-card" shadow="hover">
+          <div class="stats-header">
+            <el-icon class="stats-icon" :size="40" color="#67C23A"><CircleCheck /></el-icon>
+            <div class="stats-title">
+              <h3>同步完成</h3>
+              <p class="stats-subtitle">源群：{{ syncResultData.source_group_name }}</p>
+            </div>
+          </div>
+          
+          <el-divider />
+          
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-value success">{{ syncResultData.total_created }}</div>
+              <div class="stat-label">成功创建绑定</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">{{ syncResultData.total_target_groups }}</div>
+              <div class="stat-label">扫描群聊数</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">{{ syncResultData.processed_groups || syncResultData.total_target_groups }}</div>
+              <div class="stat-label">处理群聊数</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value warning">{{ syncResultData.total_skipped }}</div>
+              <div class="stat-label">跳过绑定</div>
+            </div>
+          </div>
+          
+          <el-alert
+            v-if="syncResultData.limited"
+            type="warning"
+            :closable="false"
+            show-icon
+            style="margin-top: 15px"
+          >
+            群聊数量过多，已限制处理前100个群聊
+          </el-alert>
+          
+          <!-- 跳过原因统计 -->
+          <div v-if="syncResultData.skip_reasons && syncResultData.total_skipped > 0" class="skip-reasons-section">
+            <el-divider content-position="left">跳过原因分析</el-divider>
+            <div class="skip-reasons-grid">
+              <div v-if="syncResultData.skip_reasons.binding_exists > 0" class="skip-reason-item">
+                <el-tag type="info" effect="plain" size="small">绑定已存在</el-tag>
+                <span class="skip-reason-count">{{ syncResultData.skip_reasons.binding_exists }}</span>
+              </div>
+              <div v-if="syncResultData.skip_reasons.same_model_diff_supplier > 0" class="skip-reason-item">
+                <el-tag type="warning" effect="plain" size="small">同车型不同供应商</el-tag>
+                <span class="skip-reason-count">{{ syncResultData.skip_reasons.same_model_diff_supplier }}</span>
+              </div>
+              <div v-if="syncResultData.skip_reasons.no_member > 0" class="skip-reason-item">
+                <el-tag type="danger" effect="plain" size="small">目标群无此供应商成员</el-tag>
+                <span class="skip-reason-count">{{ syncResultData.skip_reasons.no_member }}</span>
+              </div>
+              <div v-if="syncResultData.skip_reasons.no_supplier_wxid > 0" class="skip-reason-item">
+                <el-tag type="info" effect="plain" size="small">供应商无wxid</el-tag>
+                <span class="skip-reason-count">{{ syncResultData.skip_reasons.no_supplier_wxid }}</span>
+              </div>
+              <div v-if="syncResultData.skip_reasons.member_sync_failed > 0" class="skip-reason-item">
+                <el-tag type="danger" effect="plain" size="small">成员同步失败</el-tag>
+                <span class="skip-reason-count">{{ syncResultData.skip_reasons.member_sync_failed }}</span>
+              </div>
+              <div v-if="syncResultData.skip_reasons.create_failed > 0" class="skip-reason-item">
+                <el-tag type="danger" effect="plain" size="small">创建失败</el-tag>
+                <span class="skip-reason-count">{{ syncResultData.skip_reasons.create_failed }}</span>
+              </div>
+            </div>
+          </div>
+        </el-card>
+
+        <!-- 详细列表 -->
+        <div class="details-section" v-if="syncResultData.details && syncResultData.details.length > 0">
+          <h4 class="details-title">详细绑定列表</h4>
+          <div class="details-scroll">
+            <el-collapse>
+              <el-collapse-item
+                v-for="detail in syncResultData.details"
+                :key="detail.group_id"
+                :title="`${detail.group_name} (创建 ${detail.created} 个绑定)`"
+              >
+                <el-table :data="detail.created_bindings" size="small" border>
+                  <el-table-column prop="car_model" label="车型" min-width="120" />
+                  <el-table-column prop="supplier" label="供应商" min-width="150" />
+                </el-table>
+                
+                <!-- 跳过的绑定 -->
+                <div v-if="detail.skipped_bindings && detail.skipped_bindings.length > 0" class="skipped-section">
+                  <el-divider content-position="left">跳过的绑定</el-divider>
+                  <el-table :data="detail.skipped_bindings" size="small" border>
+                    <el-table-column prop="car_model" label="车型" min-width="120" />
+                    <el-table-column prop="supplier" label="供应商" min-width="150" />
+                    <el-table-column prop="reason" label="原因" min-width="150" />
+                  </el-table>
+                </div>
+              </el-collapse-item>
+            </el-collapse>
+          </div>
+        </div>
+
+        <!-- 空状态 -->
+        <el-empty
+          v-else
+          description="暂无可同步的绑定"
+          style="margin-top: 30px"
+        >
+          <template #description>
+            <p>暂无可同步的绑定</p>
+            <p style="font-size: 13px; color: #909399; margin-top: 10px">
+              请确保源群已配置车型供应商绑定，且其他群包含相同供应商成员
+            </p>
+          </template>
+        </el-empty>
+      </div>
+
+      <template #footer>
+        <el-button @click="syncResultVisible = false">关闭</el-button>
+        <el-button type="primary" @click="syncResultVisible = false">确定</el-button>
+      </template>
+    </el-dialog>
+
     <!-- 查看详情弹窗 -->
     <el-dialog
       v-model="detailDialogVisible"
@@ -271,8 +409,9 @@
 <script setup lang="ts">
 import { ref, reactive, onMounted, computed } from 'vue'
 import { ElMessage } from 'element-plus'
-import { Search, Refresh, View, Setting, Plus, Delete } from '@element-plus/icons-vue'
+import { Search, Refresh, View, Setting, Plus, Delete, MagicStick, CircleCheck } from '@element-plus/icons-vue'
 import Pagination from '@/components/common/Pagination.vue'
+import BlackHoleLoading from '@/components/BlackHoleLoading.vue'
 import { groupConfigApi } from '@/api/groupConfig'
 import { carModelApi } from '@/api/carModel'
 import type { GroupOption, GroupMember } from '@/api/groupConfig'
@@ -280,6 +419,8 @@ import type { CarModel } from '@/types/carModel'
 
 const loading = ref(false)
 const syncLoading = ref(false)
+const globalSyncLoading = ref(false)
+const showBlackHoleLoading = ref(false)
 const syncedGroups = ref<(GroupOption & { sync_time?: string })[]>([])
 
 const query = reactive({
@@ -424,6 +565,60 @@ const handleSyncGroups = async () => {
     ElMessage.error('同步失败，请检查网络连接')
   } finally {
     syncLoading.value = false
+  }
+}
+
+// 全局智能同步 - 选择源群后同步到所有其他群
+const handleGlobalAutoSync = async () => {
+  // 获取已配置的群聊
+  const configuredGroups = syncedGroups.value.filter(g => g.is_configured)
+  
+  if (configuredGroups.length === 0) {
+    ElMessage.warning('暂无可用于同步的群聊，请先配置至少一个群聊的车型供应商绑定')
+    return
+  }
+  
+  // 执行全局智能同步（自动综合所有已配置群的绑定关系）
+  await executeGlobalSync()
+}
+
+// 智能同步结果弹窗
+const syncResultVisible = ref(false)
+const syncResultData = ref<any>(null)
+
+const executeGlobalSync = async () => {
+  // 显示黑洞加载动画
+  showBlackHoleLoading.value = true
+  globalSyncLoading.value = true
+  
+  try {
+    // 不传递 source_group_id，让后端自动综合所有已配置群的绑定关系
+    const result = await groupConfigApi.autoSync({})
+    
+    // 关闭黑洞动画
+    showBlackHoleLoading.value = false
+    
+    // 保存结果并显示弹窗
+    syncResultData.value = result
+    syncResultVisible.value = true
+    
+    // 刷新群聊列表
+    await loadSyncedGroups()
+  } catch (error: any) {
+    // 关闭黑洞动画
+    showBlackHoleLoading.value = false
+    
+    console.error('智能同步失败', error)
+    const errorMsg = error?.response?.data?.message || error?.message || '同步失败'
+    
+    // 特殊处理超时错误
+    if (errorMsg.includes('timeout') || errorMsg.includes('超时')) {
+      ElMessage.error('同步超时，可能是因为群聊数量过多。请稍后重试。')
+    } else {
+      ElMessage.error(`智能同步失败: ${errorMsg}`)
+    }
+  } finally {
+    globalSyncLoading.value = false
   }
 }
 
@@ -899,5 +1094,185 @@ onMounted(() => {
 .supplier-wxid {
   font-size: 12px;
   color: #909399;
+}
+
+/* 智能同步样式 */
+.sync-alert {
+  margin-bottom: 15px;
+}
+
+.sync-alert-title {
+  font-weight: 500;
+}
+
+.sync-alert-content {
+  margin-top: 5px;
+  font-size: 13px;
+}
+
+.sync-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  padding: 15px;
+  background: #f5f7fa;
+  border-radius: 8px;
+}
+
+.preview-summary,
+.result-summary {
+  margin-bottom: 15px;
+}
+
+/* 智能同步结果弹窗样式 */
+.sync-result-dialog :deep(.el-dialog__body) {
+  padding: 20px;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.sync-result-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.stats-card {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e6f7ff 100%);
+  border: 1px solid #b3d8ff;
+}
+
+.stats-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.stats-icon {
+  flex-shrink: 0;
+}
+
+.stats-title h3 {
+  margin: 0;
+  font-size: 20px;
+  color: #303133;
+}
+
+.stats-subtitle {
+  margin: 5px 0 0 0;
+  font-size: 14px;
+  color: #606266;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.stat-item {
+  text-align: center;
+  padding: 15px 10px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.stat-value {
+  font-size: 28px;
+  font-weight: 600;
+  color: #303133;
+  margin-bottom: 5px;
+}
+
+.stat-value.success {
+  color: #67c23a;
+}
+
+.stat-value.warning {
+  color: #e6a23c;
+}
+
+.stat-label {
+  font-size: 13px;
+  color: #909399;
+}
+
+.details-section {
+  margin-top: 10px;
+}
+
+.details-title {
+  margin: 0 0 15px 0;
+  font-size: 16px;
+  color: #303133;
+  font-weight: 500;
+}
+
+.details-scroll {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 5px;
+}
+
+.details-scroll :deep(.el-collapse) {
+  border: 1px solid #ebeef5;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.details-scroll :deep(.el-collapse-item__header) {
+  padding: 0 15px;
+  font-size: 14px;
+  font-weight: 500;
+  background: #f5f7fa;
+}
+
+.details-scroll :deep(.el-collapse-item__content) {
+  padding: 15px;
+}
+
+.skipped-section {
+  margin-top: 15px;
+}
+
+/* 跳过原因统计样式 */
+.skip-reasons-section {
+  margin-top: 15px;
+}
+
+.skip-reasons-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.skip-reason-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  background: #f5f7fa;
+  border-radius: 6px;
+}
+
+.skip-reason-count {
+  font-weight: 600;
+  color: #606266;
+  margin-left: 8px;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .skip-reasons-grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>

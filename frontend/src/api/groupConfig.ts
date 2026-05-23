@@ -99,5 +99,50 @@ export const groupConfigApi = {
       }
       return []
     })
+  },
+
+  // 一键智能同步供应商-车型绑定
+  autoSync(data: {
+    source_group_id: string
+    target_group_ids?: string[]
+  }) {
+    return http.post<{
+      success: boolean
+      source_group: string
+      source_group_name: string
+      total_target_groups: number
+      total_created: number
+      total_skipped: number
+      details: {
+        group_id: string
+        group_name: string
+        created: number
+        skipped: number
+        created_bindings: { car_model: string; supplier: string }[]
+        skipped_bindings: { car_model: string; supplier: string; reason: string }[]
+      }[]
+    }>('/v1/group-config/auto-sync', data, {
+      timeout: 0  // 无超时，等待后端完成
+    })
+  },
+
+  // 预览智能同步结果
+  previewAutoSync(data: {
+    source_group_id: string
+    target_group_ids?: string[]
+  }) {
+    return http.post<{
+      success: boolean
+      source_group: string
+      source_group_name: string
+      total_target_groups: number
+      preview_groups: number
+      total_would_create: number
+      details: {
+        group_id: string
+        group_name: string
+        would_create: number
+      }[]
+    }>('/v1/group-config/auto-sync-preview', data)
   }
 }

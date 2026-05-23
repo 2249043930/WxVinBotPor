@@ -201,9 +201,19 @@ class LLMClient:
         ]
 
         try:
+            # 构建正确的API URL
+            api_base = config['api_base'].rstrip('/')
+            # 如果api_base已经包含/chat/completions，则不再追加
+            if '/chat/completions' in api_base:
+                api_url = api_base
+            else:
+                api_url = f"{api_base}/chat/completions"
+            
+            logger.info(f"调用LLM API: {api_url}")
+            
             async with httpx.AsyncClient() as client:
                 response = await client.post(
-                    f"{config['api_base']}/chat/completions",
+                    api_url,
                     headers={
                         "Authorization": f"Bearer {config['api_key']}",
                         "Content-Type": "application/json"

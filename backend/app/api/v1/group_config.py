@@ -19,6 +19,102 @@ from loguru import logger
 router = APIRouter()
 
 
+@router.post("/auto-sync")
+async def auto_sync_supplier_bindings(
+    data: dict,
+    db: AsyncSession = Depends(get_db),
+    current_user = Depends(get_current_user)
+):
+    """一键智能同步供应商-车型绑定
+    
+    将源群的供应商-车型绑定自动同步到其他包含相同供应商的群聊。
+    如果不传 source_group_id，则自动综合所有已配置群的绑定关系进行同步。
+    """
+    try:
+        from app.services.auto_sync_service import AutoSyncService
+        
+        source_group_id = data.get("source_group_id")  # 可选，不传则综合所有已配置群
+        target_group_ids = data.get("target_group_ids")  # 可选，不传则同步所有群
+        
+        # 执行智能同步
+        sync_service = AutoSyncService(db)
+        result = await sync_service.sync_supplier_model_bindings(
+            source_group_id=source_group_id,
+            target_group_ids=target_group_ids
+        )
+        
+        return {
+            "code": 0,
+            "message": f"同步完成，共创建 {result['total_created']} 个绑定",
+            "data": result
+        }
+        
+    except ValueError as e:
+        return {
+            "code": 400,
+            "message": str(e),
+            "data": None
+        }
+    except Exception as e:
+        logger.error(f"智能同步失败: {e}")
+        return {
+            "code": 500,
+            "message": f"同步失败: {str(e)}",
+            "data": None
+        }
+
+
+@router.post("/auto-sync-preview")
+async def preview_auto_sync(
+    data: dict,
+    db: AsyncSession = Depends(get_db),
+    current_user = Depends(get_current_user)
+):
+    """预览智能同步结果
+    
+    不实际执行同步，只返回预览结果
+    """
+    try:
+        from app.services.auto_sync_service import AutoSyncService
+        
+        source_group_id = data.get("source_group_id")
+        target_group_ids = data.get("target_group_ids")
+        
+        if not source_group_id:
+            return {
+                "code": 400,
+                "message": "源群ID不能为空",
+                "data": None
+            }
+        
+        # 执行预览
+        sync_service = AutoSyncService(db)
+        result = await sync_service.preview_sync(
+            source_group_id=source_group_id,
+            target_group_ids=target_group_ids
+        )
+        
+        return {
+            "code": 0,
+            "message": f"预览完成，预计创建 {result['total_would_create']} 个绑定",
+            "data": result
+        }
+        
+    except ValueError as e:
+        return {
+            "code": 400,
+            "message": str(e),
+            "data": None
+        }
+    except Exception as e:
+        logger.error(f"预览同步失败: {e}")
+        return {
+            "code": 500,
+            "message": f"预览失败: {str(e)}",
+            "data": None
+        }
+
+
 @router.get("/groups")
 async def get_groups_for_config(
     db: AsyncSession = Depends(get_db),
